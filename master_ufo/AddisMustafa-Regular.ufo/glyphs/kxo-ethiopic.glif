@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kxo-ethiopic" format="2">
+  <advance width="521"/>
+  <unicode hex="12BE"/>
+  <anchor x="138" y="488" name="aGl"/>
+  <anchor x="0" y="606" name="eGl"/>
+  <anchor x="368" y="0" name="haa"/>
+  <anchor x="294" y="661" name="hat"/>
+  <anchor x="65" y="655" name="hat.left"/>
+  <anchor x="166" y="252" name="he"/>
+  <anchor x="274" y="485" name="he.acute"/>
+  <anchor x="395" y="-49" name="hee"/>
+  <anchor x="367" y="3" name="hi"/>
+  <anchor x="99" y="4" name="ho"/>
+  <anchor x="553" y="253" name="hu"/>
+  <anchor x="372" y="1" name="hwa"/>
+  <anchor x="106" y="488" name="ka"/>
+  <anchor x="287" y="483" name="neck"/>
+  <outline>
+    <component base="ba.base"/>
+    <component base="_smart.ho" xOffset="99" yOffset="4"/>
+    <component base="_smart.ka" xOffset="98"/>
+    <component base="_smart.hat.left" xOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat.left</key>
+      <integer>1</integer>
+      <key>_smart.ho</key>
+      <integer>1</integer>
+      <key>_smart.ka</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

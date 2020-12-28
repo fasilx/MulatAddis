@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ra-ethiopic" format="2">
+  <advance width="482"/>
+  <unicode hex="1228"/>
+  <anchor x="282" y="14" name="fa"/>
+  <anchor x="293" y="-25" name="haa"/>
+  <anchor x="471" y="291" name="haa.acute"/>
+  <anchor x="139" y="520" name="hat.left"/>
+  <anchor x="265" y="-26" name="he.acute"/>
+  <anchor x="295" y="-44" name="hee"/>
+  <anchor x="453" y="146" name="ri"/>
+  <outline>
+    <component base="ra.base"/>
+  </outline>
+</glyph>

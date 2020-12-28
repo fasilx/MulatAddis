@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mwa-ethiopic" format="2">
+  <advance width="885"/>
+  <unicode hex="121F"/>
+  <anchor x="726" y="-1" name="haa"/>
+  <anchor x="374" y="-7" name="haa.acute"/>
+  <anchor x="624" y="-48" name="hee"/>
+  <anchor x="724" y="1" name="hi"/>
+  <anchor x="387" y="-1" name="ho"/>
+  <anchor x="924" y="252" name="hu"/>
+  <anchor x="726" y="-2" name="hwa"/>
+  <outline>
+    <component base="ma.base"/>
+    <component base="_smart.hwa" xOffset="725" yOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hwa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

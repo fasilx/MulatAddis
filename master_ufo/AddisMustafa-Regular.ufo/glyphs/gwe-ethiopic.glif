@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gwe-ethiopic" format="2">
+  <advance width="446"/>
+  <unicode hex="1315"/>
+  <anchor x="324" y="1" name="gwa"/>
+  <anchor x="349" y="4" name="haa.acute"/>
+  <anchor x="226" y="659" name="hat"/>
+  <anchor x="174" y="251" name="he"/>
+  <anchor x="322" y="-31" name="hee"/>
+  <anchor x="282" y="0" name="hi"/>
+  <anchor x="148" y="231" name="ho.ring"/>
+  <anchor x="461" y="253" name="hu"/>
+  <anchor x="233" y="490" name="neck"/>
+  <outline>
+    <component base="ga.base"/>
+    <component base="_smart.gwa" xOffset="332" yOffset="-24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.gwa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

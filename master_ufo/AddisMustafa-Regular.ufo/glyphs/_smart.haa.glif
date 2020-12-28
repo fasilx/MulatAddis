@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.haa" format="2">
+  <anchor x="0" y="0" name="_haa"/>
+  <outline>
+    <contour>
+      <point x="-25" y="-210" type="line"/>
+      <point x="-12" y="-214"/>
+      <point x="2" y="-219"/>
+      <point x="26" y="-202" type="curve"/>
+      <point x="4" y="0" type="line"/>
+      <point x="-7" y="-1" type="line"/>
+      <point x="-28" y="-206" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="na-ethiopic" format="2">
+  <advance width="384"/>
+  <unicode hex="1290"/>
+  <anchor x="258" y="33" name="gwa"/>
+  <anchor x="286" y="3" name="haa.acute"/>
+  <anchor x="97" y="668" name="hat"/>
+  <anchor x="-22" y="527" name="he"/>
+  <anchor x="242" y="-25" name="hee"/>
+  <anchor x="210" y="0" name="hi"/>
+  <anchor x="395" y="256" name="hu"/>
+  <anchor x="-20" y="511" name="nose.ext"/>
+  <outline>
+    <component base="na.base"/>
+  </outline>
+</glyph>

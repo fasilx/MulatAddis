@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="re-ethiopic" format="2">
+  <advance width="450"/>
+  <unicode hex="122D"/>
+  <anchor x="275" y="69" name="fa"/>
+  <anchor x="368" y="2" name="haa"/>
+  <anchor x="212" y="585" name="hat"/>
+  <anchor x="119" y="250" name="he"/>
+  <anchor x="252" y="276" name="ho.ring"/>
+  <anchor x="352" y="-4" name="hwa"/>
+  <outline>
+    <component base="re.base"/>
+  </outline>
+</glyph>
