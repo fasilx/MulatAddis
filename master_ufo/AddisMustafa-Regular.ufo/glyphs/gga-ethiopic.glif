@@ -2,7 +2,7 @@
 <glyph name="gga-ethiopic" format="2">
   <advance width="446"/>
   <unicode hex="1318"/>
-  <anchor x="324" y="1" name="gwa"/>
+  <anchor x="334" y="31" name="gwa"/>
   <anchor x="349" y="4" name="haa.acute"/>
   <anchor x="226" y="659" name="hat"/>
   <anchor x="174" y="251" name="he"/>

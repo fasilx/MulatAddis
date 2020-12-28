@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xwa-ethiopic.etcp" format="2">
+  <advance width="668"/>
+  <anchor x="527" y="33" name="gwa"/>
+  <anchor x="505" y="3" name="haa.acute"/>
+  <anchor x="176" y="788" name="hat"/>
+  <anchor x="37" y="527" name="he"/>
+  <anchor x="461" y="-25" name="hee"/>
+  <anchor x="429" y="0" name="hi"/>
+  <anchor x="626" y="256" name="hu"/>
+  <anchor x="39" y="501" name="nose.ext"/>
+  <outline>
+    <component base="na.base.cap"/>
+    <component base="_smart.he" xOffset="36" yOffset="275"/>
+    <component base="_smart.gwa" xOffset="535" yOffset="8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.gwa</key>
+      <integer>1</integer>
+      <key>_smart.he</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

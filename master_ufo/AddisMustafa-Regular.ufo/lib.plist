@@ -23,44 +23,37 @@
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
     <array>
-      <string>/ha.base/hu-ethiopic</string>
-      <string>/ha.base r/hu-ethiopic</string>
-      <string>/la.base rxwmno/lo-ethiopic</string>
-      <string>o/la.base/lo-ethiopic</string>
-      <string>/la.base/lu-ethiopic</string>
-      <string>/hha.base/hhu-ethiopic</string>
-      <string>/ma.base/mu-ethiopic</string>
-      <string>/ba.base/su-ethiopic</string>
-      <string>/wa.base/qu-ethiopic</string>
-      <string>/aPh.base/uPharyngeal-ethiopic</string>
-      <string>/za.base/zaa-ethiopic</string>
-      <string>/_smart.zha/zhe-ethiopic</string>
-      <string>/ya.base/yu-ethiopic</string>
-      <string>/ya.base/yu-ethiopic</string>
-      <string>/ya.base/yu-ethiopic</string>
-      <string>/ya.base/yu-ethiopic</string>
-      <string>/ya.base/yu-ethiopic</string>
-      <string>/ya.base/yu-ethiopic</string>
-      <string>/ya.base/yu-ethiopic</string>
-      <string>/ya.base/yi-ethiopic</string>
+      <string>/wa.base.cap</string>
+      <string>/wa.base.cap/qa-ethiopic.etcp</string>
+      <string>/wa.base.cap/qu-ethiopic.etcp</string>
+      <string>/wa.base.cap/qhwaa-ethiopic.etcp</string>
+      <string>/na.base.cap/xa-ethiopic.etcp</string>
+      <string>/ma.base.cap/ma-ethiopic.etcp</string>
+      <string>/ma.base.cap/ma-ethiopic.etcp</string>
+      <string>/ma.base.cap/mu-ethiopic.etcp</string>
+      <string>/ma.base.cap/mi-ethiopic.etcp</string>
+      <string>/ma.base.cap/mee-ethiopic.etcp</string>
+      <string>/ma.base.cap/mwa-ethiopic.etcp</string>
+      <string>/ma.base.cap/me-ethiopic.etcp</string>
+      <string>/.notdef/.null/CR/space/controlNULL/controlBS/controlHT/controlGS !"#$%&amp;'()*+,-.//0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[/backslash ]^_`abcdefghijklmnopqrstuvwxyz{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü/dagger °¢£§/bullet ¶ß®©/trademark ´¨/notequal ÆØ/infinity ±/lessequal/greaterequal ¥µ/partialdiff/summation/product/pi/integral ªº/Omegagreek æø¿¡¬/radical/florin/approxequal/Delta «»/ellipsis/nonbreakingspace ÀÃÕ/OE/oe/endash/emdash/quotedblleft/quotedblright/quoteleft/quoteright ÷/lozenge/ydieresis/Ydieresis/fraction/Euro/guilsinglleft/guilsinglright/fi/fl/daggerdbl ·/quotesinglbase/quotedblbase/perthousand ÂÊÁËÈÍÎÏÌÓÔ/apple ÒÚÛÙ/dotlessi/circumflex/tilde ¯/breve/dotaccent/ring ¸/hungarumlaut/ogonek/caron/Lslash/lslash/Scaron/scaron Ýý/gid236 Þþ/gid239/Zcaron/zcaron ½¼¹¾³²¦×ð/gid251/gid252/gid253/gid254/featheredleftarrow ­/ffl/horizontalbar/ff/ffi/st/blackdiamond/featheredrightarrow/feathereddownarrow/ampersand.alt/feathereduparrow/Q.alt/ampersand.small/Omega ¤/gravecmb/acutecmb/circumflexcmb/tildecmb/macroncmb/brevecmb/dotaccentcmb/dieresiscmb/ringcmb/hungarumlautcmb/caroncmb/cedillacmb/ogonekcmb/soliduslongoverlaycmb Ð/ct/J.alt/emdash.alt/zero.oldstyle/one.oldstyle/two.oldstyle/three.oldstyle/four.oldstyle/five.oldstyle/six.oldstyle/seven.oldstyle/eight.oldstyle/nine.oldstyle/a.small/b.small/c.small/d.small/e.small/f.small/g.small/h.small/i.small/j.small/k.small/l.small/m.small/n.small/o.small/p.small/q.small/r.small/s.small/t.small/u.small/v.small/w.small/x.small/y.small/z.small/ha-ethiopic/hu-ethiopic/hi-ethiopic/haa-ethiopic/hee-ethiopic/he-ethiopic/ho-ethiopic/hoa-ethiopic/la-ethiopic/lu-ethiopic/li-ethiopic/laa-ethiopic/lee-ethiopic/le-ethiopic/lo-ethiopic/lwa-ethiopic/hha-ethiopic/hhu-ethiopic/hhi-ethiopic/hhaa-ethiopic/hhee-ethiopic/hhe-ethiopic/hho-ethiopic/hhwa-ethiopic/ma-ethiopic/mu-ethiopic/mi-ethiopic/maa-ethiopic/mee-ethiopic/me-ethiopic/mo-ethiopic/mwa-ethiopic/sza-ethiopic/szu-ethiopic/szi-ethiopic/szaa-ethiopic/szee-ethiopic/sze-ethiopic/szo-ethiopic/szwa-ethiopic/ra-ethiopic/ru-ethiopic/ri-ethiopic/raa-ethiopic/ree-ethiopic/re-ethiopic/ro-ethiopic/rwa-ethiopic/sa-ethiopic/su-ethiopic/si-ethiopic/saa-ethiopic/see-ethiopic/se-ethiopic/so-ethiopic/swa-ethiopic/sha-ethiopic/shu-ethiopic/shi-ethiopic/shaa-ethiopic/shee-ethiopic/she-ethiopic/sho-ethiopic/shwa-ethiopic/qa-ethiopic/qu-ethiopic/qi-ethiopic/qaa-ethiopic/qee-ethiopic/qe-ethiopic/qo-ethiopic/qoa-ethiopic/qwa-ethiopic/qwi-ethiopic/qwaa-ethiopic/qwee-ethiopic/qwe-ethiopic/qha-ethiopic/qhu-ethiopic/qhi-ethiopic/qhaa-ethiopic/qhee-ethiopic/qhe-ethiopic/qho-ethiopic/qhwa-ethiopic/qhwi-ethiopic/qhwaa-ethiopic/qhwee-ethiopic/qhwe-ethiopic/ba-ethiopic/bu-ethiopic/bi-ethiopic/baa-ethiopic/bee-ethiopic/be-ethiopic/bo-ethiopic/bwa-ethiopic/va-ethiopic/vu-ethiopic/vi-ethiopic/vaa-ethiopic/vee-ethiopic/ve-ethiopic/vo-ethiopic/vwa-ethiopic/ta-ethiopic/tu-ethiopic/ti-ethiopic/taa-ethiopic/tee-ethiopic/te-ethiopic/to-ethiopic/twa-ethiopic/ca-ethiopic/cu-ethiopic/ci-ethiopic/caa-ethiopic/cee-ethiopic/ce-ethiopic/co-ethiopic/cwa-ethiopic/xa-ethiopic/xu-ethiopic/xi-ethiopic/xaa-ethiopic/xee-ethiopic/xe-ethiopic/xo-ethiopic/xoa-ethiopic/xwa-ethiopic/xwi-ethiopic/xwaa-ethiopic/xwee-ethiopic/xwe-ethiopic/na-ethiopic/nu-ethiopic/ni-ethiopic/naa-ethiopic/nee-ethiopic/ne-ethiopic/no-ethiopic/nwa-ethiopic/nya-ethiopic/nyu-ethiopic/nyi-ethiopic/nyaa-ethiopic/nyee-ethiopic/nye-ethiopic/nyo-ethiopic/nywa-ethiopic/aGlottal-ethiopic/uGlottal-ethiopic/iGlottal-ethiopic/aaGlottal-ethiopic/eeGlottal-ethiopic/eGlottal-ethiopic/oGlottal-ethiopic/waGlottal-ethiopic/ka-ethiopic/ku-ethiopic/ki-ethiopic/kaa-ethiopic/kee-ethiopic/ke-ethiopic/ko-ethiopic/koa-ethiopic/kwa-ethiopic/kwi-ethiopic/kwaa-ethiopic/kwee-ethiopic/kwe-ethiopic/kxa-ethiopic/kxu-ethiopic/kxi-ethiopic/kxaa-ethiopic/kxee-ethiopic/kxe-ethiopic/kxo-ethiopic/kxwa-ethiopic/kxwi-ethiopic/kxwaa-ethiopic/kxwee-ethiopic/kxwe-ethiopic/wa-ethiopic/wu-ethiopic/wi-ethiopic/waa-ethiopic/wee-ethiopic/we-ethiopic/wo-ethiopic/woa-ethiopic/aPharyngeal-ethiopic/uPharyngeal-ethiopic/iPharyngeal-ethiopic/aaPharyngeal-ethiopic/eePharyngeal-ethiopic/ePharyngeal-ethiopic/oPharyngeal-ethiopic/za-ethiopic/zu-ethiopic/zi-ethiopic/zaa-ethiopic/zee-ethiopic/ze-ethiopic/zo-ethiopic/zwa-ethiopic/zha-ethiopic/zhu-ethiopic/zhi-ethiopic/zhaa-ethiopic/zhee-ethiopic/zhe-ethiopic/zho-ethiopic/zhwa-ethiopic/ya-ethiopic/yu-ethiopic/yi-ethiopic/yaa-ethiopic/yee-ethiopic/ye-ethiopic/yo-ethiopic/yoa-ethiopic/da-ethiopic/du-ethiopic/di-ethiopic/daa-ethiopic/dee-ethiopic/de-ethiopic/do-ethiopic/dwa-ethiopic/dda-ethiopic/ddu-ethiopic/ddi-ethiopic/ddaa-ethiopic/ddee-ethiopic/dde-ethiopic/ddo-ethiopic/ddwa-ethiopic/ja-ethiopic/ju-ethiopic/ji-ethiopic/jaa-ethiopic/jee-ethiopic/je-ethiopic/jo-ethiopic/jwa-ethiopic/ga-ethiopic/gu-ethiopic/gi-ethiopic/gaa-ethiopic/gee-ethiopic/ge-ethiopic/go-ethiopic/goa-ethiopic/gwa-ethiopic/gwi-ethiopic/gwaa-ethiopic/gwee-ethiopic/gwe-ethiopic/gga-ethiopic/ggu-ethiopic/ggi-ethiopic/ggaa-ethiopic/ggee-ethiopic/gge-ethiopic/ggo-ethiopic/ggwaa-ethiopic/tha-ethiopic/thu-ethiopic/thi-ethiopic/thaa-ethiopic/thee-ethiopic/the-ethiopic/tho-ethiopic/thwa-ethiopic/cha-ethiopic/chu-ethiopic/chi-ethiopic/chaa-ethiopic/chee-ethiopic/che-ethiopic/cho-ethiopic/chwa-ethiopic/pha-ethiopic/phu-ethiopic/phi-ethiopic/phaa-ethiopic/phee-ethiopic/phe-ethiopic/pho-ethiopic/phwa-ethiopic/tsa-ethiopic/tsu-ethiopic/tsi-ethiopic/tsaa-ethiopic/tsee-ethiopic/tse-ethiopic/tso-ethiopic/tswa-ethiopic/tza-ethiopic/tzu-ethiopic/tzi-ethiopic/tzaa-ethiopic/tzee-ethiopic/tze-ethiopic/tzo-ethiopic/tzoa-ethiopic/fa-ethiopic/fu-ethiopic/fi-ethiopic/faa-ethiopic/fee-ethiopic/fe-ethiopic/fo-ethiopic/fwa-ethiopic/pa-ethiopic/pu-ethiopic/pi-ethiopic/paa-ethiopic/pee-ethiopic/pe-ethiopic/po-ethiopic/pwa-ethiopic/rya-ethiopic/ha-ethiopic.etcp/hu-ethiopic.etcp/hi-ethiopic.etcp/haa-ethiopic.etcp/hee-ethiopic.etcp/he-ethiopic.etcp/ho-ethiopic.etcp/hoa-ethiopic.etcp/la-ethiopic.etcp/lu-ethiopic.etcp/li-ethiopic.etcp/laa-ethiopic.etcp/lee-ethiopic.etcp/le-ethiopic.etcp/lo-ethiopic.etcp/lwa-ethiopic.etcp/hha-ethiopic.etcp/hhu-ethiopic.etcp/hhi-ethiopic.etcp/hhaa-ethiopic.etcp/hhee-ethiopic.etcp/hhe-ethiopic.etcp/hho-ethiopic.etcp/hhwa-ethiopic.etcp/ma-ethiopic.etcp/mu-ethiopic.etcp/mi-ethiopic.etcp/maa-ethiopic.etcp/mee-ethiopic.etcp/me-ethiopic.etcp/mo-ethiopic.etcp/mwa-ethiopic.etcp/sza-ethiopic.etcp/szu-ethiopic.etcp/szi-ethiopic.etcp/szaa-ethiopic.etcp/szee-ethiopic.etcp/sze-ethiopic.etcp/szo-ethiopic.etcp/szwa-ethiopic.etcp/ra-ethiopic.etcp/ru-ethiopic.etcp/ri-ethiopic.etcp/raa-ethiopic.etcp/ree-ethiopic.etcp/re-ethiopic.etcp/ro-ethiopic.etcp/rwa-ethiopic.etcp/sa-ethiopic.etcp/su-ethiopic.etcp/si-ethiopic.etcp/saa-ethiopic.etcp/see-ethiopic.etcp/se-ethiopic.etcp/so-ethiopic.etcp/swa-ethiopic.etcp/sha-ethiopic.etcp/shu-ethiopic.etcp/shi-ethiopic.etcp/shaa-ethiopic.etcp/shee-ethiopic.etcp/she-ethiopic.etcp/sho-ethiopic.etcp/shwa-ethiopic.etcp/qa-ethiopic.etcp/qu-ethiopic.etcp/qi-ethiopic.etcp/qaa-ethiopic.etcp/qee-ethiopic.etcp/qe-ethiopic.etcp/qo-ethiopic.etcp/qoa-ethiopic.etcp/qwa-ethiopic.etcp/qwi-ethiopic.etcp/qwaa-ethiopic.etcp/qwee-ethiopic.etcp/qwe-ethiopic.etcp/qha-ethiopic.etcp/qhu-ethiopic.etcp/qhi-ethiopic.etcp/qhaa-ethiopic.etcp/qhee-ethiopic.etcp/qhe-ethiopic.etcp/qho-ethiopic.etcp/qhwa-ethiopic.etcp/qhwi-ethiopic.etcp/qhwaa-ethiopic.etcp/qhwee-ethiopic.etcp/qhwe-ethiopic.etcp/ba-ethiopic.etcp/bu-ethiopic.etcp/bi-ethiopic.etcp/baa-ethiopic.etcp/bee-ethiopic.etcp/be-ethiopic.etcp/bo-ethiopic.etcp/bwa-ethiopic.etcp/va-ethiopic.etcp/vu-ethiopic.etcp/vi-ethiopic.etcp/vaa-ethiopic.etcp/vee-ethiopic.etcp/ve-ethiopic.etcp/vo-ethiopic.etcp/vwa-ethiopic.etcp/ta-ethiopic.etcp/tu-ethiopic.etcp/ti-ethiopic.etcp/taa-ethiopic.etcp/tee-ethiopic.etcp/te-ethiopic.etcp/to-ethiopic.etcp/twa-ethiopic.etcp/ca-ethiopic.etcp/cu-ethiopic.etcp/ci-ethiopic.etcp/caa-ethiopic.etcp/cee-ethiopic.etcp/ce-ethiopic.etcp/co-ethiopic.etcp/cwa-ethiopic.etcp/xa-ethiopic.etcp/xu-ethiopic.etcp/xi-ethiopic.etcp/xaa-ethiopic.etcp/xee-ethiopic.etcp/xe-ethiopic.etcp/xo-ethiopic.etcp/xoa-ethiopic.etcp/xwa-ethiopic.etcp/xwi-ethiopic.etcp/xwaa-ethiopic.etcp/xwee-ethiopic.etcp/xwe-ethiopic.etcp/na-ethiopic.etcp/nu-ethiopic.etcp/ni-ethiopic.etcp/naa-ethiopic.etcp/nee-ethiopic.etcp/ne-ethiopic.etcp/no-ethiopic.etcp/nwa-ethiopic.etcp/nya-ethiopic.etcp/nyu-ethiopic.etcp/nyi-ethiopic.etcp/nyaa-ethiopic.etcp/nyee-ethiopic.etcp/nye-ethiopic.etcp/nyo-ethiopic.etcp/nywa-ethiopic.etcp/aGlottal-ethiopic.etcp/uGlottal-ethiopic.etcp/iGlottal-ethiopic.etcp/aaGlottal-ethiopic.etcp/eeGlottal-ethiopic.etcp/eGlottal-ethiopic.etcp/oGlottal-ethiopic.etcp/waGlottal-ethiopic.etcp/ka-ethiopic.etcp/ku-ethiopic.etcp/ki-ethiopic.etcp/kaa-ethiopic.etcp/kee-ethiopic.etcp/ke-ethiopic.etcp/ko-ethiopic.etcp/koa-ethiopic.etcp/kwa-ethiopic.etcp/kwi-ethiopic.etcp/kwaa-ethiopic.etcp/kwee-ethiopic.etcp/kwe-ethiopic.etcp/kxa-ethiopic.etcp/kxu-ethiopic.etcp/kxi-ethiopic.etcp/kxaa-ethiopic.etcp/kxee-ethiopic.etcp/kxe-ethiopic.etcp/kxo-ethiopic.etcp/kxwa-ethiopic.etcp/kxwi-ethiopic.etcp/kxwaa-ethiopic.etcp/kxwee-ethiopic.etcp/kxwe-ethiopic.etcp/wa-ethiopic.etcp/wu-ethiopic.etcp/wi-ethiopic.etcp/waa-ethiopic.etcp/wee-ethiopic.etcp/we-ethiopic.etcp/wo-ethiopic.etcp/woa-ethiopic.etcp/aPharyngeal-ethiopic.etcp/uPharyngeal-ethiopic.etcp/iPharyngeal-ethiopic.etcp/aaPharyngeal-ethiopic.etcp/eePharyngeal-ethiopic.etcp/ePharyngeal-ethiopic.etcp/oPharyngeal-ethiopic.etcp/za-ethiopic.etcp/zu-ethiopic.etcp/zi-ethiopic.etcp/zaa-ethiopic.etcp/zee-ethiopic.etcp/ze-ethiopic.etcp/zo-ethiopic.etcp/zwa-ethiopic.etcp/zha-ethiopic.etcp/zhu-ethiopic.etcp/zhi-ethiopic.etcp/zhaa-ethiopic.etcp/zhee-ethiopic.etcp/zhe-ethiopic.etcp/zho-ethiopic.etcp/zhwa-ethiopic.etcp/ya-ethiopic.etcp/yu-ethiopic.etcp/yi-ethiopic.etcp/yaa-ethiopic.etcp/yee-ethiopic.etcp/ye-ethiopic.etcp/yo-ethiopic.etcp/yoa-ethiopic.etcp/da-ethiopic.etcp/du-ethiopic.etcp/di-ethiopic.etcp/daa-ethiopic.etcp/dee-ethiopic.etcp/de-ethiopic.etcp/do-ethiopic.etcp/dwa-ethiopic.etcp/dda-ethiopic.etcp/ddu-ethiopic.etcp/ddi-ethiopic.etcp/ddaa-ethiopic.etcp/ddee-ethiopic.etcp/dde-ethiopic.etcp/ddo-ethiopic.etcp/ddwa-ethiopic.etcp/ja-ethiopic.etcp/ju-ethiopic.etcp/ji-ethiopic.etcp/jaa-ethiopic.etcp/jee-ethiopic.etcp/je-ethiopic.etcp/jo-ethiopic.etcp/jwa-ethiopic.etcp/ga-ethiopic.etcp/gu-ethiopic.etcp/gi-ethiopic.etcp/gaa-ethiopic.etcp/gee-ethiopic.etcp/ge-ethiopic.etcp/go-ethiopic.etcp/goa-ethiopic.etcp/gwa-ethiopic.etcp/gwi-ethiopic.etcp/gwaa-ethiopic.etcp/gwee-ethiopic.etcp/gwe-ethiopic.etcp/gga-ethiopic.etcp/ggu-ethiopic.etcp/ggi-ethiopic.etcp/ggaa-ethiopic.etcp/ggee-ethiopic.etcp/gge-ethiopic.etcp/ggo-ethiopic.etcp/ggwaa-ethiopic.etcp/tha-ethiopic.etcp/thu-ethiopic.etcp/thi-ethiopic.etcp/thaa-ethiopic.etcp/thee-ethiopic.etcp/the-ethiopic.etcp/tho-ethiopic.etcp/thwa-ethiopic.etcp/cha-ethiopic.etcp/chu-ethiopic.etcp/chi-ethiopic.etcp/chaa-ethiopic.etcp/chee-ethiopic.etcp/che-ethiopic.etcp/cho-ethiopic.etcp/chwa-ethiopic.etcp/pha-ethiopic.etcp/phu-ethiopic.etcp/phi-ethiopic.etcp/phaa-ethiopic.etcp/phee-ethiopic.etcp/phe-ethiopic.etcp/pho-ethiopic.etcp/phwa-ethiopic.etcp/tsa-ethiopic.etcp/tsu-ethiopic.etcp/tsi-ethiopic.etcp/tsaa-ethiopic.etcp/tsee-ethiopic.etcp/tse-ethiopic.etcp/tso-ethiopic.etcp/tswa-ethiopic.etcp/tza-ethiopic.etcp/tzu-ethiopic.etcp/tzi-ethiopic.etcp/tzaa-ethiopic.etcp/tzee-ethiopic.etcp/tze-ethiopic.etcp/tzo-ethiopic.etcp/tzoa-ethiopic.etcp/fa-ethiopic.etcp/fu-ethiopic.etcp/fi-ethiopic.etcp/faa-ethiopic.etcp/fee-ethiopic.etcp/fe-ethiopic.etcp/fo-ethiopic.etcp/fwa-ethiopic.etcp/pa-ethiopic.etcp/pu-ethiopic.etcp/pi-ethiopic.etcp/paa-ethiopic.etcp/pee-ethiopic.etcp/pe-ethiopic.etcp/po-ethiopic.etcp/pwa-ethiopic.etcp/rya-ethiopic.etcp/one-ethiopic/two-ethiopic/three-ethiopic/four-ethiopic/five-ethiopic/six-ethiopic/seven-ethiopic/eight-ethiopic/nine-ethiopic/ten-ethiopic/twenty-ethiopic/thirty-ethiopic/forty-ethiopic/fifty-ethiopic/sixty-ethiopic/seventy-ethiopic/eighty-ethiopic/ninety-ethiopic/hundred-ethiopic/tenthousand-ethiopic/foursuperior/colon-ethiopic/comma-ethiopic/paragraphseparator-ethiopic/period-ethiopic/prefacecolon-ethiopic/question-ethiopic/sectionmark-ethiopic/semicolon-ethiopic/wordspace-ethiopic/chiret-ethiopic/deret-ethiopic/deretHidet-ethiopic/difat-ethiopic/hidet-ethiopic/kenat-ethiopic/kurt-ethiopic/rikrik-ethiopic/shortRikrik-ethiopic/yizet-ethiopic/divisionslash/minus/geminVowellengthcomb-ethiopic/geminationcomb-ethiopic/vowellengthcomb-ethiopic/acute.001/_smart.cha/aPh.base/aglka.base/ba.base/da.base/ga.base/ha.base/hha.base/la.base/ma.base/na.base/pa.base/ra.base/re.base/sa.base/ta.base/tsa.base/wa.base/ya.base/za.base/aGl.base.cap/aPh.base.cap/ba.base.cap/da.base.cap/ga.base.cap/ha.base.cap/hha.base.cap/la.base.cap/ma.base.cap/na.base.cap/pa.base.cap/ra.base.cap/re.base.cap/sa.base.cap/ta.base.cap/tsa.base.cap/wa.base.cap/ya.base.cap/za.base.cap/_number.bars/_smart.aGl/_smart.belt/_smart.eGl/_smart.fa/_smart.gwa/_smart.haa/_smart.hat/_smart.he/_smart.hee/_smart.hi/_smart.ho/_smart.hu/_smart.hwa/_smart.ka/_smart.neck/_smart.ra/_smart.ri/_smart.ye/_smart.yu/_smart.zha/_smart.haa.acute/_smart.hat.left/_smart.he.acute/_smart.ho.ring/_smart.le.ring/_smart.nose.ext/_smart.hat.left.aGl/_smart.hha.neck.cap</string>
+      <string>/ma.base.cap/ma-ethiopic.etcp</string>
+      <string>/ma.base.cap/ma-ethiopic.etcp</string>
+      <string>/ma.base.cap/mu-ethiopic.etcp</string>
+      <string>/ma.base.cap/maa-ethiopic.etcp</string>
       <string>/ya.base/yaa-ethiopic</string>
-      <string>/ya.base/yee-ethiopic</string>
+      <string>/_smart.yaa</string>
+      <string>/ya.base/yaa-ethiopic</string>
+      <string>/ya.base/yaa-ethiopic</string>
       <string>/ya.base/yu-ethiopic</string>
       <string>/_smart.yu/yu-ethiopic</string>
-      <string>/ya.base/yu-ethiopic</string>
-      <string>/_smart.ye/ye-ethiopic</string>
+      <string>/ya.base/yi-ethiopic</string>
+      <string>/ya.base/yee-ethiopic</string>
       <string>/ya.base/ye-ethiopic</string>
-      <string>/_smart.fa/fi-ethiopic</string>
-      <string>/_smart.fa/fa-ethiopic</string>
-      <string>/aPh.base/tzu-ethiopic</string>
-      <string>/ra.base/fu-ethiopic</string>
-      <string>/fu-ethiopic</string>
-      <string>/pa.base/paa-ethiopic</string>
-      <string>6</string>
-      <string>/.notdef</string>
-      <string>"</string>
-      <string>#</string>
-      <string>$</string>
+      <string>/ye-ethiopic/ye-ethiopic.etcp</string>
+      <string>/ye-ethiopic/ye-ethiopic.etcp</string>
+      <string>/ye-ethiopic.etcp/_smart.ri/ye-ethiopic</string>
+      <string>/ye-ethiopic.etcp/_smart.ye/ye-ethiopic</string>
+      <string>/da.base.cap/du-ethiopic.etcp</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
@@ -1086,108 +1079,190 @@
       <string>uni03A9</string>
       <key>aGlottal-ethiopic</key>
       <string>uni12A0</string>
+      <key>aGlottal-ethiopic.etcp</key>
+      <string>uni12A0.etcp</string>
       <key>aPharyngeal-ethiopic</key>
       <string>uni12D0</string>
+      <key>aPharyngeal-ethiopic.etcp</key>
+      <string>uni12D0.etcp</string>
       <key>aaGlottal-ethiopic</key>
       <string>uni12A3</string>
+      <key>aaGlottal-ethiopic.etcp</key>
+      <string>uni12A3.etcp</string>
       <key>aaPharyngeal-ethiopic</key>
       <string>uni12D3</string>
+      <key>aaPharyngeal-ethiopic.etcp</key>
+      <string>uni12D3.etcp</string>
       <key>apple</key>
       <string>uniF8FF</string>
       <key>ba-ethiopic</key>
       <string>uni1260</string>
+      <key>ba-ethiopic.etcp</key>
+      <string>uni1260.etcp</string>
       <key>baa-ethiopic</key>
       <string>uni1263</string>
+      <key>baa-ethiopic.etcp</key>
+      <string>uni1263.etcp</string>
       <key>be-ethiopic</key>
       <string>uni1265</string>
+      <key>be-ethiopic.etcp</key>
+      <string>uni1265.etcp</string>
       <key>bee-ethiopic</key>
       <string>uni1264</string>
+      <key>bee-ethiopic.etcp</key>
+      <string>uni1264.etcp</string>
       <key>bi-ethiopic</key>
       <string>uni1262</string>
+      <key>bi-ethiopic.etcp</key>
+      <string>uni1262.etcp</string>
       <key>blackdiamond</key>
       <string>uni25C6</string>
       <key>bo-ethiopic</key>
       <string>uni1266</string>
+      <key>bo-ethiopic.etcp</key>
+      <string>uni1266.etcp</string>
       <key>brevecmb</key>
       <string>uni0306</string>
       <key>bu-ethiopic</key>
       <string>uni1261</string>
+      <key>bu-ethiopic.etcp</key>
+      <string>uni1261.etcp</string>
       <key>bwa-ethiopic</key>
       <string>uni1267</string>
+      <key>bwa-ethiopic.etcp</key>
+      <string>uni1267.etcp</string>
       <key>ca-ethiopic</key>
       <string>uni1278</string>
+      <key>ca-ethiopic.etcp</key>
+      <string>uni1278.etcp</string>
       <key>caa-ethiopic</key>
       <string>uni127B</string>
+      <key>caa-ethiopic.etcp</key>
+      <string>uni127B.etcp</string>
       <key>caroncmb</key>
       <string>uni030C</string>
       <key>ce-ethiopic</key>
       <string>uni127D</string>
+      <key>ce-ethiopic.etcp</key>
+      <string>uni127D.etcp</string>
       <key>cedillacmb</key>
       <string>uni0327</string>
       <key>cee-ethiopic</key>
       <string>uni127C</string>
+      <key>cee-ethiopic.etcp</key>
+      <string>uni127C.etcp</string>
       <key>cha-ethiopic</key>
       <string>uni1328</string>
+      <key>cha-ethiopic.etcp</key>
+      <string>uni1328.etcp</string>
       <key>chaa-ethiopic</key>
       <string>uni132B</string>
+      <key>chaa-ethiopic.etcp</key>
+      <string>uni132B.etcp</string>
       <key>che-ethiopic</key>
       <string>uni132D</string>
+      <key>che-ethiopic.etcp</key>
+      <string>uni132D.etcp</string>
       <key>chee-ethiopic</key>
       <string>uni132C</string>
+      <key>chee-ethiopic.etcp</key>
+      <string>uni132C.etcp</string>
       <key>chi-ethiopic</key>
       <string>uni132A</string>
+      <key>chi-ethiopic.etcp</key>
+      <string>uni132A.etcp</string>
       <key>chiret-ethiopic</key>
       <string>uni1396</string>
       <key>cho-ethiopic</key>
       <string>uni132E</string>
+      <key>cho-ethiopic.etcp</key>
+      <string>uni132E.etcp</string>
       <key>chu-ethiopic</key>
       <string>uni1329</string>
+      <key>chu-ethiopic.etcp</key>
+      <string>uni1329.etcp</string>
       <key>chwa-ethiopic</key>
       <string>uni132F</string>
+      <key>chwa-ethiopic.etcp</key>
+      <string>uni132F.etcp</string>
       <key>ci-ethiopic</key>
       <string>uni127A</string>
+      <key>ci-ethiopic.etcp</key>
+      <string>uni127A.etcp</string>
       <key>circumflexcmb</key>
       <string>uni0302</string>
       <key>co-ethiopic</key>
       <string>uni127E</string>
+      <key>co-ethiopic.etcp</key>
+      <string>uni127E.etcp</string>
       <key>colon-ethiopic</key>
       <string>uni1365</string>
       <key>comma-ethiopic</key>
       <string>uni1363</string>
       <key>cu-ethiopic</key>
       <string>uni1279</string>
+      <key>cu-ethiopic.etcp</key>
+      <string>uni1279.etcp</string>
       <key>cwa-ethiopic</key>
       <string>uni127F</string>
+      <key>cwa-ethiopic.etcp</key>
+      <string>uni127F.etcp</string>
       <key>da-ethiopic</key>
       <string>uni12F0</string>
+      <key>da-ethiopic.etcp</key>
+      <string>uni12F0.etcp</string>
       <key>daa-ethiopic</key>
       <string>uni12F3</string>
+      <key>daa-ethiopic.etcp</key>
+      <string>uni12F3.etcp</string>
       <key>dda-ethiopic</key>
       <string>uni12F8</string>
+      <key>dda-ethiopic.etcp</key>
+      <string>uni12F8.etcp</string>
       <key>ddaa-ethiopic</key>
       <string>uni12FB</string>
+      <key>ddaa-ethiopic.etcp</key>
+      <string>uni12FB.etcp</string>
       <key>dde-ethiopic</key>
       <string>uni12FD</string>
+      <key>dde-ethiopic.etcp</key>
+      <string>uni12FD.etcp</string>
       <key>ddee-ethiopic</key>
       <string>uni12FC</string>
+      <key>ddee-ethiopic.etcp</key>
+      <string>uni12FC.etcp</string>
       <key>ddi-ethiopic</key>
       <string>uni12FA</string>
+      <key>ddi-ethiopic.etcp</key>
+      <string>uni12FA.etcp</string>
       <key>ddo-ethiopic</key>
       <string>uni12FE</string>
+      <key>ddo-ethiopic.etcp</key>
+      <string>uni12FE.etcp</string>
       <key>ddu-ethiopic</key>
       <string>uni12F9</string>
+      <key>ddu-ethiopic.etcp</key>
+      <string>uni12F9.etcp</string>
       <key>ddwa-ethiopic</key>
       <string>uni12FF</string>
+      <key>ddwa-ethiopic.etcp</key>
+      <string>uni12FF.etcp</string>
       <key>de-ethiopic</key>
       <string>uni12F5</string>
+      <key>de-ethiopic.etcp</key>
+      <string>uni12F5.etcp</string>
       <key>dee-ethiopic</key>
       <string>uni12F4</string>
+      <key>dee-ethiopic.etcp</key>
+      <string>uni12F4.etcp</string>
       <key>deret-ethiopic</key>
       <string>uni1391</string>
       <key>deretHidet-ethiopic</key>
       <string>uni1398</string>
       <key>di-ethiopic</key>
       <string>uni12F2</string>
+      <key>di-ethiopic.etcp</key>
+      <string>uni12F2.etcp</string>
       <key>dieresiscmb</key>
       <string>uni0308</string>
       <key>difat-ethiopic</key>
@@ -1196,40 +1271,66 @@
       <string>uni2215</string>
       <key>do-ethiopic</key>
       <string>uni12F6</string>
+      <key>do-ethiopic.etcp</key>
+      <string>uni12F6.etcp</string>
       <key>dotaccentcmb</key>
       <string>uni0307</string>
       <key>du-ethiopic</key>
       <string>uni12F1</string>
+      <key>du-ethiopic.etcp</key>
+      <string>uni12F1.etcp</string>
       <key>dwa-ethiopic</key>
       <string>uni12F7</string>
+      <key>dwa-ethiopic.etcp</key>
+      <string>uni12F7.etcp</string>
       <key>eGlottal-ethiopic</key>
       <string>uni12A5</string>
+      <key>eGlottal-ethiopic.etcp</key>
+      <string>uni12A5.etcp</string>
       <key>ePharyngeal-ethiopic</key>
       <string>uni12D5</string>
+      <key>ePharyngeal-ethiopic.etcp</key>
+      <string>uni12D5.etcp</string>
       <key>eeGlottal-ethiopic</key>
       <string>uni12A4</string>
+      <key>eeGlottal-ethiopic.etcp</key>
+      <string>uni12A4.etcp</string>
       <key>eePharyngeal-ethiopic</key>
       <string>uni12D4</string>
+      <key>eePharyngeal-ethiopic.etcp</key>
+      <string>uni12D4.etcp</string>
       <key>eight-ethiopic</key>
       <string>uni1370</string>
       <key>eighty-ethiopic</key>
       <string>uni1379</string>
       <key>fa-ethiopic</key>
       <string>uni1348</string>
+      <key>fa-ethiopic.etcp</key>
+      <string>uni1348.etcp</string>
       <key>faa-ethiopic</key>
       <string>uni134B</string>
+      <key>faa-ethiopic.etcp</key>
+      <string>uni134B.etcp</string>
       <key>fe-ethiopic</key>
       <string>uni134D</string>
+      <key>fe-ethiopic.etcp</key>
+      <string>uni134D.etcp</string>
       <key>fee-ethiopic</key>
       <string>uni134C</string>
+      <key>fee-ethiopic.etcp</key>
+      <string>uni134C.etcp</string>
       <key>fi-ethiopic</key>
       <string>uni134A</string>
+      <key>fi-ethiopic.etcp</key>
+      <string>uni134A.etcp</string>
       <key>fifty-ethiopic</key>
       <string>uni1376</string>
       <key>five-ethiopic</key>
       <string>uni136D</string>
       <key>fo-ethiopic</key>
       <string>uni134E</string>
+      <key>fo-ethiopic.etcp</key>
+      <string>uni134E.etcp</string>
       <key>forty-ethiopic</key>
       <string>uni1375</string>
       <key>four-ethiopic</key>
@@ -1238,246 +1339,462 @@
       <string>uni2074</string>
       <key>fu-ethiopic</key>
       <string>uni1349</string>
+      <key>fu-ethiopic.etcp</key>
+      <string>uni1349.etcp</string>
       <key>fwa-ethiopic</key>
       <string>uni134F</string>
+      <key>fwa-ethiopic.etcp</key>
+      <string>uni134F.etcp</string>
       <key>ga-ethiopic</key>
       <string>uni1308</string>
+      <key>ga-ethiopic.etcp</key>
+      <string>uni1308.etcp</string>
       <key>gaa-ethiopic</key>
       <string>uni130B</string>
+      <key>gaa-ethiopic.etcp</key>
+      <string>uni130B.etcp</string>
       <key>ge-ethiopic</key>
       <string>uni130D</string>
+      <key>ge-ethiopic.etcp</key>
+      <string>uni130D.etcp</string>
       <key>gee-ethiopic</key>
       <string>uni130C</string>
+      <key>gee-ethiopic.etcp</key>
+      <string>uni130C.etcp</string>
       <key>geminVowellengthcomb-ethiopic</key>
       <string>uni135D</string>
       <key>geminationcomb-ethiopic</key>
       <string>uni135F</string>
       <key>gga-ethiopic</key>
       <string>uni1318</string>
+      <key>gga-ethiopic.etcp</key>
+      <string>uni1318.etcp</string>
       <key>ggaa-ethiopic</key>
       <string>uni131B</string>
+      <key>ggaa-ethiopic.etcp</key>
+      <string>uni131B.etcp</string>
       <key>gge-ethiopic</key>
       <string>uni131D</string>
+      <key>gge-ethiopic.etcp</key>
+      <string>uni131D.etcp</string>
       <key>ggee-ethiopic</key>
       <string>uni131C</string>
+      <key>ggee-ethiopic.etcp</key>
+      <string>uni131C.etcp</string>
       <key>ggi-ethiopic</key>
       <string>uni131A</string>
+      <key>ggi-ethiopic.etcp</key>
+      <string>uni131A.etcp</string>
       <key>ggo-ethiopic</key>
       <string>uni131E</string>
+      <key>ggo-ethiopic.etcp</key>
+      <string>uni131E.etcp</string>
       <key>ggu-ethiopic</key>
       <string>uni1319</string>
+      <key>ggu-ethiopic.etcp</key>
+      <string>uni1319.etcp</string>
       <key>ggwaa-ethiopic</key>
       <string>uni131F</string>
+      <key>ggwaa-ethiopic.etcp</key>
+      <string>uni131F.etcp</string>
       <key>gi-ethiopic</key>
       <string>uni130A</string>
+      <key>gi-ethiopic.etcp</key>
+      <string>uni130A.etcp</string>
       <key>go-ethiopic</key>
       <string>uni130E</string>
+      <key>go-ethiopic.etcp</key>
+      <string>uni130E.etcp</string>
       <key>goa-ethiopic</key>
       <string>uni130F</string>
+      <key>goa-ethiopic.etcp</key>
+      <string>uni130F.etcp</string>
       <key>gu-ethiopic</key>
       <string>uni1309</string>
+      <key>gu-ethiopic.etcp</key>
+      <string>uni1309.etcp</string>
       <key>gwa-ethiopic</key>
       <string>uni1310</string>
+      <key>gwa-ethiopic.etcp</key>
+      <string>uni1310.etcp</string>
       <key>gwaa-ethiopic</key>
       <string>uni1313</string>
+      <key>gwaa-ethiopic.etcp</key>
+      <string>uni1313.etcp</string>
       <key>gwe-ethiopic</key>
       <string>uni1315</string>
+      <key>gwe-ethiopic.etcp</key>
+      <string>uni1315.etcp</string>
       <key>gwee-ethiopic</key>
       <string>uni1314</string>
+      <key>gwee-ethiopic.etcp</key>
+      <string>uni1314.etcp</string>
       <key>gwi-ethiopic</key>
       <string>uni1312</string>
+      <key>gwi-ethiopic.etcp</key>
+      <string>uni1312.etcp</string>
       <key>ha-ethiopic</key>
       <string>uni1200</string>
+      <key>ha-ethiopic.etcp</key>
+      <string>uni1200.etcp</string>
       <key>haa-ethiopic</key>
       <string>uni1203</string>
+      <key>haa-ethiopic.etcp</key>
+      <string>uni1203.etcp</string>
       <key>he-ethiopic</key>
       <string>uni1205</string>
+      <key>he-ethiopic.etcp</key>
+      <string>uni1205.etcp</string>
       <key>hee-ethiopic</key>
       <string>uni1204</string>
+      <key>hee-ethiopic.etcp</key>
+      <string>uni1204.etcp</string>
       <key>hha-ethiopic</key>
       <string>uni1210</string>
+      <key>hha-ethiopic.etcp</key>
+      <string>uni1210.etcp</string>
       <key>hhaa-ethiopic</key>
       <string>uni1213</string>
+      <key>hhaa-ethiopic.etcp</key>
+      <string>uni1213.etcp</string>
       <key>hhe-ethiopic</key>
       <string>uni1215</string>
+      <key>hhe-ethiopic.etcp</key>
+      <string>uni1215.etcp</string>
       <key>hhee-ethiopic</key>
       <string>uni1214</string>
+      <key>hhee-ethiopic.etcp</key>
+      <string>uni1214.etcp</string>
       <key>hhi-ethiopic</key>
       <string>uni1212</string>
+      <key>hhi-ethiopic.etcp</key>
+      <string>uni1212.etcp</string>
       <key>hho-ethiopic</key>
       <string>uni1216</string>
+      <key>hho-ethiopic.etcp</key>
+      <string>uni1216.etcp</string>
       <key>hhu-ethiopic</key>
       <string>uni1211</string>
+      <key>hhu-ethiopic.etcp</key>
+      <string>uni1211.etcp</string>
       <key>hhwa-ethiopic</key>
       <string>uni1217</string>
+      <key>hhwa-ethiopic.etcp</key>
+      <string>uni1217.etcp</string>
       <key>hi-ethiopic</key>
       <string>uni1202</string>
+      <key>hi-ethiopic.etcp</key>
+      <string>uni1202.etcp</string>
       <key>hidet-ethiopic</key>
       <string>uni1397</string>
       <key>ho-ethiopic</key>
       <string>uni1206</string>
+      <key>ho-ethiopic.etcp</key>
+      <string>uni1206.etcp</string>
       <key>hoa-ethiopic</key>
       <string>uni1207</string>
+      <key>hoa-ethiopic.etcp</key>
+      <string>uni1207.etcp</string>
       <key>horizontalbar</key>
       <string>uni2015</string>
       <key>hu-ethiopic</key>
       <string>uni1201</string>
+      <key>hu-ethiopic.etcp</key>
+      <string>uni1201.etcp</string>
       <key>hundred-ethiopic</key>
       <string>uni137B</string>
       <key>hungarumlautcmb</key>
       <string>uni030B</string>
       <key>iGlottal-ethiopic</key>
       <string>uni12A2</string>
+      <key>iGlottal-ethiopic.etcp</key>
+      <string>uni12A2.etcp</string>
       <key>iPharyngeal-ethiopic</key>
       <string>uni12D2</string>
+      <key>iPharyngeal-ethiopic.etcp</key>
+      <string>uni12D2.etcp</string>
       <key>ja-ethiopic</key>
       <string>uni1300</string>
+      <key>ja-ethiopic.etcp</key>
+      <string>uni1300.etcp</string>
       <key>jaa-ethiopic</key>
       <string>uni1303</string>
+      <key>jaa-ethiopic.etcp</key>
+      <string>uni1303.etcp</string>
       <key>je-ethiopic</key>
       <string>uni1305</string>
+      <key>je-ethiopic.etcp</key>
+      <string>uni1305.etcp</string>
       <key>jee-ethiopic</key>
       <string>uni1304</string>
+      <key>jee-ethiopic.etcp</key>
+      <string>uni1304.etcp</string>
       <key>ji-ethiopic</key>
       <string>uni1302</string>
+      <key>ji-ethiopic.etcp</key>
+      <string>uni1302.etcp</string>
       <key>jo-ethiopic</key>
       <string>uni1306</string>
+      <key>jo-ethiopic.etcp</key>
+      <string>uni1306.etcp</string>
       <key>ju-ethiopic</key>
       <string>uni1301</string>
+      <key>ju-ethiopic.etcp</key>
+      <string>uni1301.etcp</string>
       <key>jwa-ethiopic</key>
       <string>uni1307</string>
+      <key>jwa-ethiopic.etcp</key>
+      <string>uni1307.etcp</string>
       <key>ka-ethiopic</key>
       <string>uni12A8</string>
+      <key>ka-ethiopic.etcp</key>
+      <string>uni12A8.etcp</string>
       <key>kaa-ethiopic</key>
       <string>uni12AB</string>
+      <key>kaa-ethiopic.etcp</key>
+      <string>uni12AB.etcp</string>
       <key>ke-ethiopic</key>
       <string>uni12AD</string>
+      <key>ke-ethiopic.etcp</key>
+      <string>uni12AD.etcp</string>
       <key>kee-ethiopic</key>
       <string>uni12AC</string>
+      <key>kee-ethiopic.etcp</key>
+      <string>uni12AC.etcp</string>
       <key>kenat-ethiopic</key>
       <string>uni1395</string>
       <key>ki-ethiopic</key>
       <string>uni12AA</string>
+      <key>ki-ethiopic.etcp</key>
+      <string>uni12AA.etcp</string>
       <key>ko-ethiopic</key>
       <string>uni12AE</string>
+      <key>ko-ethiopic.etcp</key>
+      <string>uni12AE.etcp</string>
       <key>koa-ethiopic</key>
       <string>uni12AF</string>
+      <key>koa-ethiopic.etcp</key>
+      <string>uni12AF.etcp</string>
       <key>ku-ethiopic</key>
       <string>uni12A9</string>
+      <key>ku-ethiopic.etcp</key>
+      <string>uni12A9.etcp</string>
       <key>kurt-ethiopic</key>
       <string>uni1399</string>
       <key>kwa-ethiopic</key>
       <string>uni12B0</string>
+      <key>kwa-ethiopic.etcp</key>
+      <string>uni12B0.etcp</string>
       <key>kwaa-ethiopic</key>
       <string>uni12B3</string>
+      <key>kwaa-ethiopic.etcp</key>
+      <string>uni12B3.etcp</string>
       <key>kwe-ethiopic</key>
       <string>uni12B5</string>
+      <key>kwe-ethiopic.etcp</key>
+      <string>uni12B5.etcp</string>
       <key>kwee-ethiopic</key>
       <string>uni12B4</string>
+      <key>kwee-ethiopic.etcp</key>
+      <string>uni12B4.etcp</string>
       <key>kwi-ethiopic</key>
       <string>uni12B2</string>
+      <key>kwi-ethiopic.etcp</key>
+      <string>uni12B2.etcp</string>
       <key>kxa-ethiopic</key>
       <string>uni12B8</string>
+      <key>kxa-ethiopic.etcp</key>
+      <string>uni12B8.etcp</string>
       <key>kxaa-ethiopic</key>
       <string>uni12BB</string>
+      <key>kxaa-ethiopic.etcp</key>
+      <string>uni12BB.etcp</string>
       <key>kxe-ethiopic</key>
       <string>uni12BD</string>
+      <key>kxe-ethiopic.etcp</key>
+      <string>uni12BD.etcp</string>
       <key>kxee-ethiopic</key>
       <string>uni12BC</string>
+      <key>kxee-ethiopic.etcp</key>
+      <string>uni12BC.etcp</string>
       <key>kxi-ethiopic</key>
       <string>uni12BA</string>
+      <key>kxi-ethiopic.etcp</key>
+      <string>uni12BA.etcp</string>
       <key>kxo-ethiopic</key>
       <string>uni12BE</string>
+      <key>kxo-ethiopic.etcp</key>
+      <string>uni12BE.etcp</string>
       <key>kxu-ethiopic</key>
       <string>uni12B9</string>
+      <key>kxu-ethiopic.etcp</key>
+      <string>uni12B9.etcp</string>
       <key>kxwa-ethiopic</key>
       <string>uni12C0</string>
+      <key>kxwa-ethiopic.etcp</key>
+      <string>uni12C0.etcp</string>
       <key>kxwaa-ethiopic</key>
       <string>uni12C3</string>
+      <key>kxwaa-ethiopic.etcp</key>
+      <string>uni12C3.etcp</string>
       <key>kxwe-ethiopic</key>
       <string>uni12C5</string>
+      <key>kxwe-ethiopic.etcp</key>
+      <string>uni12C5.etcp</string>
       <key>kxwee-ethiopic</key>
       <string>uni12C4</string>
+      <key>kxwee-ethiopic.etcp</key>
+      <string>uni12C4.etcp</string>
       <key>kxwi-ethiopic</key>
       <string>uni12C2</string>
+      <key>kxwi-ethiopic.etcp</key>
+      <string>uni12C2.etcp</string>
       <key>la-ethiopic</key>
       <string>uni1208</string>
+      <key>la-ethiopic.etcp</key>
+      <string>uni1208.etcp</string>
       <key>laa-ethiopic</key>
       <string>uni120B</string>
+      <key>laa-ethiopic.etcp</key>
+      <string>uni120B.etcp</string>
       <key>le-ethiopic</key>
       <string>uni120D</string>
+      <key>le-ethiopic.etcp</key>
+      <string>uni120D.etcp</string>
       <key>lee-ethiopic</key>
       <string>uni120C</string>
+      <key>lee-ethiopic.etcp</key>
+      <string>uni120C.etcp</string>
       <key>li-ethiopic</key>
       <string>uni120A</string>
+      <key>li-ethiopic.etcp</key>
+      <string>uni120A.etcp</string>
       <key>lo-ethiopic</key>
       <string>uni120E</string>
+      <key>lo-ethiopic.etcp</key>
+      <string>uni120E.etcp</string>
       <key>lu-ethiopic</key>
       <string>uni1209</string>
+      <key>lu-ethiopic.etcp</key>
+      <string>uni1209.etcp</string>
       <key>lwa-ethiopic</key>
       <string>uni120F</string>
+      <key>lwa-ethiopic.etcp</key>
+      <string>uni120F.etcp</string>
       <key>ma-ethiopic</key>
       <string>uni1218</string>
+      <key>ma-ethiopic.etcp</key>
+      <string>uni1218.etcp</string>
       <key>maa-ethiopic</key>
       <string>uni121B</string>
+      <key>maa-ethiopic.etcp</key>
+      <string>uni121B.etcp</string>
       <key>macroncmb</key>
       <string>uni0304</string>
       <key>me-ethiopic</key>
       <string>uni121D</string>
+      <key>me-ethiopic.etcp</key>
+      <string>uni121D.etcp</string>
       <key>mee-ethiopic</key>
       <string>uni121C</string>
+      <key>mee-ethiopic.etcp</key>
+      <string>uni121C.etcp</string>
       <key>mi-ethiopic</key>
       <string>uni121A</string>
+      <key>mi-ethiopic.etcp</key>
+      <string>uni121A.etcp</string>
       <key>mo-ethiopic</key>
       <string>uni121E</string>
+      <key>mo-ethiopic.etcp</key>
+      <string>uni121E.etcp</string>
       <key>mu</key>
       <string>uni03BC</string>
       <key>mu-ethiopic</key>
       <string>uni1219</string>
+      <key>mu-ethiopic.etcp</key>
+      <string>uni1219.etcp</string>
       <key>mwa-ethiopic</key>
       <string>uni121F</string>
+      <key>mwa-ethiopic.etcp</key>
+      <string>uni121F.etcp</string>
       <key>na-ethiopic</key>
       <string>uni1290</string>
+      <key>na-ethiopic.etcp</key>
+      <string>uni1290.etcp</string>
       <key>naa-ethiopic</key>
       <string>uni1293</string>
+      <key>naa-ethiopic.etcp</key>
+      <string>uni1293.etcp</string>
       <key>ne-ethiopic</key>
       <string>uni1295</string>
+      <key>ne-ethiopic.etcp</key>
+      <string>uni1295.etcp</string>
       <key>nee-ethiopic</key>
       <string>uni1294</string>
+      <key>nee-ethiopic.etcp</key>
+      <string>uni1294.etcp</string>
       <key>ni-ethiopic</key>
       <string>uni1292</string>
+      <key>ni-ethiopic.etcp</key>
+      <string>uni1292.etcp</string>
       <key>nine-ethiopic</key>
       <string>uni1371</string>
       <key>ninety-ethiopic</key>
       <string>uni137A</string>
       <key>no-ethiopic</key>
       <string>uni1296</string>
+      <key>no-ethiopic.etcp</key>
+      <string>uni1296.etcp</string>
       <key>nonbreakingspace</key>
       <string>uni00A0</string>
       <key>nu-ethiopic</key>
       <string>uni1291</string>
+      <key>nu-ethiopic.etcp</key>
+      <string>uni1291.etcp</string>
       <key>nwa-ethiopic</key>
       <string>uni1297</string>
+      <key>nwa-ethiopic.etcp</key>
+      <string>uni1297.etcp</string>
       <key>nya-ethiopic</key>
       <string>uni1298</string>
+      <key>nya-ethiopic.etcp</key>
+      <string>uni1298.etcp</string>
       <key>nyaa-ethiopic</key>
       <string>uni129B</string>
+      <key>nyaa-ethiopic.etcp</key>
+      <string>uni129B.etcp</string>
       <key>nye-ethiopic</key>
       <string>uni129D</string>
+      <key>nye-ethiopic.etcp</key>
+      <string>uni129D.etcp</string>
       <key>nyee-ethiopic</key>
       <string>uni129C</string>
+      <key>nyee-ethiopic.etcp</key>
+      <string>uni129C.etcp</string>
       <key>nyi-ethiopic</key>
       <string>uni129A</string>
+      <key>nyi-ethiopic.etcp</key>
+      <string>uni129A.etcp</string>
       <key>nyo-ethiopic</key>
       <string>uni129E</string>
+      <key>nyo-ethiopic.etcp</key>
+      <string>uni129E.etcp</string>
       <key>nyu-ethiopic</key>
       <string>uni1299</string>
+      <key>nyu-ethiopic.etcp</key>
+      <string>uni1299.etcp</string>
       <key>nywa-ethiopic</key>
       <string>uni129F</string>
+      <key>nywa-ethiopic.etcp</key>
+      <string>uni129F.etcp</string>
       <key>oGlottal-ethiopic</key>
       <string>uni12A6</string>
+      <key>oGlottal-ethiopic.etcp</key>
+      <string>uni12A6.etcp</string>
       <key>oPharyngeal-ethiopic</key>
       <string>uni12D6</string>
+      <key>oPharyngeal-ethiopic.etcp</key>
+      <string>uni12D6.etcp</string>
       <key>ogonekcmb</key>
       <string>uni0328</string>
       <key>one-ethiopic</key>
@@ -1486,126 +1803,234 @@
       <string>uni00B9</string>
       <key>pa-ethiopic</key>
       <string>uni1350</string>
+      <key>pa-ethiopic.etcp</key>
+      <string>uni1350.etcp</string>
       <key>paa-ethiopic</key>
       <string>uni1353</string>
+      <key>paa-ethiopic.etcp</key>
+      <string>uni1353.etcp</string>
       <key>paragraphseparator-ethiopic</key>
       <string>uni1368</string>
       <key>pe-ethiopic</key>
       <string>uni1355</string>
+      <key>pe-ethiopic.etcp</key>
+      <string>uni1355.etcp</string>
       <key>pee-ethiopic</key>
       <string>uni1354</string>
+      <key>pee-ethiopic.etcp</key>
+      <string>uni1354.etcp</string>
       <key>period-ethiopic</key>
       <string>uni1362</string>
       <key>pha-ethiopic</key>
       <string>uni1330</string>
+      <key>pha-ethiopic.etcp</key>
+      <string>uni1330.etcp</string>
       <key>phaa-ethiopic</key>
       <string>uni1333</string>
+      <key>phaa-ethiopic.etcp</key>
+      <string>uni1333.etcp</string>
       <key>phe-ethiopic</key>
       <string>uni1335</string>
+      <key>phe-ethiopic.etcp</key>
+      <string>uni1335.etcp</string>
       <key>phee-ethiopic</key>
       <string>uni1334</string>
+      <key>phee-ethiopic.etcp</key>
+      <string>uni1334.etcp</string>
       <key>phi-ethiopic</key>
       <string>uni1332</string>
+      <key>phi-ethiopic.etcp</key>
+      <string>uni1332.etcp</string>
       <key>pho-ethiopic</key>
       <string>uni1336</string>
+      <key>pho-ethiopic.etcp</key>
+      <string>uni1336.etcp</string>
       <key>phu-ethiopic</key>
       <string>uni1331</string>
+      <key>phu-ethiopic.etcp</key>
+      <string>uni1331.etcp</string>
       <key>phwa-ethiopic</key>
       <string>uni1337</string>
+      <key>phwa-ethiopic.etcp</key>
+      <string>uni1337.etcp</string>
       <key>pi-ethiopic</key>
       <string>uni1352</string>
+      <key>pi-ethiopic.etcp</key>
+      <string>uni1352.etcp</string>
       <key>po-ethiopic</key>
       <string>uni1356</string>
+      <key>po-ethiopic.etcp</key>
+      <string>uni1356.etcp</string>
       <key>prefacecolon-ethiopic</key>
       <string>uni1366</string>
       <key>pu-ethiopic</key>
       <string>uni1351</string>
+      <key>pu-ethiopic.etcp</key>
+      <string>uni1351.etcp</string>
       <key>pwa-ethiopic</key>
       <string>uni1357</string>
+      <key>pwa-ethiopic.etcp</key>
+      <string>uni1357.etcp</string>
       <key>qa-ethiopic</key>
       <string>uni1240</string>
+      <key>qa-ethiopic.etcp</key>
+      <string>uni1240.etcp</string>
       <key>qaa-ethiopic</key>
       <string>uni1243</string>
+      <key>qaa-ethiopic.etcp</key>
+      <string>uni1243.etcp</string>
       <key>qe-ethiopic</key>
       <string>uni1245</string>
+      <key>qe-ethiopic.etcp</key>
+      <string>uni1245.etcp</string>
       <key>qee-ethiopic</key>
       <string>uni1244</string>
+      <key>qee-ethiopic.etcp</key>
+      <string>uni1244.etcp</string>
       <key>qha-ethiopic</key>
       <string>uni1250</string>
+      <key>qha-ethiopic.etcp</key>
+      <string>uni1250.etcp</string>
       <key>qhaa-ethiopic</key>
       <string>uni1253</string>
+      <key>qhaa-ethiopic.etcp</key>
+      <string>uni1253.etcp</string>
       <key>qhe-ethiopic</key>
       <string>uni1255</string>
+      <key>qhe-ethiopic.etcp</key>
+      <string>uni1255.etcp</string>
       <key>qhee-ethiopic</key>
       <string>uni1254</string>
+      <key>qhee-ethiopic.etcp</key>
+      <string>uni1254.etcp</string>
       <key>qhi-ethiopic</key>
       <string>uni1252</string>
+      <key>qhi-ethiopic.etcp</key>
+      <string>uni1252.etcp</string>
       <key>qho-ethiopic</key>
       <string>uni1256</string>
+      <key>qho-ethiopic.etcp</key>
+      <string>uni1256.etcp</string>
       <key>qhu-ethiopic</key>
       <string>uni1251</string>
+      <key>qhu-ethiopic.etcp</key>
+      <string>uni1251.etcp</string>
       <key>qhwa-ethiopic</key>
       <string>uni1258</string>
+      <key>qhwa-ethiopic.etcp</key>
+      <string>uni1258.etcp</string>
       <key>qhwaa-ethiopic</key>
       <string>uni125B</string>
+      <key>qhwaa-ethiopic.etcp</key>
+      <string>uni125B.etcp</string>
       <key>qhwe-ethiopic</key>
       <string>uni125D</string>
+      <key>qhwe-ethiopic.etcp</key>
+      <string>uni125D.etcp</string>
       <key>qhwee-ethiopic</key>
       <string>uni125C</string>
+      <key>qhwee-ethiopic.etcp</key>
+      <string>uni125C.etcp</string>
       <key>qhwi-ethiopic</key>
       <string>uni125A</string>
+      <key>qhwi-ethiopic.etcp</key>
+      <string>uni125A.etcp</string>
       <key>qi-ethiopic</key>
       <string>uni1242</string>
+      <key>qi-ethiopic.etcp</key>
+      <string>uni1242.etcp</string>
       <key>qo-ethiopic</key>
       <string>uni1246</string>
+      <key>qo-ethiopic.etcp</key>
+      <string>uni1246.etcp</string>
       <key>qoa-ethiopic</key>
       <string>uni1247</string>
+      <key>qoa-ethiopic.etcp</key>
+      <string>uni1247.etcp</string>
       <key>qu-ethiopic</key>
       <string>uni1241</string>
+      <key>qu-ethiopic.etcp</key>
+      <string>uni1241.etcp</string>
       <key>question-ethiopic</key>
       <string>uni1367</string>
       <key>qwa-ethiopic</key>
       <string>uni1248</string>
+      <key>qwa-ethiopic.etcp</key>
+      <string>uni1248.etcp</string>
       <key>qwaa-ethiopic</key>
       <string>uni124B</string>
+      <key>qwaa-ethiopic.etcp</key>
+      <string>uni124B.etcp</string>
       <key>qwe-ethiopic</key>
       <string>uni124D</string>
+      <key>qwe-ethiopic.etcp</key>
+      <string>uni124D.etcp</string>
       <key>qwee-ethiopic</key>
       <string>uni124C</string>
+      <key>qwee-ethiopic.etcp</key>
+      <string>uni124C.etcp</string>
       <key>qwi-ethiopic</key>
       <string>uni124A</string>
+      <key>qwi-ethiopic.etcp</key>
+      <string>uni124A.etcp</string>
       <key>ra-ethiopic</key>
       <string>uni1228</string>
+      <key>ra-ethiopic.etcp</key>
+      <string>uni1228.etcp</string>
       <key>raa-ethiopic</key>
       <string>uni122B</string>
+      <key>raa-ethiopic.etcp</key>
+      <string>uni122B.etcp</string>
       <key>re-ethiopic</key>
       <string>uni122D</string>
+      <key>re-ethiopic.etcp</key>
+      <string>uni122D.etcp</string>
       <key>ree-ethiopic</key>
       <string>uni122C</string>
+      <key>ree-ethiopic.etcp</key>
+      <string>uni122C.etcp</string>
       <key>ri-ethiopic</key>
       <string>uni122A</string>
+      <key>ri-ethiopic.etcp</key>
+      <string>uni122A.etcp</string>
       <key>rikrik-ethiopic</key>
       <string>uni1392</string>
       <key>ringcmb</key>
       <string>uni030A</string>
       <key>ro-ethiopic</key>
       <string>uni122E</string>
+      <key>ro-ethiopic.etcp</key>
+      <string>uni122E.etcp</string>
       <key>ru-ethiopic</key>
       <string>uni1229</string>
+      <key>ru-ethiopic.etcp</key>
+      <string>uni1229.etcp</string>
       <key>rwa-ethiopic</key>
       <string>uni122F</string>
+      <key>rwa-ethiopic.etcp</key>
+      <string>uni122F.etcp</string>
       <key>rya-ethiopic</key>
       <string>uni1358</string>
+      <key>rya-ethiopic.etcp</key>
+      <string>uni1358.etcp</string>
       <key>sa-ethiopic</key>
       <string>uni1230</string>
+      <key>sa-ethiopic.etcp</key>
+      <string>uni1230.etcp</string>
       <key>saa-ethiopic</key>
       <string>uni1233</string>
+      <key>saa-ethiopic.etcp</key>
+      <string>uni1233.etcp</string>
       <key>se-ethiopic</key>
       <string>uni1235</string>
+      <key>se-ethiopic.etcp</key>
+      <string>uni1235.etcp</string>
       <key>sectionmark-ethiopic</key>
       <string>uni1360</string>
       <key>see-ethiopic</key>
       <string>uni1234</string>
+      <key>see-ethiopic.etcp</key>
+      <string>uni1234.etcp</string>
       <key>semicolon-ethiopic</key>
       <string>uni1364</string>
       <key>seven-ethiopic</key>
@@ -1614,112 +2039,200 @@
       <string>uni1378</string>
       <key>sha-ethiopic</key>
       <string>uni1238</string>
+      <key>sha-ethiopic.etcp</key>
+      <string>uni1238.etcp</string>
       <key>shaa-ethiopic</key>
       <string>uni123B</string>
+      <key>shaa-ethiopic.etcp</key>
+      <string>uni123B.etcp</string>
       <key>she-ethiopic</key>
       <string>uni123D</string>
+      <key>she-ethiopic.etcp</key>
+      <string>uni123D.etcp</string>
       <key>shee-ethiopic</key>
       <string>uni123C</string>
+      <key>shee-ethiopic.etcp</key>
+      <string>uni123C.etcp</string>
       <key>shi-ethiopic</key>
       <string>uni123A</string>
+      <key>shi-ethiopic.etcp</key>
+      <string>uni123A.etcp</string>
       <key>sho-ethiopic</key>
       <string>uni123E</string>
+      <key>sho-ethiopic.etcp</key>
+      <string>uni123E.etcp</string>
       <key>shortRikrik-ethiopic</key>
       <string>uni1393</string>
       <key>shu-ethiopic</key>
       <string>uni1239</string>
+      <key>shu-ethiopic.etcp</key>
+      <string>uni1239.etcp</string>
       <key>shwa-ethiopic</key>
       <string>uni123F</string>
+      <key>shwa-ethiopic.etcp</key>
+      <string>uni123F.etcp</string>
       <key>si-ethiopic</key>
       <string>uni1232</string>
+      <key>si-ethiopic.etcp</key>
+      <string>uni1232.etcp</string>
       <key>six-ethiopic</key>
       <string>uni136E</string>
       <key>sixty-ethiopic</key>
       <string>uni1377</string>
       <key>so-ethiopic</key>
       <string>uni1236</string>
+      <key>so-ethiopic.etcp</key>
+      <string>uni1236.etcp</string>
       <key>softhyphen</key>
       <string>uni00AD</string>
       <key>soliduslongoverlaycmb</key>
       <string>uni0338</string>
       <key>su-ethiopic</key>
       <string>uni1231</string>
+      <key>su-ethiopic.etcp</key>
+      <string>uni1231.etcp</string>
       <key>swa-ethiopic</key>
       <string>uni1237</string>
+      <key>swa-ethiopic.etcp</key>
+      <string>uni1237.etcp</string>
       <key>sza-ethiopic</key>
       <string>uni1220</string>
+      <key>sza-ethiopic.etcp</key>
+      <string>uni1220.etcp</string>
       <key>szaa-ethiopic</key>
       <string>uni1223</string>
+      <key>szaa-ethiopic.etcp</key>
+      <string>uni1223.etcp</string>
       <key>sze-ethiopic</key>
       <string>uni1225</string>
+      <key>sze-ethiopic.etcp</key>
+      <string>uni1225.etcp</string>
       <key>szee-ethiopic</key>
       <string>uni1224</string>
+      <key>szee-ethiopic.etcp</key>
+      <string>uni1224.etcp</string>
       <key>szi-ethiopic</key>
       <string>uni1222</string>
+      <key>szi-ethiopic.etcp</key>
+      <string>uni1222.etcp</string>
       <key>szo-ethiopic</key>
       <string>uni1226</string>
+      <key>szo-ethiopic.etcp</key>
+      <string>uni1226.etcp</string>
       <key>szu-ethiopic</key>
       <string>uni1221</string>
+      <key>szu-ethiopic.etcp</key>
+      <string>uni1221.etcp</string>
       <key>szwa-ethiopic</key>
       <string>uni1227</string>
+      <key>szwa-ethiopic.etcp</key>
+      <string>uni1227.etcp</string>
       <key>ta-ethiopic</key>
       <string>uni1270</string>
+      <key>ta-ethiopic.etcp</key>
+      <string>uni1270.etcp</string>
       <key>taa-ethiopic</key>
       <string>uni1273</string>
+      <key>taa-ethiopic.etcp</key>
+      <string>uni1273.etcp</string>
       <key>te-ethiopic</key>
       <string>uni1275</string>
+      <key>te-ethiopic.etcp</key>
+      <string>uni1275.etcp</string>
       <key>tee-ethiopic</key>
       <string>uni1274</string>
+      <key>tee-ethiopic.etcp</key>
+      <string>uni1274.etcp</string>
       <key>ten-ethiopic</key>
       <string>uni1372</string>
       <key>tenthousand-ethiopic</key>
       <string>uni137C</string>
       <key>tha-ethiopic</key>
       <string>uni1320</string>
+      <key>tha-ethiopic.etcp</key>
+      <string>uni1320.etcp</string>
       <key>thaa-ethiopic</key>
       <string>uni1323</string>
+      <key>thaa-ethiopic.etcp</key>
+      <string>uni1323.etcp</string>
       <key>the-ethiopic</key>
       <string>uni1325</string>
+      <key>the-ethiopic.etcp</key>
+      <string>uni1325.etcp</string>
       <key>thee-ethiopic</key>
       <string>uni1324</string>
+      <key>thee-ethiopic.etcp</key>
+      <string>uni1324.etcp</string>
       <key>thi-ethiopic</key>
       <string>uni1322</string>
+      <key>thi-ethiopic.etcp</key>
+      <string>uni1322.etcp</string>
       <key>thirty-ethiopic</key>
       <string>uni1374</string>
       <key>tho-ethiopic</key>
       <string>uni1326</string>
+      <key>tho-ethiopic.etcp</key>
+      <string>uni1326.etcp</string>
       <key>three-ethiopic</key>
       <string>uni136B</string>
       <key>threesuperior</key>
       <string>uni00B3</string>
       <key>thu-ethiopic</key>
       <string>uni1321</string>
+      <key>thu-ethiopic.etcp</key>
+      <string>uni1321.etcp</string>
       <key>thwa-ethiopic</key>
       <string>uni1327</string>
+      <key>thwa-ethiopic.etcp</key>
+      <string>uni1327.etcp</string>
       <key>ti-ethiopic</key>
       <string>uni1272</string>
+      <key>ti-ethiopic.etcp</key>
+      <string>uni1272.etcp</string>
       <key>to-ethiopic</key>
       <string>uni1276</string>
+      <key>to-ethiopic.etcp</key>
+      <string>uni1276.etcp</string>
       <key>tsa-ethiopic</key>
       <string>uni1338</string>
+      <key>tsa-ethiopic.etcp</key>
+      <string>uni1338.etcp</string>
       <key>tsaa-ethiopic</key>
       <string>uni133B</string>
+      <key>tsaa-ethiopic.etcp</key>
+      <string>uni133B.etcp</string>
       <key>tse-ethiopic</key>
       <string>uni133D</string>
+      <key>tse-ethiopic.etcp</key>
+      <string>uni133D.etcp</string>
       <key>tsee-ethiopic</key>
       <string>uni133C</string>
+      <key>tsee-ethiopic.etcp</key>
+      <string>uni133C.etcp</string>
       <key>tsi-ethiopic</key>
       <string>uni133A</string>
+      <key>tsi-ethiopic.etcp</key>
+      <string>uni133A.etcp</string>
       <key>tso-ethiopic</key>
       <string>uni133E</string>
+      <key>tso-ethiopic.etcp</key>
+      <string>uni133E.etcp</string>
       <key>tsu-ethiopic</key>
       <string>uni1339</string>
+      <key>tsu-ethiopic.etcp</key>
+      <string>uni1339.etcp</string>
       <key>tswa-ethiopic</key>
       <string>uni133F</string>
+      <key>tswa-ethiopic.etcp</key>
+      <string>uni133F.etcp</string>
       <key>tu-ethiopic</key>
       <string>uni1271</string>
+      <key>tu-ethiopic.etcp</key>
+      <string>uni1271.etcp</string>
       <key>twa-ethiopic</key>
       <string>uni1277</string>
+      <key>twa-ethiopic.etcp</key>
+      <string>uni1277.etcp</string>
       <key>twenty-ethiopic</key>
       <string>uni1373</string>
       <key>two-ethiopic</key>
@@ -1728,138 +2241,266 @@
       <string>uni00B2</string>
       <key>tza-ethiopic</key>
       <string>uni1340</string>
+      <key>tza-ethiopic.etcp</key>
+      <string>uni1340.etcp</string>
       <key>tzaa-ethiopic</key>
       <string>uni1343</string>
+      <key>tzaa-ethiopic.etcp</key>
+      <string>uni1343.etcp</string>
       <key>tze-ethiopic</key>
       <string>uni1345</string>
+      <key>tze-ethiopic.etcp</key>
+      <string>uni1345.etcp</string>
       <key>tzee-ethiopic</key>
       <string>uni1344</string>
+      <key>tzee-ethiopic.etcp</key>
+      <string>uni1344.etcp</string>
       <key>tzi-ethiopic</key>
       <string>uni1342</string>
+      <key>tzi-ethiopic.etcp</key>
+      <string>uni1342.etcp</string>
       <key>tzo-ethiopic</key>
       <string>uni1346</string>
+      <key>tzo-ethiopic.etcp</key>
+      <string>uni1346.etcp</string>
       <key>tzoa-ethiopic</key>
       <string>uni1347</string>
+      <key>tzoa-ethiopic.etcp</key>
+      <string>uni1347.etcp</string>
       <key>tzu-ethiopic</key>
       <string>uni1341</string>
+      <key>tzu-ethiopic.etcp</key>
+      <string>uni1341.etcp</string>
       <key>uGlottal-ethiopic</key>
       <string>uni12A1</string>
+      <key>uGlottal-ethiopic.etcp</key>
+      <string>uni12A1.etcp</string>
       <key>uPharyngeal-ethiopic</key>
       <string>uni12D1</string>
+      <key>uPharyngeal-ethiopic.etcp</key>
+      <string>uni12D1.etcp</string>
       <key>va-ethiopic</key>
       <string>uni1268</string>
+      <key>va-ethiopic.etcp</key>
+      <string>uni1268.etcp</string>
       <key>vaa-ethiopic</key>
       <string>uni126B</string>
+      <key>vaa-ethiopic.etcp</key>
+      <string>uni126B.etcp</string>
       <key>ve-ethiopic</key>
       <string>uni126D</string>
+      <key>ve-ethiopic.etcp</key>
+      <string>uni126D.etcp</string>
       <key>vee-ethiopic</key>
       <string>uni126C</string>
+      <key>vee-ethiopic.etcp</key>
+      <string>uni126C.etcp</string>
       <key>vi-ethiopic</key>
       <string>uni126A</string>
+      <key>vi-ethiopic.etcp</key>
+      <string>uni126A.etcp</string>
       <key>vo-ethiopic</key>
       <string>uni126E</string>
+      <key>vo-ethiopic.etcp</key>
+      <string>uni126E.etcp</string>
       <key>vowellengthcomb-ethiopic</key>
       <string>uni135E</string>
       <key>vu-ethiopic</key>
       <string>uni1269</string>
+      <key>vu-ethiopic.etcp</key>
+      <string>uni1269.etcp</string>
       <key>vwa-ethiopic</key>
       <string>uni126F</string>
+      <key>vwa-ethiopic.etcp</key>
+      <string>uni126F.etcp</string>
       <key>wa-ethiopic</key>
       <string>uni12C8</string>
+      <key>wa-ethiopic.etcp</key>
+      <string>uni12C8.etcp</string>
       <key>waGlottal-ethiopic</key>
       <string>uni12A7</string>
+      <key>waGlottal-ethiopic.etcp</key>
+      <string>uni12A7.etcp</string>
       <key>waa-ethiopic</key>
       <string>uni12CB</string>
+      <key>waa-ethiopic.etcp</key>
+      <string>uni12CB.etcp</string>
       <key>we-ethiopic</key>
       <string>uni12CD</string>
+      <key>we-ethiopic.etcp</key>
+      <string>uni12CD.etcp</string>
       <key>wee-ethiopic</key>
       <string>uni12CC</string>
+      <key>wee-ethiopic.etcp</key>
+      <string>uni12CC.etcp</string>
       <key>wi-ethiopic</key>
       <string>uni12CA</string>
+      <key>wi-ethiopic.etcp</key>
+      <string>uni12CA.etcp</string>
       <key>wo-ethiopic</key>
       <string>uni12CE</string>
+      <key>wo-ethiopic.etcp</key>
+      <string>uni12CE.etcp</string>
       <key>woa-ethiopic</key>
       <string>uni12CF</string>
+      <key>woa-ethiopic.etcp</key>
+      <string>uni12CF.etcp</string>
       <key>wordspace-ethiopic</key>
       <string>uni1361</string>
       <key>wu-ethiopic</key>
       <string>uni12C9</string>
+      <key>wu-ethiopic.etcp</key>
+      <string>uni12C9.etcp</string>
       <key>xa-ethiopic</key>
       <string>uni1280</string>
+      <key>xa-ethiopic.etcp</key>
+      <string>uni1280.etcp</string>
       <key>xaa-ethiopic</key>
       <string>uni1283</string>
+      <key>xaa-ethiopic.etcp</key>
+      <string>uni1283.etcp</string>
       <key>xe-ethiopic</key>
       <string>uni1285</string>
+      <key>xe-ethiopic.etcp</key>
+      <string>uni1285.etcp</string>
       <key>xee-ethiopic</key>
       <string>uni1284</string>
+      <key>xee-ethiopic.etcp</key>
+      <string>uni1284.etcp</string>
       <key>xi-ethiopic</key>
       <string>uni1282</string>
+      <key>xi-ethiopic.etcp</key>
+      <string>uni1282.etcp</string>
       <key>xo-ethiopic</key>
       <string>uni1286</string>
+      <key>xo-ethiopic.etcp</key>
+      <string>uni1286.etcp</string>
       <key>xoa-ethiopic</key>
       <string>uni1287</string>
+      <key>xoa-ethiopic.etcp</key>
+      <string>uni1287.etcp</string>
       <key>xu-ethiopic</key>
       <string>uni1281</string>
+      <key>xu-ethiopic.etcp</key>
+      <string>uni1281.etcp</string>
       <key>xwa-ethiopic</key>
       <string>uni1288</string>
+      <key>xwa-ethiopic.etcp</key>
+      <string>uni1288.etcp</string>
       <key>xwaa-ethiopic</key>
       <string>uni128B</string>
+      <key>xwaa-ethiopic.etcp</key>
+      <string>uni128B.etcp</string>
       <key>xwe-ethiopic</key>
       <string>uni128D</string>
+      <key>xwe-ethiopic.etcp</key>
+      <string>uni128D.etcp</string>
       <key>xwee-ethiopic</key>
       <string>uni128C</string>
+      <key>xwee-ethiopic.etcp</key>
+      <string>uni128C.etcp</string>
       <key>xwi-ethiopic</key>
       <string>uni128A</string>
+      <key>xwi-ethiopic.etcp</key>
+      <string>uni128A.etcp</string>
       <key>ya-ethiopic</key>
       <string>uni12E8</string>
+      <key>ya-ethiopic.etcp</key>
+      <string>uni12E8.etcp</string>
       <key>yaa-ethiopic</key>
       <string>uni12EB</string>
+      <key>yaa-ethiopic.etcp</key>
+      <string>uni12EB.etcp</string>
       <key>ye-ethiopic</key>
       <string>uni12ED</string>
+      <key>ye-ethiopic.etcp</key>
+      <string>uni12ED.etcp</string>
       <key>yee-ethiopic</key>
       <string>uni12EC</string>
+      <key>yee-ethiopic.etcp</key>
+      <string>uni12EC.etcp</string>
       <key>yi-ethiopic</key>
       <string>uni12EA</string>
+      <key>yi-ethiopic.etcp</key>
+      <string>uni12EA.etcp</string>
       <key>yizet-ethiopic</key>
       <string>uni1390</string>
       <key>yo-ethiopic</key>
       <string>uni12EE</string>
+      <key>yo-ethiopic.etcp</key>
+      <string>uni12EE.etcp</string>
       <key>yoa-ethiopic</key>
       <string>uni12EF</string>
+      <key>yoa-ethiopic.etcp</key>
+      <string>uni12EF.etcp</string>
       <key>yu-ethiopic</key>
       <string>uni12E9</string>
+      <key>yu-ethiopic.etcp</key>
+      <string>uni12E9.etcp</string>
       <key>za-ethiopic</key>
       <string>uni12D8</string>
+      <key>za-ethiopic.etcp</key>
+      <string>uni12D8.etcp</string>
       <key>zaa-ethiopic</key>
       <string>uni12DB</string>
+      <key>zaa-ethiopic.etcp</key>
+      <string>uni12DB.etcp</string>
       <key>ze-ethiopic</key>
       <string>uni12DD</string>
+      <key>ze-ethiopic.etcp</key>
+      <string>uni12DD.etcp</string>
       <key>zee-ethiopic</key>
       <string>uni12DC</string>
+      <key>zee-ethiopic.etcp</key>
+      <string>uni12DC.etcp</string>
       <key>zha-ethiopic</key>
       <string>uni12E0</string>
+      <key>zha-ethiopic.etcp</key>
+      <string>uni12E0.etcp</string>
       <key>zhaa-ethiopic</key>
       <string>uni12E3</string>
+      <key>zhaa-ethiopic.etcp</key>
+      <string>uni12E3.etcp</string>
       <key>zhe-ethiopic</key>
       <string>uni12E5</string>
+      <key>zhe-ethiopic.etcp</key>
+      <string>uni12E5.etcp</string>
       <key>zhee-ethiopic</key>
       <string>uni12E4</string>
+      <key>zhee-ethiopic.etcp</key>
+      <string>uni12E4.etcp</string>
       <key>zhi-ethiopic</key>
       <string>uni12E2</string>
+      <key>zhi-ethiopic.etcp</key>
+      <string>uni12E2.etcp</string>
       <key>zho-ethiopic</key>
       <string>uni12E6</string>
+      <key>zho-ethiopic.etcp</key>
+      <string>uni12E6.etcp</string>
       <key>zhu-ethiopic</key>
       <string>uni12E1</string>
+      <key>zhu-ethiopic.etcp</key>
+      <string>uni12E1.etcp</string>
       <key>zhwa-ethiopic</key>
       <string>uni12E7</string>
+      <key>zhwa-ethiopic.etcp</key>
+      <string>uni12E7.etcp</string>
       <key>zi-ethiopic</key>
       <string>uni12DA</string>
+      <key>zi-ethiopic.etcp</key>
+      <string>uni12DA.etcp</string>
       <key>zo-ethiopic</key>
       <string>uni12DE</string>
+      <key>zo-ethiopic.etcp</key>
+      <string>uni12DE.etcp</string>
       <key>zu-ethiopic</key>
       <string>uni12D9</string>
+      <key>zu-ethiopic.etcp</key>
+      <string>uni12D9.etcp</string>
       <key>zwa-ethiopic</key>
       <string>uni12DF</string>
+      <key>zwa-ethiopic.etcp</key>
+      <string>uni12DF.etcp</string>
     </dict>
     <key>public.skipExportGlyphs</key>
     <array>
@@ -1873,9 +2514,11 @@
       <string>_smart.haa.acute</string>
       <string>_smart.hat</string>
       <string>_smart.hat.left</string>
+      <string>_smart.hat.left.aGl</string>
       <string>_smart.he</string>
       <string>_smart.he.acute</string>
       <string>_smart.hee</string>
+      <string>_smart.hha.neck.cap</string>
       <string>_smart.hi</string>
       <string>_smart.ho</string>
       <string>_smart.ho.ring</string>
@@ -1885,6 +2528,7 @@
       <string>_smart.le.ring</string>
       <string>_smart.neck</string>
       <string>_smart.nose.ext</string>
+      <string>_smart.ra</string>
       <string>_smart.ri</string>
       <string>_smart.ye</string>
       <string>_smart.yu</string>

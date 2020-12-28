@@ -4,14 +4,15 @@
   <unicode hex="12E9"/>
   <anchor x="99" y="2" name="haa.acute"/>
   <anchor x="168" y="257" name="he"/>
-  <anchor x="244" y="-10" name="hee"/>
-  <anchor x="240" y="27" name="hi"/>
+  <anchor x="304" y="1" name="hee"/>
+  <anchor x="290" y="27" name="hi"/>
   <anchor x="561" y="450" name="hu"/>
-  <anchor x="293" y="-113" name="ye"/>
-  <anchor x="222" y="-75" name="yu"/>
+  <anchor x="86" y="-193" name="yaa"/>
+  <anchor x="343" y="-113" name="ye"/>
+  <anchor x="312" y="-75" name="yu"/>
   <outline>
     <component base="ya.base"/>
-    <component base="_smart.yu" xOffset="231"/>
+    <component base="_smart.yu" xOffset="321"/>
   </outline>
   <lib>
     <dict>

@@ -44,9 +44,11 @@
         <string>_smart.haa.acute</string>
         <string>_smart.hat</string>
         <string>_smart.hat.left</string>
+        <string>_smart.hat.left.aGl</string>
         <string>_smart.he</string>
         <string>_smart.he.acute</string>
         <string>_smart.hee</string>
+        <string>_smart.hha.neck.cap</string>
         <string>_smart.hi</string>
         <string>_smart.ho</string>
         <string>_smart.ho.ring</string>
@@ -56,6 +58,7 @@
         <string>_smart.le.ring</string>
         <string>_smart.neck</string>
         <string>_smart.nose.ext</string>
+        <string>_smart.ra</string>
         <string>_smart.ri</string>
         <string>_smart.ye</string>
         <string>_smart.yu</string>

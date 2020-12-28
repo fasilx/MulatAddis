@@ -4,7 +4,7 @@
   <unicode hex="1278"/>
   <anchor x="116" y="-6" name="haa.acute"/>
   <anchor x="133" y="626" name="hat"/>
-  <anchor x="75" y="675" name="he.acute"/>
+  <anchor x="75" y="518" name="he.acute"/>
   <anchor x="122" y="-34" name="hee"/>
   <anchor x="90" y="3" name="hi"/>
   <anchor x="115" y="688" name="ho.ring"/>

@@ -4,13 +4,14 @@
   <unicode hex="12ED"/>
   <anchor x="99" y="2" name="haa.acute"/>
   <anchor x="168" y="257" name="he"/>
-  <anchor x="244" y="-10" name="hee"/>
-  <anchor x="240" y="27" name="hi"/>
+  <anchor x="304" y="1" name="hee"/>
+  <anchor x="290" y="27" name="hi"/>
   <anchor x="561" y="450" name="hu"/>
-  <anchor x="293" y="-113" name="ye"/>
-  <anchor x="222" y="-75" name="yu"/>
+  <anchor x="86" y="-193" name="yaa"/>
+  <anchor x="343" y="-113" name="ye"/>
+  <anchor x="312" y="-75" name="yu"/>
   <outline>
     <component base="ya.base"/>
-    <component base="_smart.ye" xOffset="290" yOffset="-10"/>
+    <component base="_smart.ye" xOffset="340" yOffset="-10"/>
   </outline>
 </glyph>

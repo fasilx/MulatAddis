@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ha.base.cap" format="2">
+  <advance width="834"/>
+  <anchor x="617" y="-1" name="haa"/>
+  <anchor x="248" y="480" name="he"/>
+  <anchor x="617" y="-25" name="hee"/>
+  <anchor x="617" y="-2" name="hi"/>
+  <anchor x="587" y="583" name="ho.ring"/>
+  <anchor x="824" y="478" name="hu"/>
+  <anchor x="357" y="-3" name="hwa"/>
+  <outline>
+    <component base="U"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u</string>
+    </dict>
+  </lib>
+</glyph>

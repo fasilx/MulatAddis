@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="be-ethiopic.etcp" format="2">
+  <advance width="834"/>
+  <anchor x="698" y="0" name="haa"/>
+  <anchor x="414" y="858" name="hat"/>
+  <anchor x="65" y="845" name="hat.left"/>
+  <anchor x="266" y="322" name="he"/>
+  <anchor x="454" y="705" name="he.acute"/>
+  <anchor x="695" y="-49" name="hee"/>
+  <anchor x="707" y="3" name="hi"/>
+  <anchor x="99" y="4" name="ho"/>
+  <anchor x="803" y="483" name="hu"/>
+  <anchor x="702" y="1" name="hwa"/>
+  <anchor x="156" y="691" name="ka"/>
+  <anchor x="397" y="693" name="neck"/>
+  <outline>
+    <component base="ba.base.cap"/>
+    <component base="_smart.he" xOffset="265" yOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.he</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>
