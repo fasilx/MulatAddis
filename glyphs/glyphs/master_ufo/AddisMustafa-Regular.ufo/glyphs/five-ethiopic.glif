@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five-ethiopic" format="2">
+  <advance width="693"/>
+  <unicode hex="136D"/>
+  <outline>
+    <contour>
+      <point x="490" y="-41" type="curve"/>
+      <point x="502" y="-37" type="line"/>
+      <point x="493" y="-13"/>
+      <point x="478" y="34"/>
+      <point x="459" y="97" type="curve"/>
+      <point x="261" y="97" type="line"/>
+      <point x="284" y="493" type="line"/>
+      <point x="279" y="644" type="line"/>
+      <point x="229" y="642" type="line"/>
+      <point x="213" y="1" type="line"/>
+      <point x="426" y="1" type="line" smooth="yes"/>
+      <point x="470" y="1"/>
+      <point x="478" y="-13"/>
+    </contour>
+    <contour>
+      <point x="271" y="447" type="line"/>
+      <point x="418" y="447" type="line"/>
+      <point x="418" y="474" type="line"/>
+      <point x="271" y="474" type="line"/>
+    </contour>
+    <component base="_number.bars" xOffset="117"/>
+  </outline>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period" format="2">
+  <advance width="243"/>
+  <unicode hex="002E"/>
+  <note>
+period
+</note>
+  <outline>
+    <contour>
+      <point x="124" y="-1" type="curve" smooth="yes"/>
+      <point x="158.667" y="-1"/>
+      <point x="182" y="19.333"/>
+      <point x="182" y="54" type="curve" smooth="yes"/>
+      <point x="182" y="88.667"/>
+      <point x="158.667" y="117"/>
+      <point x="124" y="117" type="curve" smooth="yes"/>
+      <point x="89.333" y="117"/>
+      <point x="64" y="90.667"/>
+      <point x="64" y="56" type="curve" smooth="yes"/>
+      <point x="64" y="21.333"/>
+      <point x="89.333" y="-1"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHW[ ]	/* 4 values pushed */
+0 7 6 4 
+CALL[ ]	/* CallFunction */
+NPUSHW[ ]	/* 13 values pushed */
+6 0 22 0 38 0 54 0 70 0 86 0 6 
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 5 values pushed */
+101 0 117 0 2 
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+9 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+9 8 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 2 values pushed */
+3 4 
+MIRP[11100]	/* MoveIndirectRelPt */
+NPUSHW[ ]	/* 13 values pushed */
+7 3 23 3 39 3 55 3 71 3 87 3 6 
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 5 values pushed */
+102 3 118 3 2 
+DELTAP1[ ]	/* DeltaExceptionP1 */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zha-ethiopic.etcp" format="2">
+  <advance width="900"/>
+  <anchor x="735" y="1" name="haa"/>
+  <anchor x="183" y="735" name="he.acute"/>
+  <anchor x="763" y="-30" name="hee"/>
+  <anchor x="757" y="2" name="hi"/>
+  <anchor x="180" y="1" name="ho"/>
+  <anchor x="861" y="472" name="hu"/>
+  <anchor x="761" y="3" name="hwa"/>
+  <anchor x="451" y="708" name="zha"/>
+  <outline>
+    <component base="za.base.cap"/>
+    <component base="_smart.zha" xOffset="452" yOffset="584"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.zha</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

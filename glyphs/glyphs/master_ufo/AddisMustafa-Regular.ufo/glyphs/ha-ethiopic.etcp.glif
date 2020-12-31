@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ha-ethiopic.etcp" format="2">
+  <advance width="806"/>
+  <anchor x="582" y="-1" name="haa"/>
+  <anchor x="213" y="480" name="he"/>
+  <anchor x="582" y="-25" name="hee"/>
+  <anchor x="582" y="-2" name="hi"/>
+  <anchor x="552" y="583" name="ho.ring"/>
+  <anchor x="775" y="478" name="hu"/>
+  <anchor x="322" y="-3" name="hwa"/>
+  <outline>
+    <component base="ha.base.cap"/>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="556"/>
+  <unicode hex="2022"/>
+  <note>
+bullet
+</note>
+  <outline>
+    <contour>
+      <point x="278" y="88" type="curve" smooth="yes"/>
+      <point x="373.233" y="88"/>
+      <point x="453" y="165.233"/>
+      <point x="453" y="262" type="curve" smooth="yes"/>
+      <point x="453" y="358.961"/>
+      <point x="375.582" y="436"/>
+      <point x="278" y="436" type="curve" smooth="yes"/>
+      <point x="182.14" y="436"/>
+      <point x="104" y="357.86"/>
+      <point x="104" y="262" type="curve" smooth="yes"/>
+      <point x="104" y="166.14"/>
+      <point x="182.14" y="88"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+15 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+5 
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

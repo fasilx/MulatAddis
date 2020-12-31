@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uPharyngeal-ethiopic.etcp" format="2">
+  <advance width="808"/>
+  <anchor x="404" y="364" name="belt"/>
+  <anchor x="615" y="-2" name="haa"/>
+  <anchor x="438" y="-21" name="haa.acute"/>
+  <anchor x="437" y="-41" name="hee"/>
+  <anchor x="437" y="-5" name="hi"/>
+  <anchor x="823" y="585" name="hu"/>
+  <anchor x="438" y="-2" name="hwa"/>
+  <anchor x="401" y="728" name="neck"/>
+  <outline>
+    <component base="aPh.base.cap"/>
+    <component base="_smart.hu" xOffset="822" yOffset="339"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hu</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

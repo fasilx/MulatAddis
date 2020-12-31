@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yu-ethiopic.etcp" format="2">
+  <advance width="656"/>
+  <anchor x="269" y="2" name="haa.acute"/>
+  <anchor x="268" y="497" name="he"/>
+  <anchor x="344" y="290" name="hee"/>
+  <anchor x="340" y="297" name="hi"/>
+  <anchor x="691" y="660" name="hu"/>
+  <anchor x="463" y="167" name="ye"/>
+  <anchor x="322" y="195" name="yu"/>
+  <outline>
+    <component base="ya.base.cap"/>
+    <component base="_smart.yu" xOffset="329" yOffset="270"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.yu</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

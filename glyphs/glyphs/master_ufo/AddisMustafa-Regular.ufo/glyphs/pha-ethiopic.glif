@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pha-ethiopic" format="2">
+  <advance width="485"/>
+  <unicode hex="1330"/>
+  <anchor x="327" y="2" name="haa"/>
+  <anchor x="371" y="363" name="he"/>
+  <anchor x="363" y="-30" name="hee"/>
+  <anchor x="337" y="4" name="hi"/>
+  <anchor x="87" y="7" name="ho"/>
+  <anchor x="464" y="231" name="hu"/>
+  <anchor x="340" y="1" name="hwa"/>
+  <anchor x="236" y="485" name="neck"/>
+  <outline>
+    <component base="tsa.base"/>
+    <component base="_smart.neck" xOffset="237" yOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.neck</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>
