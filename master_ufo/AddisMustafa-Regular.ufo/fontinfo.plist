@@ -12,17 +12,6 @@
     <integer>-252</integer>
     <key>familyName</key>
     <string>Addis Mustafa</string>
-    <key>guidelines</key>
-    <array>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>140</integer>
-        <key>y</key>
-        <integer>250</integer>
-      </dict>
-    </array>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>

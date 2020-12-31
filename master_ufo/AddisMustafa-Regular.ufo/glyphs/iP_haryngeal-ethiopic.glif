@@ -12,7 +12,7 @@
   <anchor x="291" y="478" name="neck"/>
   <outline>
     <component base="aPh.base"/>
-    <component base="_smart.hi" xOffset="287" yOffset="-5"/>
+    <component base="_smart.hi" xOffset="307" yOffset="-5"/>
   </outline>
   <lib>
     <dict>

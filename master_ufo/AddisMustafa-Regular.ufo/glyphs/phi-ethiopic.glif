@@ -13,7 +13,7 @@
   <outline>
     <component base="tsa.base"/>
     <component base="_smart.neck" xOffset="237" yOffset="15"/>
-    <component base="_smart.hi" xOffset="337" yOffset="4"/>
+    <component base="_smart.hi" xOffset="357" yOffset="4"/>
   </outline>
   <lib>
     <dict>

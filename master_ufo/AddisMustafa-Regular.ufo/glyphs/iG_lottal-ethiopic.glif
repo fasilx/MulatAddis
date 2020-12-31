@@ -20,7 +20,7 @@
   <outline>
     <component base="aglka.base"/>
     <component base="_smart.aGl" xOffset="130" yOffset="-4"/>
-    <component base="_smart.hi" xOffset="367" yOffset="3"/>
+    <component base="_smart.hi" xOffset="387" yOffset="3"/>
   </outline>
   <lib>
     <dict>

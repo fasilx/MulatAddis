@@ -7,12 +7,12 @@
   <anchor x="75" y="518" name="he.acute"/>
   <anchor x="122" y="-34" name="hee"/>
   <anchor x="90" y="3" name="hi"/>
-  <anchor x="115" y="688" name="ho.ring"/>
+  <anchor x="35" y="529" name="ho.ring"/>
   <anchor x="270" y="249" name="hu"/>
   <anchor x="134" y="-4" name="hwa"/>
   <outline>
     <component base="ta.base"/>
-    <component base="_smart.ho.ring" xOffset="111" yOffset="204"/>
+    <component base="_smart.ho.ring" xOffset="31" yOffset="45"/>
     <component base="_smart.hat" xOffset="134" yOffset="-28"/>
   </outline>
   <lib>

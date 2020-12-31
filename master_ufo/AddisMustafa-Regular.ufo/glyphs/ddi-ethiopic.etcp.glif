@@ -12,7 +12,7 @@
   <anchor x="237" y="637" name="neck"/>
   <outline>
     <component base="da.base.cap"/>
-    <component base="_smart.hi" xOffset="567"/>
+    <component base="_smart.hi" xOffset="587"/>
     <component base="_smart.neck" xOffset="238" yOffset="167"/>
   </outline>
   <lib>

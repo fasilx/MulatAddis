@@ -11,7 +11,7 @@
   <anchor x="487" y="-4" name="hwa"/>
   <outline>
     <component base="sa.base"/>
-    <component base="_smart.hi" xOffset="487"/>
+    <component base="_smart.hi" xOffset="507"/>
   </outline>
   <lib>
     <dict>

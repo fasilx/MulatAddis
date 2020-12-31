@@ -13,7 +13,7 @@
   <anchor x="446" y="685" name="neck"/>
   <outline>
     <component base="wa.base.cap"/>
-    <component base="_smart.hi" xOffset="447" yOffset="5"/>
+    <component base="_smart.hi" xOffset="467" yOffset="5"/>
   </outline>
   <lib>
     <dict>

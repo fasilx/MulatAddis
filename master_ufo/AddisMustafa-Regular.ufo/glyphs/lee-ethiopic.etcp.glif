@@ -2,7 +2,7 @@
 <glyph name="lee-ethiopic.etcp" format="2">
   <advance width="704"/>
   <anchor x="622" y="1" name="haa"/>
-  <anchor x="631" y="-8" name="hee"/>
+  <anchor x="590" y="-28" name="hee"/>
   <anchor x="622" y="3" name="hi"/>
   <anchor x="164" y="2" name="ho"/>
   <anchor x="571" y="431" name="ho.ring"/>
@@ -11,7 +11,7 @@
   <anchor x="179" y="69" name="le.ring"/>
   <outline>
     <component base="la.base.cap"/>
-    <component base="_smart.hee" xOffset="631" yOffset="-8"/>
+    <component base="_smart.hee" xOffset="590" yOffset="-28"/>
   </outline>
   <lib>
     <dict>

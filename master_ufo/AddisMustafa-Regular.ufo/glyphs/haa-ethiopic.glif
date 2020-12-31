@@ -3,11 +3,11 @@
   <advance width="523"/>
   <unicode hex="1203"/>
   <anchor x="357" y="-1" name="haa"/>
-  <anchor x="153" y="250" name="he"/>
+  <anchor x="143" y="250" name="he"/>
   <anchor x="357" y="-25" name="hee"/>
   <anchor x="357" y="-2" name="hi"/>
   <anchor x="387" y="483" name="ho.ring"/>
-  <anchor x="536" y="252" name="hu"/>
+  <anchor x="530" y="252" name="hu"/>
   <anchor x="357" y="-3" name="hwa"/>
   <outline>
     <component base="ha.base"/>

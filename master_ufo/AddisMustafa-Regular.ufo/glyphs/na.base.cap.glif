@@ -4,11 +4,11 @@
   <anchor x="527" y="33" name="gwa"/>
   <anchor x="505" y="3" name="haa.acute"/>
   <anchor x="176" y="788" name="hat"/>
-  <anchor x="37" y="527" name="he"/>
+  <anchor x="17" y="527" name="he"/>
   <anchor x="461" y="-25" name="hee"/>
   <anchor x="429" y="0" name="hi"/>
   <anchor x="626" y="256" name="hu"/>
-  <anchor x="39" y="501" name="nose.ext"/>
+  <anchor x="19" y="501" name="nose.ext"/>
   <outline>
     <contour>
       <point x="414" y="442" type="curve"/>

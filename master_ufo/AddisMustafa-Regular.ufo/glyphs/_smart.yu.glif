@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_smart.yu" format="2">
-  <anchor x="-9" y="-75" name="_yu"/>
+  <anchor x="-7" y="-75" name="_yu"/>
   <outline>
     <contour>
-      <point x="-150" y="-94" type="line"/>
-      <point x="41" y="-94" type="line"/>
-      <point x="41" y="-49" type="line"/>
-      <point x="-150" y="-49" type="line"/>
+      <point x="-114" y="-94" type="line"/>
+      <point x="77" y="-94" type="line"/>
+      <point x="77" y="-49" type="line"/>
+      <point x="-114" y="-49" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -8,7 +8,7 @@
   <anchor x="86" y="1" name="ho"/>
   <anchor x="527" y="272" name="hu"/>
   <anchor x="367" y="3" name="hwa"/>
-  <anchor x="247" y="478" name="zha"/>
+  <anchor x="247" y="489" name="zha"/>
   <outline>
     <contour>
       <point x="432" y="236" type="line"/>

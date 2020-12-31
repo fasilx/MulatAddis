@@ -14,7 +14,7 @@
   <anchor x="425" y="487" name="neck"/>
   <outline>
     <component base="hha.base"/>
-    <component base="_smart.hi" xOffset="644"/>
+    <component base="_smart.hi" xOffset="664"/>
     <component base="_smart.cha" xOffset="394" yOffset="-61"/>
   </outline>
   <lib>

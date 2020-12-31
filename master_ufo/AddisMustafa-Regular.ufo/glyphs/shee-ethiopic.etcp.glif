@@ -4,9 +4,9 @@
   <anchor x="698" y="0" name="haa"/>
   <anchor x="414" y="858" name="hat"/>
   <anchor x="65" y="845" name="hat.left"/>
-  <anchor x="266" y="322" name="he"/>
+  <anchor x="136" y="322" name="he"/>
   <anchor x="454" y="705" name="he.acute"/>
-  <anchor x="695" y="-49" name="hee"/>
+  <anchor x="665" y="-49" name="hee"/>
   <anchor x="707" y="3" name="hi"/>
   <anchor x="99" y="4" name="ho"/>
   <anchor x="803" y="483" name="hu"/>
@@ -17,7 +17,7 @@
     <component base="ba.base.cap"/>
     <component base="_smart.neck" xOffset="398" yOffset="223"/>
     <component base="_smart.hat" xOffset="415" yOffset="204"/>
-    <component base="_smart.hee" xOffset="695" yOffset="-49"/>
+    <component base="_smart.hee" xOffset="665" yOffset="-49"/>
   </outline>
   <lib>
     <dict>

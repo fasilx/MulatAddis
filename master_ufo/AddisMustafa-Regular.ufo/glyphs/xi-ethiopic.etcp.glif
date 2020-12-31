@@ -4,15 +4,15 @@
   <anchor x="527" y="33" name="gwa"/>
   <anchor x="505" y="3" name="haa.acute"/>
   <anchor x="176" y="788" name="hat"/>
-  <anchor x="37" y="527" name="he"/>
+  <anchor x="17" y="527" name="he"/>
   <anchor x="461" y="-25" name="hee"/>
   <anchor x="429" y="0" name="hi"/>
   <anchor x="626" y="256" name="hu"/>
-  <anchor x="39" y="501" name="nose.ext"/>
+  <anchor x="19" y="501" name="nose.ext"/>
   <outline>
     <component base="na.base.cap"/>
-    <component base="_smart.he" xOffset="36" yOffset="275"/>
-    <component base="_smart.hi" xOffset="429"/>
+    <component base="_smart.he" xOffset="16" yOffset="275"/>
+    <component base="_smart.hi" xOffset="449"/>
   </outline>
   <lib>
     <dict>

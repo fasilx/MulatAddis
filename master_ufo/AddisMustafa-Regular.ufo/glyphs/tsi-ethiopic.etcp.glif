@@ -11,7 +11,7 @@
   <anchor x="326" y="715" name="neck"/>
   <outline>
     <component base="tsa.base.cap"/>
-    <component base="_smart.hi" xOffset="537" yOffset="4"/>
+    <component base="_smart.hi" xOffset="557" yOffset="4"/>
   </outline>
   <lib>
     <dict>

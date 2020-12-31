@@ -13,7 +13,7 @@
   <anchor x="572" y="1" name="hwa"/>
   <outline>
     <component base="aGl.base.cap"/>
-    <component base="_smart.hi" xOffset="567" yOffset="3"/>
+    <component base="_smart.hi" xOffset="587" yOffset="3"/>
   </outline>
   <lib>
     <dict>

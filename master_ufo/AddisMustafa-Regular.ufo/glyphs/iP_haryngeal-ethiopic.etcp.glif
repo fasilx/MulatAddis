@@ -11,7 +11,7 @@
   <anchor x="401" y="728" name="neck"/>
   <outline>
     <component base="aPh.base.cap"/>
-    <component base="_smart.hi" xOffset="437" yOffset="-5"/>
+    <component base="_smart.hi" xOffset="457" yOffset="-5"/>
   </outline>
   <lib>
     <dict>

@@ -10,7 +10,7 @@
   <anchor x="322" y="195" name="yu"/>
   <outline>
     <component base="ya.base.cap"/>
-    <component base="_smart.yu" xOffset="331" yOffset="270"/>
+    <component base="_smart.yu" xOffset="329" yOffset="270"/>
   </outline>
   <lib>
     <dict>

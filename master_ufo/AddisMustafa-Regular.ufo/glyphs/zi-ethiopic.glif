@@ -9,10 +9,10 @@
   <anchor x="86" y="1" name="ho"/>
   <anchor x="527" y="272" name="hu"/>
   <anchor x="367" y="3" name="hwa"/>
-  <anchor x="247" y="478" name="zha"/>
+  <anchor x="247" y="489" name="zha"/>
   <outline>
     <component base="za.base"/>
-    <component base="_smart.hi" xOffset="363" yOffset="2"/>
+    <component base="_smart.hi" xOffset="383" yOffset="2"/>
   </outline>
   <lib>
     <dict>

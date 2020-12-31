@@ -8,7 +8,7 @@
   <anchor x="465" y="-66" name="he.acute"/>
   <anchor x="395" y="-44" name="hee"/>
   <anchor x="726" y="348" name="ra"/>
-  <anchor x="683" y="146" name="ri"/>
+  <anchor x="708" y="196" name="ri"/>
   <outline>
     <component base="ra.base.cap"/>
     <component base="_smart.ra" xOffset="726" yOffset="348"/>

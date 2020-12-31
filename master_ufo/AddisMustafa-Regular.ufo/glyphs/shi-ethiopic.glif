@@ -19,7 +19,7 @@
   <outline>
     <component base="ba.base"/>
     <component base="_smart.neck" xOffset="288" yOffset="13"/>
-    <component base="_smart.hi" xOffset="367" yOffset="3"/>
+    <component base="_smart.hi" xOffset="387" yOffset="3"/>
     <component base="_smart.hat" xOffset="295" yOffset="7"/>
   </outline>
   <lib>

@@ -20,7 +20,7 @@
   <outline>
     <component base="aglka.base"/>
     <component base="_smart.ka" xOffset="148" yOffset="-38"/>
-    <component base="_smart.hi" xOffset="367" yOffset="3"/>
+    <component base="_smart.hi" xOffset="387" yOffset="3"/>
     <component base="_smart.hat.left" xOffset="117" yOffset="-50"/>
   </outline>
   <lib>
