@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yu-ethiopic" format="2">
+  <advance width="548"/>
+  <unicode hex="12E9"/>
+  <anchor x="414" y="-24" name="haa"/>
+  <anchor x="94" y="12" name="haa.acute"/>
+  <anchor x="325" y="658" name="hat"/>
+  <anchor x="56" y="97" name="he"/>
+  <anchor x="290" y="45" name="hee"/>
+  <anchor x="287" y="96" name="hi"/>
+  <anchor x="112" y="-22" name="ho"/>
+  <anchor x="584" y="250" name="hu"/>
+  <anchor x="413" y="-31" name="hwa"/>
+  <anchor x="326" y="477" name="neck"/>
+  <anchor x="290" y="483" name="top"/>
+  <anchor x="39" y="-183" name="yaa"/>
+  <anchor x="338" y="-73" name="ye"/>
+  <anchor x="237" y="17" name="yu"/>
+  <outline>
+    <component base="ya.base"/>
+    <component base="_smart.yu" xOffset="244" yOffset="92"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hu</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

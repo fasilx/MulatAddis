@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.hu" format="2">
+  <anchor x="1" y="246" name="_hu"/>
+  <outline>
+    <contour>
+      <point x="-27" y="205" type="line"/>
+      <point x="-19" y="221"/>
+      <point x="-14" y="259"/>
+      <point x="-31" y="275" type="curve"/>
+      <point x="-131" y="275" type="line"/>
+      <point x="-130" y="205" type="line"/>
+    </contour>
+  </outline>
+</glyph>
