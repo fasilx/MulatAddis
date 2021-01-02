@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="colon-ethiopic" format="2">
-  <advance width="263"/>
-  <unicode hex="1365"/>
-  <outline>
-    <component base="colon"/>
-    <component base="horizontalbar" xScale="0.2771" xOffset="35" yOffset="-50"/>
-  </outline>
-</glyph>
