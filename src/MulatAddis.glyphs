@@ -1,5 +1,24 @@
 {
 .appVersion = "3039";
+DisplayStrings = (
+"/ya.base",
+"/_smart.yaa/yaa-ethiopic",
+"/ya.base/yaa-ethiopic",
+"/_smart.ye/ye-ethiopic",
+"/yi-ethiopic/hi-ethiopic/li-ethiopic/hhi-ethiopic/mi-ethiopic/szi-ethiopic/si-ethiopic/shi-ethiopic/qi-ethiopic/qhi-ethiopic/bi-ethiopic/vi-ethiopic/ti-ethiopic/ci-ethiopic/xi-ethiopic/ni-ethiopic/nyi-ethiopic/iGlottal-ethiopic/ki-ethiopic/kxi-ethiopic/wi-ethiopic/iPharyngeal-ethiopic/zi-ethiopic/zhi-ethiopic/di-ethiopic/ddi-ethiopic/ji-ethiopic/gi-ethiopic/ggi-ethiopic/thi-ethiopic/chi-ethiopic/phi-ethiopic/tsi-ethiopic/tzi-ethiopic/pi-ethiopic/hi-ethiopic.etcp/li-ethiopic.etcp/hhi-ethiopic.etcp/mi-ethiopic.etcp/szi-ethiopic.etcp/si-ethiopic.etcp/shi-ethiopic.etcp/qi-ethiopic.etcp/qhi-ethiopic.etcp/bi-ethiopic.etcp/vi-ethiopic.etcp/ti-ethiopic.etcp/ci-ethiopic.etcp/xi-ethiopic.etcp/ni-ethiopic.etcp/nyi-ethiopic.etcp/iGlottal-ethiopic.etcp/ki-ethiopic.etcp/kxi-ethiopic.etcp/wi-ethiopic.etcp/iPharyngeal-ethiopic.etcp/zi-ethiopic.etcp/zhi-ethiopic.etcp/yi-ethiopic.etcp/di-ethiopic.etcp/ddi-ethiopic.etcp/ji-ethiopic.etcp/gi-ethiopic.etcp/ggi-ethiopic.etcp/thi-ethiopic.etcp/chi-ethiopic.etcp/phi-ethiopic.etcp/tsi-ethiopic.etcp/tzi-ethiopic.etcp/pi-ethiopic.etcp",
+"/_smart.hi/yi-ethiopic",
+"/ya.base/yi-ethiopic",
+"/_smart.hi/yi-ethiopic",
+"/yaa-ethiopic",
+"/aGl.base.cap/aGlottal-ethiopic.etcp",
+"/aGl.base.cap/uGlottal-ethiopic.etcp",
+"/aGl.base.cap/aGlottal-ethiopic.etcp",
+"/na.base.cap/xa-ethiopic.etcp",
+"/za.base.cap/zhwa-ethiopic.etcp",
+"/ba.base.cap/swa-ethiopic.etcp",
+"/ba.base.cap/shaa-ethiopic.etcp",
+"/ta.base.cap/twa-ethiopic.etcp"
+);
 classes = (
 {
 code = "ha-ethiopic.etcp hu-ethiopic.etcp hi-ethiopic.etcp haa-ethiopic.etcp hee-ethiopic.etcp he-ethiopic.etcp ho-ethiopic.etcp hoa-ethiopic.etcp la-ethiopic.etcp lu-ethiopic.etcp li-ethiopic.etcp laa-ethiopic.etcp lee-ethiopic.etcp le-ethiopic.etcp lo-ethiopic.etcp lwa-ethiopic.etcp hha-ethiopic.etcp hhu-ethiopic.etcp hhi-ethiopic.etcp hhaa-ethiopic.etcp hhee-ethiopic.etcp hhe-ethiopic.etcp hho-ethiopic.etcp hhwa-ethiopic.etcp ma-ethiopic.etcp mu-ethiopic.etcp mi-ethiopic.etcp maa-ethiopic.etcp mee-ethiopic.etcp me-ethiopic.etcp mo-ethiopic.etcp mwa-ethiopic.etcp sza-ethiopic.etcp szu-ethiopic.etcp szi-ethiopic.etcp szaa-ethiopic.etcp szee-ethiopic.etcp sze-ethiopic.etcp szo-ethiopic.etcp szwa-ethiopic.etcp ra-ethiopic.etcp ru-ethiopic.etcp ri-ethiopic.etcp raa-ethiopic.etcp ree-ethiopic.etcp re-ethiopic.etcp ro-ethiopic.etcp rwa-ethiopic.etcp sa-ethiopic.etcp su-ethiopic.etcp si-ethiopic.etcp saa-ethiopic.etcp see-ethiopic.etcp se-ethiopic.etcp so-ethiopic.etcp swa-ethiopic.etcp sha-ethiopic.etcp shu-ethiopic.etcp shi-ethiopic.etcp shaa-ethiopic.etcp shee-ethiopic.etcp she-ethiopic.etcp sho-ethiopic.etcp shwa-ethiopic.etcp qa-ethiopic.etcp qu-ethiopic.etcp qi-ethiopic.etcp qaa-ethiopic.etcp qee-ethiopic.etcp qe-ethiopic.etcp qo-ethiopic.etcp qwaa-ethiopic.etcp qha-ethiopic.etcp qhu-ethiopic.etcp qhi-ethiopic.etcp qhaa-ethiopic.etcp qhee-ethiopic.etcp qhe-ethiopic.etcp qho-ethiopic.etcp qhwaa-ethiopic.etcp ba-ethiopic.etcp bu-ethiopic.etcp bi-ethiopic.etcp baa-ethiopic.etcp bee-ethiopic.etcp be-ethiopic.etcp bo-ethiopic.etcp bwa-ethiopic.etcp va-ethiopic.etcp vu-ethiopic.etcp vi-ethiopic.etcp vaa-ethiopic.etcp vee-ethiopic.etcp ve-ethiopic.etcp vo-ethiopic.etcp vwa-ethiopic.etcp ta-ethiopic.etcp tu-ethiopic.etcp ti-ethiopic.etcp taa-ethiopic.etcp tee-ethiopic.etcp te-ethiopic.etcp to-ethiopic.etcp twa-ethiopic.etcp ca-ethiopic.etcp cu-ethiopic.etcp ci-ethiopic.etcp caa-ethiopic.etcp cee-ethiopic.etcp ce-ethiopic.etcp co-ethiopic.etcp cwa-ethiopic.etcp xa-ethiopic.etcp xu-ethiopic.etcp xi-ethiopic.etcp xaa-ethiopic.etcp xee-ethiopic.etcp xe-ethiopic.etcp xo-ethiopic.etcp xwaa-ethiopic.etcp na-ethiopic.etcp nu-ethiopic.etcp ni-ethiopic.etcp naa-ethiopic.etcp nee-ethiopic.etcp ne-ethiopic.etcp no-ethiopic.etcp nwa-ethiopic.etcp nya-ethiopic.etcp nyu-ethiopic.etcp nyi-ethiopic.etcp nyaa-ethiopic.etcp nyee-ethiopic.etcp nye-ethiopic.etcp nyo-ethiopic.etcp nywa-ethiopic.etcp aGlottal-ethiopic.etcp uGlottal-ethiopic.etcp iGlottal-ethiopic.etcp aaGlottal-ethiopic.etcp eeGlottal-ethiopic.etcp eGlottal-ethiopic.etcp oGlottal-ethiopic.etcp waGlottal-ethiopic.etcp ka-ethiopic.etcp ku-ethiopic.etcp ki-ethiopic.etcp kaa-ethiopic.etcp kee-ethiopic.etcp ke-ethiopic.etcp ko-ethiopic.etcp kwaa-ethiopic.etcp kxa-ethiopic.etcp kxu-ethiopic.etcp kxi-ethiopic.etcp kxaa-ethiopic.etcp kxee-ethiopic.etcp kxe-ethiopic.etcp kxo-ethiopic.etcp kxwaa-ethiopic.etcp wa-ethiopic.etcp wu-ethiopic.etcp wi-ethiopic.etcp waa-ethiopic.etcp wee-ethiopic.etcp we-ethiopic.etcp wo-ethiopic.etcp woa-ethiopic.etcp aPharyngeal-ethiopic.etcp uPharyngeal-ethiopic.etcp iPharyngeal-ethiopic.etcp aaPharyngeal-ethiopic.etcp eePharyngeal-ethiopic.etcp ePharyngeal-ethiopic.etcp oPharyngeal-ethiopic.etcp za-ethiopic.etcp zu-ethiopic.etcp zi-ethiopic.etcp zaa-ethiopic.etcp zee-ethiopic.etcp ze-ethiopic.etcp zo-ethiopic.etcp zwa-ethiopic.etcp zha-ethiopic.etcp zhu-ethiopic.etcp zhi-ethiopic.etcp zhaa-ethiopic.etcp zhee-ethiopic.etcp zhe-ethiopic.etcp zho-ethiopic.etcp zhwa-ethiopic.etcp ya-ethiopic.etcp yu-ethiopic.etcp yi-ethiopic.etcp yaa-ethiopic.etcp yee-ethiopic.etcp ye-ethiopic.etcp yo-ethiopic.etcp yoa-ethiopic.etcp da-ethiopic.etcp du-ethiopic.etcp di-ethiopic.etcp daa-ethiopic.etcp dee-ethiopic.etcp de-ethiopic.etcp do-ethiopic.etcp dwa-ethiopic.etcp dda-ethiopic.etcp ddu-ethiopic.etcp ddi-ethiopic.etcp ddaa-ethiopic.etcp ddee-ethiopic.etcp dde-ethiopic.etcp ddo-ethiopic.etcp ddwa-ethiopic.etcp ja-ethiopic.etcp ju-ethiopic.etcp ji-ethiopic.etcp jaa-ethiopic.etcp jee-ethiopic.etcp je-ethiopic.etcp jo-ethiopic.etcp jwa-ethiopic.etcp ga-ethiopic.etcp gu-ethiopic.etcp gi-ethiopic.etcp gaa-ethiopic.etcp gee-ethiopic.etcp ge-ethiopic.etcp go-ethiopic.etcp gwaa-ethiopic.etcp gga-ethiopic.etcp ggu-ethiopic.etcp ggi-ethiopic.etcp ggaa-ethiopic.etcp ggee-ethiopic.etcp gge-ethiopic.etcp ggo-ethiopic.etcp ggwaa-ethiopic.etcp tha-ethiopic.etcp thu-ethiopic.etcp thi-ethiopic.etcp thaa-ethiopic.etcp thee-ethiopic.etcp the-ethiopic.etcp tho-ethiopic.etcp thwa-ethiopic.etcp cha-ethiopic.etcp chu-ethiopic.etcp chi-ethiopic.etcp chaa-ethiopic.etcp chee-ethiopic.etcp che-ethiopic.etcp cho-ethiopic.etcp chwa-ethiopic.etcp pha-ethiopic.etcp phu-ethiopic.etcp phi-ethiopic.etcp phaa-ethiopic.etcp phee-ethiopic.etcp phe-ethiopic.etcp pho-ethiopic.etcp phwa-ethiopic.etcp tsa-ethiopic.etcp tsu-ethiopic.etcp tsi-ethiopic.etcp tsaa-ethiopic.etcp tsee-ethiopic.etcp tse-ethiopic.etcp tso-ethiopic.etcp tswa-ethiopic.etcp tza-ethiopic.etcp tzu-ethiopic.etcp tzi-ethiopic.etcp tzaa-ethiopic.etcp tzee-ethiopic.etcp tze-ethiopic.etcp tzo-ethiopic.etcp tzoa-ethiopic.etcp fa-ethiopic.etcp fu-ethiopic.etcp fi-ethiopic.etcp faa-ethiopic.etcp fee-ethiopic.etcp fe-ethiopic.etcp fo-ethiopic.etcp fwa-ethiopic.etcp pa-ethiopic.etcp pu-ethiopic.etcp pi-ethiopic.etcp paa-ethiopic.etcp pee-ethiopic.etcp pe-ethiopic.etcp po-ethiopic.etcp pwa-ethiopic.etcp ";
@@ -45309,7 +45328,7 @@ unicode = 12E9;
 },
 {
 glyphname = "yi-ethiopic";
-lastChange = "2021-01-01 22:13:23 +0000";
+lastChange = "2021-01-03 20:07:37 +0000";
 layers = (
 {
 components = (
@@ -45318,11 +45337,7 @@ name = ya.base;
 },
 {
 name = _smart.hi;
-transform = "{1, 0, 0, 1, 307, 65}";
-},
-{
-name = _smart.yu;
-transform = "{1, 0, 0, 1, 244, 92}";
+transform = "{1, 0, 0, 1, 217, 133}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -49241,7 +49256,7 @@ width = 834;
 },
 {
 glyphname = "saa-ethiopic.etcp";
-lastChange = "2021-01-01 03:14:15 +0000";
+lastChange = "2021-01-03 20:17:23 +0000";
 layers = (
 {
 components = (
@@ -49254,7 +49269,7 @@ transform = "{1, 0, 0, 1, 398, 223}";
 },
 {
 name = _smart.haa;
-transform = "{1, 0, 0, 1, 680, 0}";
+transform = "{1, 0, 0, 1, 620, 0}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -49345,7 +49360,7 @@ width = 834;
 },
 {
 glyphname = "swa-ethiopic.etcp";
-lastChange = "2021-01-01 03:14:54 +0000";
+lastChange = "2021-01-03 20:17:06 +0000";
 layers = (
 {
 components = (
@@ -49358,7 +49373,7 @@ transform = "{1, 0, 0, 1, 398, 223}";
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 668, -1}";
+transform = "{1, 0, 0, 1, 638, -1}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -49463,7 +49478,7 @@ width = 834;
 },
 {
 glyphname = "shaa-ethiopic.etcp";
-lastChange = "2021-01-01 03:14:15 +0000";
+lastChange = "2021-01-03 20:17:21 +0000";
 layers = (
 {
 components = (
@@ -49480,7 +49495,7 @@ transform = "{1, 0, 0, 1, 415, 204}";
 },
 {
 name = _smart.haa;
-transform = "{1, 0, 0, 1, 680, 0}";
+transform = "{1, 0, 0, 1, 620, 0}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -49587,7 +49602,7 @@ width = 834;
 },
 {
 glyphname = "shwa-ethiopic.etcp";
-lastChange = "2021-01-01 03:14:56 +0000";
+lastChange = "2021-01-03 20:17:08 +0000";
 layers = (
 {
 components = (
@@ -49604,7 +49619,7 @@ transform = "{1, 0, 0, 1, 415, 204}";
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 668, -1}";
+transform = "{1, 0, 0, 1, 638, -1}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -50425,7 +50440,7 @@ width = 834;
 },
 {
 glyphname = "baa-ethiopic.etcp";
-lastChange = "2021-01-01 03:14:15 +0000";
+lastChange = "2021-01-03 20:17:23 +0000";
 layers = (
 {
 components = (
@@ -50434,7 +50449,7 @@ name = ba.base.cap;
 },
 {
 name = _smart.haa;
-transform = "{1, 0, 0, 1, 680, 0}";
+transform = "{1, 0, 0, 1, 620, 0}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -50513,7 +50528,7 @@ width = 834;
 },
 {
 glyphname = "bwa-ethiopic.etcp";
-lastChange = "2021-01-01 03:14:56 +0000";
+lastChange = "2021-01-03 20:17:08 +0000";
 layers = (
 {
 components = (
@@ -50522,7 +50537,7 @@ name = ba.base.cap;
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 668, -1}";
+transform = "{1, 0, 0, 1, 638, -1}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -50594,7 +50609,7 @@ width = 834;
 },
 {
 glyphname = "vaa-ethiopic.etcp";
-lastChange = "2021-01-01 03:14:16 +0000";
+lastChange = "2021-01-03 20:17:22 +0000";
 layers = (
 {
 components = (
@@ -50603,7 +50618,7 @@ name = ba.base.cap;
 },
 {
 name = _smart.haa;
-transform = "{1, 0, 0, 1, 680, 0}";
+transform = "{1, 0, 0, 1, 620, 0}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -50682,7 +50697,7 @@ width = 834;
 },
 {
 glyphname = "vwa-ethiopic.etcp";
-lastChange = "2021-01-01 03:14:57 +0000";
+lastChange = "2021-01-03 20:17:10 +0000";
 layers = (
 {
 components = (
@@ -50691,7 +50706,7 @@ name = ba.base.cap;
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 668, -1}";
+transform = "{1, 0, 0, 1, 638, -1}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -50878,7 +50893,7 @@ width = 737;
 },
 {
 glyphname = "twa-ethiopic.etcp";
-lastChange = "2020-12-28 08:18:36 +0000";
+lastChange = "2021-01-03 20:17:39 +0000";
 layers = (
 {
 components = (
@@ -50891,7 +50906,7 @@ transform = "{1, 0, 0, 1, 362, 194}";
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 383, -6}";
+transform = "{1, 0, 0, 1, 343, -6}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -51114,7 +51129,7 @@ width = 737;
 },
 {
 glyphname = "cwa-ethiopic.etcp";
-lastChange = "2021-01-01 22:25:36 +0000";
+lastChange = "2021-01-03 20:17:40 +0000";
 layers = (
 {
 components = (
@@ -51131,7 +51146,7 @@ transform = "{1, 0, 0, 1, 369, 183}";
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 383, -6}";
+transform = "{1, 0, 0, 1, 343, -6}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -51907,7 +51922,7 @@ width = 704;
 },
 {
 glyphname = "uGlottal-ethiopic.etcp";
-lastChange = "2021-01-01 22:36:22 +0000";
+lastChange = "2021-01-03 20:13:19 +0000";
 layers = (
 {
 components = (
@@ -51916,7 +51931,7 @@ name = aGl.base.cap;
 },
 {
 name = _smart.hu;
-transform = "{1, 0, 0, 1, 620, 227}";
+transform = "{1, 0, 0, 1, 632, 227}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -52138,7 +52153,7 @@ width = 834;
 },
 {
 glyphname = "kaa-ethiopic.etcp";
-lastChange = "2021-01-01 04:17:19 +0000";
+lastChange = "2021-01-03 20:17:30 +0000";
 layers = (
 {
 components = (
@@ -52151,7 +52166,7 @@ transform = "{1, 0, 0, 1, 152, 191}";
 },
 {
 name = _smart.haa;
-transform = "{1, 0, 0, 1, 680, 0}";
+transform = "{1, 0, 0, 1, 620, 0}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -52246,7 +52261,7 @@ width = 834;
 },
 {
 glyphname = "koa-ethiopic.etcp";
-lastChange = "2021-01-01 04:17:19 +0000";
+lastChange = "2021-01-03 20:17:31 +0000";
 layers = (
 {
 components = (
@@ -52259,7 +52274,7 @@ transform = "{1, 0, 0, 1, 152, 191}";
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 668, -1}";
+transform = "{1, 0, 0, 1, 638, -1}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -52273,7 +52288,7 @@ width = 834;
 },
 {
 glyphname = "kwa-ethiopic.etcp";
-lastChange = "2021-01-01 04:17:19 +0000";
+lastChange = "2021-01-03 20:17:31 +0000";
 layers = (
 {
 components = (
@@ -52286,7 +52301,7 @@ transform = "{1, 0, 0, 1, 152, 191}";
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 668, -1}";
+transform = "{1, 0, 0, 1, 638, -1}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -52300,7 +52315,7 @@ width = 834;
 },
 {
 glyphname = "kwi-ethiopic.etcp";
-lastChange = "2021-01-01 04:17:19 +0000";
+lastChange = "2021-01-03 20:17:31 +0000";
 layers = (
 {
 components = (
@@ -52313,7 +52328,7 @@ transform = "{1, 0, 0, 1, 152, 191}";
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 668, -1}";
+transform = "{1, 0, 0, 1, 638, -1}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -52327,7 +52342,7 @@ width = 834;
 },
 {
 glyphname = "kwaa-ethiopic.etcp";
-lastChange = "2021-01-01 04:17:19 +0000";
+lastChange = "2021-01-03 20:17:31 +0000";
 layers = (
 {
 components = (
@@ -52340,7 +52355,7 @@ transform = "{1, 0, 0, 1, 152, 191}";
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 668, -1}";
+transform = "{1, 0, 0, 1, 638, -1}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -52354,7 +52369,7 @@ width = 834;
 },
 {
 glyphname = "kwee-ethiopic.etcp";
-lastChange = "2021-01-01 04:17:19 +0000";
+lastChange = "2021-01-03 20:17:31 +0000";
 layers = (
 {
 components = (
@@ -52367,7 +52382,7 @@ transform = "{1, 0, 0, 1, 152, 191}";
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 668, -1}";
+transform = "{1, 0, 0, 1, 638, -1}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -52381,7 +52396,7 @@ width = 834;
 },
 {
 glyphname = "kwe-ethiopic.etcp";
-lastChange = "2021-01-01 04:17:19 +0000";
+lastChange = "2021-01-03 20:17:31 +0000";
 layers = (
 {
 components = (
@@ -52394,7 +52409,7 @@ transform = "{1, 0, 0, 1, 152, 191}";
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 668, -1}";
+transform = "{1, 0, 0, 1, 638, -1}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -52499,7 +52514,7 @@ width = 834;
 },
 {
 glyphname = "kxaa-ethiopic.etcp";
-lastChange = "2021-01-01 04:17:19 +0000";
+lastChange = "2021-01-03 20:17:31 +0000";
 layers = (
 {
 components = (
@@ -52512,7 +52527,7 @@ transform = "{1, 0, 0, 1, 152, 191}";
 },
 {
 name = _smart.haa;
-transform = "{1, 0, 0, 1, 680, 0}";
+transform = "{1, 0, 0, 1, 620, 0}";
 },
 {
 name = _smart.hat.left;
@@ -52627,7 +52642,7 @@ width = 834;
 },
 {
 glyphname = "kxwa-ethiopic.etcp";
-lastChange = "2021-01-01 04:17:19 +0000";
+lastChange = "2021-01-03 20:17:31 +0000";
 layers = (
 {
 components = (
@@ -52640,7 +52655,7 @@ transform = "{1, 0, 0, 1, 152, 191}";
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 668, -1}";
+transform = "{1, 0, 0, 1, 638, -1}";
 },
 {
 name = _smart.hat.left;
@@ -52659,7 +52674,7 @@ width = 834;
 },
 {
 glyphname = "kxwi-ethiopic.etcp";
-lastChange = "2021-01-01 04:17:20 +0000";
+lastChange = "2021-01-03 20:17:44 +0000";
 layers = (
 {
 components = (
@@ -52672,7 +52687,7 @@ transform = "{1, 0, 0, 1, 152, 191}";
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 668, -1}";
+transform = "{1, 0, 0, 1, 638, -1}";
 },
 {
 name = _smart.hat.left;
@@ -52691,7 +52706,7 @@ width = 834;
 },
 {
 glyphname = "kxwaa-ethiopic.etcp";
-lastChange = "2021-01-01 04:17:19 +0000";
+lastChange = "2021-01-03 20:17:44 +0000";
 layers = (
 {
 components = (
@@ -52704,7 +52719,7 @@ transform = "{1, 0, 0, 1, 152, 191}";
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 668, -1}";
+transform = "{1, 0, 0, 1, 638, -1}";
 },
 {
 name = _smart.hat.left;
@@ -52723,7 +52738,7 @@ width = 834;
 },
 {
 glyphname = "kxwee-ethiopic.etcp";
-lastChange = "2021-01-01 04:17:19 +0000";
+lastChange = "2021-01-03 20:17:44 +0000";
 layers = (
 {
 components = (
@@ -52736,7 +52751,7 @@ transform = "{1, 0, 0, 1, 152, 191}";
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 668, -1}";
+transform = "{1, 0, 0, 1, 638, -1}";
 },
 {
 name = _smart.hat.left;
@@ -52755,7 +52770,7 @@ width = 834;
 },
 {
 glyphname = "kxwe-ethiopic.etcp";
-lastChange = "2021-01-01 04:17:19 +0000";
+lastChange = "2021-01-03 20:17:44 +0000";
 layers = (
 {
 components = (
@@ -52768,7 +52783,7 @@ transform = "{1, 0, 0, 1, 152, 191}";
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 668, -1}";
+transform = "{1, 0, 0, 1, 638, -1}";
 },
 {
 name = _smart.hat.left;
@@ -53250,7 +53265,7 @@ width = 900;
 },
 {
 glyphname = "zwa-ethiopic.etcp";
-lastChange = "2020-12-31 21:00:49 +0000";
+lastChange = "2021-01-03 20:16:34 +0000";
 layers = (
 {
 components = (
@@ -53259,7 +53274,7 @@ name = za.base.cap;
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 760, 1}";
+transform = "{1, 0, 0, 1, 694, 1}";
 }
 );
 layerId = "6873DD1C-7BCD-4DE2-A211-237E2294755D";
@@ -53456,7 +53471,7 @@ width = 900;
 },
 {
 glyphname = "zhwa-ethiopic.etcp";
-lastChange = "2021-01-01 22:33:11 +0000";
+lastChange = "2021-01-03 20:16:32 +0000";
 layers = (
 {
 components = (
@@ -53465,7 +53480,7 @@ name = za.base.cap;
 },
 {
 name = _smart.hwa;
-transform = "{1, 0, 0, 1, 760, 1}";
+transform = "{1, 0, 0, 1, 694, 1}";
 },
 {
 name = _smart.zha;
@@ -58274,7 +58289,7 @@ width = 0;
 },
 {
 glyphname = _smart.yaa;
-lastChange = "2021-01-01 01:41:37 +0000";
+lastChange = "2021-01-03 20:02:56 +0000";
 layers = (
 {
 anchors = (
@@ -58288,12 +58303,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-63 56 OFFCURVE",
-"-68 18 OFFCURVE",
-"-51 2 CURVE",
-"100 2 LINE",
-"99 72 LINE",
-"-55 72 LINE"
+"-31 31 OFFCURVE",
+"-8 0 OFFCURVE",
+"16 1 CURVE",
+"122 108 LINE",
+"72 157 LINE",
+"-37 48 LINE"
 );
 }
 );
@@ -59998,7 +60013,7 @@ width = 761;
 },
 {
 glyphname = ya.base;
-lastChange = "2021-01-02 00:24:47 +0000";
+lastChange = "2021-01-03 20:07:37 +0000";
 layers = (
 {
 anchors = (
@@ -60024,7 +60039,7 @@ position = "{290, 45}";
 },
 {
 name = hi;
-position = "{287, 65}";
+position = "{197, 133}";
 },
 {
 name = ho;
@@ -60064,11 +60079,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"251 -230 LINE",
-"251 -219 LINE",
-"223 -216 OFFCURVE",
-"164 -210 OFFCURVE",
-"164 -188 CURVE SMOOTH",
+"164 -124 LINE",
 "164 98 LINE",
 "262 98 LINE SMOOTH",
 "344 98 OFFCURVE",
@@ -60084,11 +60095,7 @@ nodes = (
 "121 428 LINE",
 "90 483 LINE",
 "83 483 LINE",
-"83 -185 LINE SMOOTH",
-"83 -206 OFFCURVE",
-"40 -217 OFFCURVE",
-"11 -219 CURVE",
-"11 -230 LINE"
+"83 -124 LINE"
 );
 },
 {
@@ -60203,7 +60210,7 @@ rightMetricsKey = i;
 },
 {
 glyphname = aGl.base.cap;
-lastChange = "2021-01-02 00:47:20 +0000";
+lastChange = "2021-01-03 20:13:33 +0000";
 layers = (
 {
 anchors = (
@@ -60241,7 +60248,7 @@ position = "{99, 4}";
 },
 {
 name = hu;
-position = "{621, 473}";
+position = "{633, 473}";
 },
 {
 name = hwa;
@@ -60257,89 +60264,89 @@ paths = (
 {
 closed = 1;
 nodes = (
-"289 669 LINE",
-"289 864 LINE",
-"198 864 LINE",
-"198 669 LINE"
+"307 669 LINE",
+"307 864 LINE",
+"181 864 LINE",
+"181 669 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"356 515 OFFCURVE",
-"380 575 OFFCURVE",
-"391 602 CURVE",
-"399 586 OFFCURVE",
-"419 535 OFFCURVE",
-"437 493 CURVE SMOOTH",
-"456 448 OFFCURVE",
-"494 356 OFFCURVE",
-"528 272 CURVE",
-"538 247 OFFCURVE",
-"548 223 OFFCURVE",
-"557 200 CURVE SMOOTH",
-"566 177 OFFCURVE",
-"576 153 OFFCURVE",
-"585 130 CURVE SMOOTH",
-"599 94 OFFCURVE",
-"606 69 OFFCURVE",
-"606 54 CURVE SMOOTH",
-"606 19 OFFCURVE",
-"559 12 OFFCURVE",
-"523 6 CURVE",
-"523 -4 LINE",
+"388 414 OFFCURVE",
+"480 171 OFFCURVE",
+"493 132 CURVE SMOOTH",
+"504 100 OFFCURVE",
+"514 65 OFFCURVE",
+"514 52 CURVE SMOOTH",
+"514 19 OFFCURVE",
+"462 6 OFFCURVE",
+"444 6 CURVE",
+"444 -4 LINE",
 "736 -4 LINE",
-"736 7 LINE",
-"719 9 OFFCURVE",
-"704 14 OFFCURVE",
-"691 21 CURVE SMOOTH",
-"679 28 OFFCURVE",
-"672 33 OFFCURVE",
-"670 36 CURVE",
-"665 41 OFFCURVE",
-"658 52 OFFCURVE",
-"647 69 CURVE SMOOTH",
-"636 86 OFFCURVE",
-"623 112 OFFCURVE",
-"608 146 CURVE SMOOTH",
-"580 209 OFFCURVE",
-"544 292 OFFCURVE",
-"507 377 CURVE SMOOTH",
-"477 447 OFFCURVE",
-"429 562 OFFCURVE",
-"402 625 CURVE",
-"412 647 LINE",
-"368 666 OFFCURVE",
-"338 705 OFFCURVE",
-"324 730 CURVE",
-"316 730 LINE",
-"284 644 OFFCURVE",
-"231 503 OFFCURVE",
-"203 429 CURVE SMOOTH",
-"169 337 OFFCURVE",
-"138 252 OFFCURVE",
-"106 168 CURVE SMOOTH",
-"99 147 OFFCURVE",
-"92 130 OFFCURVE",
-"85 117 CURVE SMOOTH",
-"79 103 OFFCURVE",
-"72 87 OFFCURVE",
-"64 70 CURVE SMOOTH",
-"53 48 OFFCURVE",
-"21 10 OFFCURVE",
-"-32 8 CURVE",
+"736 8 LINE",
+"683 10 OFFCURVE",
+"651 48 OFFCURVE",
+"640 70 CURVE SMOOTH",
+"632 87 OFFCURVE",
+"625 103 OFFCURVE",
+"619 117 CURVE SMOOTH",
+"612 130 OFFCURVE",
+"605 147 OFFCURVE",
+"598 168 CURVE SMOOTH",
+"566 252 OFFCURVE",
+"535 337 OFFCURVE",
+"501 429 CURVE SMOOTH",
+"473 503 OFFCURVE",
+"420 644 OFFCURVE",
+"388 730 CURVE",
+"380 730 LINE",
+"366 705 OFFCURVE",
+"336 666 OFFCURVE",
+"292 647 CURVE",
+"302 625 LINE",
+"275 562 OFFCURVE",
+"227 447 OFFCURVE",
+"197 377 CURVE SMOOTH",
+"160 292 OFFCURVE",
+"124 209 OFFCURVE",
+"96 146 CURVE SMOOTH",
+"81 112 OFFCURVE",
+"68 86 OFFCURVE",
+"57 69 CURVE SMOOTH",
+"46 52 OFFCURVE",
+"39 41 OFFCURVE",
+"34 36 CURVE",
+"32 33 OFFCURVE",
+"25 28 OFFCURVE",
+"13 21 CURVE SMOOTH",
+"0 14 OFFCURVE",
+"-15 9 OFFCURVE",
+"-32 7 CURVE",
 "-32 -4 LINE",
-"260 -4 LINE",
-"260 6 LINE",
-"242 6 OFFCURVE",
-"190 19 OFFCURVE",
-"190 52 CURVE SMOOTH",
-"190 65 OFFCURVE",
-"200 100 OFFCURVE",
-"211 132 CURVE SMOOTH",
-"224 171 OFFCURVE",
-"316 414 OFFCURVE",
-"338 470 CURVE SMOOTH"
+"181 -4 LINE",
+"181 6 LINE",
+"145 12 OFFCURVE",
+"98 19 OFFCURVE",
+"98 54 CURVE SMOOTH",
+"98 69 OFFCURVE",
+"105 94 OFFCURVE",
+"119 130 CURVE SMOOTH",
+"128 153 OFFCURVE",
+"138 177 OFFCURVE",
+"147 200 CURVE SMOOTH",
+"156 223 OFFCURVE",
+"166 247 OFFCURVE",
+"176 272 CURVE",
+"210 356 OFFCURVE",
+"248 448 OFFCURVE",
+"267 493 CURVE SMOOTH",
+"285 535 OFFCURVE",
+"305 586 OFFCURVE",
+"313 602 CURVE",
+"324 575 OFFCURVE",
+"348 515 OFFCURVE",
+"366 470 CURVE SMOOTH"
 );
 }
 );
@@ -60452,7 +60459,7 @@ width = 808;
 },
 {
 glyphname = ba.base.cap;
-lastChange = "2021-01-01 23:58:36 +0000";
+lastChange = "2021-01-03 20:17:21 +0000";
 layers = (
 {
 anchors = (
@@ -60462,7 +60469,7 @@ position = "{394, -19}";
 },
 {
 name = haa;
-position = "{680, 0}";
+position = "{620, 0}";
 },
 {
 name = hat;
@@ -60498,7 +60505,7 @@ position = "{803, 483}";
 },
 {
 name = hwa;
-position = "{669, 1}";
+position = "{639, 1}";
 },
 {
 name = ka;
@@ -60551,7 +60558,7 @@ nodes = (
 "737 22 OFFCURVE",
 "718 45 CURVE SMOOTH",
 "707 58 OFFCURVE",
-"703 92 OFFCURVE",
+"704 92 OFFCURVE",
 "704 126 CURVE SMOOTH",
 "704 468 LINE SMOOTH",
 "704 554 OFFCURVE",
@@ -61375,7 +61382,7 @@ width = 1047;
 },
 {
 glyphname = na.base.cap;
-lastChange = "2021-01-01 23:04:11 +0000";
+lastChange = "2021-01-03 20:15:45 +0000";
 layers = (
 {
 anchors = (
@@ -61421,19 +61428,11 @@ nodes = (
 "46 878 LINE",
 "46 564 LINE",
 "66 564 LINE",
-"100 649 OFFCURVE",
-"155 679 OFFCURVE",
-"187 690 CURVE SMOOTH",
-"227 704 OFFCURVE",
-"310 705 OFFCURVE",
-"333 705 CURVE SMOOTH",
-"377 705 OFFCURVE",
-"444 693 OFFCURVE",
-"455 678 CURVE SMOOTH",
-"468 660 OFFCURVE",
-"468 617 OFFCURVE",
-"468 574 CURVE SMOOTH",
-"468 98 LINE SMOOTH",
+"114 683 OFFCURVE",
+"205 682 OFFCURVE",
+"333 682 CURVE SMOOTH",
+"469 682 LINE",
+"469 98 LINE SMOOTH",
 "468 71 OFFCURVE",
 "458 52 OFFCURVE",
 "442 39 CURVE SMOOTH",
@@ -61925,7 +61924,7 @@ width = 991;
 },
 {
 glyphname = ta.base.cap;
-lastChange = "2021-01-01 22:25:33 +0000";
+lastChange = "2021-01-03 20:17:39 +0000";
 layers = (
 {
 anchors = (
@@ -61959,7 +61958,7 @@ position = "{553, 479}";
 },
 {
 name = hwa;
-position = "{384, -4}";
+position = "{344, -4}";
 },
 {
 name = neck;
@@ -62454,7 +62453,7 @@ width = 656;
 },
 {
 glyphname = za.base.cap;
-lastChange = "2021-01-01 23:02:50 +0000";
+lastChange = "2021-01-03 20:16:32 +0000";
 layers = (
 {
 anchors = (
@@ -62484,7 +62483,7 @@ position = "{861, 472}";
 },
 {
 name = hwa;
-position = "{761, 3}";
+position = "{695, 3}";
 },
 {
 name = zha;
@@ -62925,7 +62924,7 @@ width = 0;
 {
 export = 0;
 glyphname = _smart.hi;
-lastChange = "2021-01-01 02:02:36 +0000";
+lastChange = "2021-01-03 20:10:21 +0000";
 layers = (
 {
 anchors = (
@@ -62939,23 +62938,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"7 -152 LINE",
-"7 -214 LINE",
-"121 -214 LINE",
-"138 -198 OFFCURVE",
-"133 -168 OFFCURVE",
-"125 -152 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"-4 -215 OFFCURVE",
-"24 -220 OFFCURVE",
-"40 -203 CURVE",
+"38.564 -152 LINE",
 "40 -22 LINE",
 "-20 -23 LINE",
-"-20 -207 LINE"
+"-22 -178 LINE SMOOTH",
+"-22 -207 OFFCURVE",
+"-16 -214 OFFCURVE",
+"27 -214 CURVE SMOOTH",
+"121 -215 LINE",
+"138 -199 OFFCURVE",
+"133 -168 OFFCURVE",
+"125 -152 CURVE"
 );
 }
 );
@@ -63199,7 +63192,7 @@ width = 0;
 {
 export = 0;
 glyphname = _smart.ye;
-lastChange = "2020-12-28 22:51:22 +0000";
+lastChange = "2021-01-03 20:05:46 +0000";
 layers = (
 {
 anchors = (
@@ -63213,12 +63206,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-174 -145 LINE",
-"112 -145 LINE",
-"112 -7 LINE",
-"37 -7 LINE",
-"37 -108 LINE",
-"-175 -108 LINE"
+"-174 -85 LINE",
+"112 -85 LINE",
+"112 32 LINE SMOOTH",
+"112 44 OFFCURVE",
+"103 53 OFFCURVE",
+"91 53 CURVE SMOOTH",
+"37 53 LINE",
+"37 42 LINE",
+"72 20 LINE",
+"72 -48 LINE",
+"-175 -48 LINE"
 );
 }
 );
