@@ -4,6 +4,11 @@ Mulat is a Unicode typeface family that supports all languages that use the Lati
 ## Change Log
 Versioning format: MAJOR.SIGNIFICANTMINORPATCH
 
+[1.002] 01-11-2021 
+
+Change:
+- fix openType feature class Ethcap, EThsmall
+
 [1.001] 01-11-2021 
 
 Added:
