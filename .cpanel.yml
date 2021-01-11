@@ -1,0 +1,9 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/mulazjre/cdn.mulat.org
+    - mkdir -p $DEPLOYPATH/addis
+    - /bin/cp MulatAddis-*.* $DEPLOYPATH/addis
+    - /bin/cp README.md $DEPLOYPATH/addis
+    - zip $DEPLOYPATH/addis/addis.zip $DEPLOYPATH/addis/*
+    - ehco "....finished....."

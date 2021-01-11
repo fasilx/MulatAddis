@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="szo-ethiopic.etcp" format="2">
+  <advance width="991"/>
+  <anchor x="677" y="-1" name="haa"/>
+  <anchor x="409" y="7" name="haa.acute"/>
+  <anchor x="658" y="-58" name="hee"/>
+  <anchor x="687" y="-220" name="hi"/>
+  <anchor x="317" y="-4" name="ho"/>
+  <anchor x="1021" y="489" name="hu"/>
+  <anchor x="656" y="-45" name="hwa"/>
+  <outline>
+    <component base="sa.base.cap"/>
+    <component base="_smart.ho" xOffset="317" yOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.ho</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

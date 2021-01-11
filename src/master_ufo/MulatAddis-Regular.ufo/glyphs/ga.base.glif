@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ga.base" format="2">
+  <advance width="364"/>
+  <anchor x="249" y="31" name="gwa"/>
+  <anchor x="242" y="161" name="haa.acute"/>
+  <anchor x="211" y="659" name="hat"/>
+  <anchor x="125" y="251" name="he"/>
+  <anchor x="247" y="-51" name="hee"/>
+  <anchor x="227" y="0" name="hi"/>
+  <anchor x="67" y="336" name="ho.ring"/>
+  <anchor x="406" y="253" name="hu"/>
+  <anchor x="218" y="490" name="neck"/>
+  <outline>
+    <contour>
+      <point x="119" y="0" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="343" y="10" type="line"/>
+      <point x="312" y="13"/>
+      <point x="287" y="21"/>
+      <point x="287" y="42" type="curve" smooth="yes"/>
+      <point x="287" y="390" type="line" smooth="yes"/>
+      <point x="287" y="436"/>
+      <point x="297" y="481"/>
+      <point x="222" y="481" type="curve" smooth="yes"/>
+      <point x="31" y="481" type="line"/>
+      <point x="31" y="448" type="line"/>
+      <point x="184" y="448" type="line" smooth="yes"/>
+      <point x="196" y="448"/>
+      <point x="205" y="439"/>
+      <point x="205" y="427" type="curve" smooth="yes"/>
+      <point x="205" y="48" type="line" smooth="yes"/>
+      <point x="205" y="20"/>
+      <point x="150" y="15"/>
+      <point x="119" y="10" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
+</glyph>

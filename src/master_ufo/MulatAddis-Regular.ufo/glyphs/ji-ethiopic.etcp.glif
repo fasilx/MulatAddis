@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ji-ethiopic.etcp" format="2">
+  <advance width="648"/>
+  <anchor x="574" y="0" name="haa"/>
+  <anchor x="253" y="2" name="haa.acute"/>
+  <anchor x="495" y="808" name="hat"/>
+  <anchor x="595" y="642" name="he"/>
+  <anchor x="566" y="-42" name="hee"/>
+  <anchor x="535" y="-19" name="hi.cap"/>
+  <anchor x="155" y="2" name="ho"/>
+  <anchor x="687" y="298" name="hu"/>
+  <anchor x="584" y="-1" name="hwa"/>
+  <anchor x="496" y="636" name="neck"/>
+  <anchor x="547" y="726" name="top"/>
+  <anchor x="447" y="167" name="ye"/>
+  <anchor x="306" y="195" name="yu"/>
+  <outline>
+    <component base="da.base.cap"/>
+    <component base="_smart.hi.cap" xOffset="555" yOffset="-19"/>
+    <component base="_smart.neck" xOffset="497" yOffset="166"/>
+    <component base="_smart.hat" xOffset="496" yOffset="154"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+      <key>_smart.hi.cap</key>
+      <integer>1</integer>
+      <key>_smart.neck</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

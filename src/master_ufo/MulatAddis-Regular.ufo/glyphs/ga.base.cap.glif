@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ga.base.cap" format="2">
+  <advance width="720"/>
+  <anchor x="519" y="-48" name="gwa"/>
+  <anchor x="489" y="132" name="haa.acute.cap"/>
+  <anchor x="381" y="872" name="hat"/>
+  <anchor x="388" y="491" name="he"/>
+  <anchor x="507" y="-61" name="hee"/>
+  <anchor x="518" y="-14" name="hi.cap"/>
+  <anchor x="263" y="521" name="ho.ring"/>
+  <anchor x="697" y="473" name="hu"/>
+  <anchor x="368" y="700" name="neck"/>
+  <outline>
+    <contour>
+      <point x="578" y="98" type="curve"/>
+      <point x="578" y="726" type="line"/>
+      <point x="44" y="726" type="line"/>
+      <point x="44" y="519" type="line"/>
+      <point x="56" y="519" type="line"/>
+      <point x="115" y="667"/>
+      <point x="139" y="697"/>
+      <point x="282" y="706" type="curve" smooth="yes"/>
+      <point x="326" y="709"/>
+      <point x="413" y="713"/>
+      <point x="454" y="683" type="curve" smooth="yes"/>
+      <point x="465" y="675"/>
+      <point x="467" y="622"/>
+      <point x="467" y="579" type="curve" smooth="yes"/>
+      <point x="467" y="103" type="line" smooth="yes"/>
+      <point x="467" y="76"/>
+      <point x="457" y="57"/>
+      <point x="441" y="44" type="curve" smooth="yes"/>
+      <point x="420" y="26"/>
+      <point x="388" y="19"/>
+      <point x="360" y="15" type="curve"/>
+      <point x="360" y="5" type="line"/>
+      <point x="679" y="5" type="line"/>
+      <point x="679" y="15" type="line"/>
+      <point x="650" y="18"/>
+      <point x="630" y="23"/>
+      <point x="615" y="33" type="curve" smooth="yes"/>
+      <point x="588" y="52"/>
+      <point x="579" y="76"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

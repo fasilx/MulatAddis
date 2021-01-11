@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ci-ethiopic.etcp" format="2">
+  <advance width="737"/>
+  <outline>
+    <component base="ta.base.cap"/>
+    <component base="_smart.hi.cap" xOffset="384" yOffset="-19"/>
+    <component base="_smart.hat" xOffset="369" yOffset="93"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hat</key>
+      <integer>1</integer>
+      <key>_smart.hi.cap</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

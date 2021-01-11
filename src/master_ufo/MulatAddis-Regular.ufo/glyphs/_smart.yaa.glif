@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.yaa" format="2">
+  <anchor x="1" y="44" name="_yaa"/>
+  <outline>
+    <contour>
+      <point x="-37" y="48" type="line"/>
+      <point x="-31" y="31"/>
+      <point x="-8" y="0"/>
+      <point x="16" y="1" type="curve"/>
+      <point x="122" y="108" type="line"/>
+      <point x="72" y="157" type="line"/>
+    </contour>
+  </outline>
+</glyph>

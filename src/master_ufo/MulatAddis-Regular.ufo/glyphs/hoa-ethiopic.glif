@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hoa-ethiopic" format="2">
+  <advance width="523"/>
+  <unicode hex="1207"/>
+  <anchor x="357" y="-1" name="haa"/>
+  <anchor x="143" y="250" name="he"/>
+  <anchor x="357" y="-54" name="hee"/>
+  <anchor x="357" y="-222" name="hi"/>
+  <anchor x="393" y="553" name="ho.ring"/>
+  <anchor x="541" y="252" name="hu"/>
+  <anchor x="357" y="-28" name="hwa"/>
+  <outline>
+    <component base="ha.base"/>
+    <component base="_smart.hwa" xOffset="356" yOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hwa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

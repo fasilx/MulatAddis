@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackdiamond" format="2">
+  <advance width="556"/>
+  <unicode hex="25C6"/>
+  <note>
+blackdiamond
+</note>
+  <outline>
+    <contour>
+      <point x="278" y="57" type="line"/>
+      <point x="477" y="262" type="line"/>
+      <point x="278" y="466" type="line"/>
+      <point x="80" y="262" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+1 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+3 
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

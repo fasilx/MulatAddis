@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gwe-ethiopic.etcp" format="2">
+  <advance width="720"/>
+  <anchor x="519" y="-48" name="gwa"/>
+  <anchor x="489" y="132" name="haa.acute.cap"/>
+  <anchor x="381" y="872" name="hat"/>
+  <anchor x="388" y="491" name="he"/>
+  <anchor x="507" y="-61" name="hee"/>
+  <anchor x="518" y="-14" name="hi.cap"/>
+  <anchor x="263" y="521" name="ho.ring"/>
+  <anchor x="697" y="473" name="hu"/>
+  <anchor x="368" y="700" name="neck"/>
+  <outline>
+    <component base="ga.base.cap"/>
+    <component base="_smart.gwa" xOffset="527" yOffset="-73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.gwa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

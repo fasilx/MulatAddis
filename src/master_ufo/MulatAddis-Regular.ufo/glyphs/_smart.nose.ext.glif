@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.nose.ext" format="2">
+  <anchor x="10" y="531" name="_nose.ext"/>
+  <outline>
+    <contour>
+      <point x="14" y="536" type="line"/>
+      <point x="14" y="347" type="line"/>
+      <point x="47" y="347" type="line"/>
+      <point x="47" y="536" type="line"/>
+    </contour>
+  </outline>
+</glyph>

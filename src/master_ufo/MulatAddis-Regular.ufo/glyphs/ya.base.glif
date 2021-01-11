@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ya.base" format="2">
+  <advance width="480"/>
+  <anchor x="391" y="-24" name="haa"/>
+  <anchor x="128" y="12" name="haa.acute"/>
+  <anchor x="302" y="658" name="hat"/>
+  <anchor x="14" y="97" name="he"/>
+  <anchor x="267" y="45" name="hee"/>
+  <anchor x="14" y="-17" name="hi"/>
+  <anchor x="89" y="-22" name="ho"/>
+  <anchor x="561" y="250" name="hu"/>
+  <anchor x="390" y="-31" name="hwa"/>
+  <anchor x="303" y="477" name="neck"/>
+  <anchor x="267" y="483" name="top"/>
+  <anchor x="-3" y="-188" name="yaa"/>
+  <anchor x="315" y="-73" name="ye"/>
+  <anchor x="214" y="17" name="yu"/>
+  <outline>
+    <contour>
+      <point x="60" y="-124" type="line"/>
+      <point x="141" y="-124" type="line"/>
+      <point x="141" y="98" type="line"/>
+      <point x="239" y="98" type="line" smooth="yes"/>
+      <point x="321" y="98"/>
+      <point x="460" y="132"/>
+      <point x="460" y="302" type="curve" smooth="yes"/>
+      <point x="460" y="418"/>
+      <point x="353" y="490"/>
+      <point x="264" y="490" type="curve" smooth="yes"/>
+      <point x="206" y="490"/>
+      <point x="166" y="472"/>
+      <point x="135" y="451" type="curve" smooth="yes"/>
+      <point x="101" y="428" type="line"/>
+      <point x="98" y="428" type="line"/>
+      <point x="67" y="483" type="line"/>
+      <point x="60" y="483" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="114" type="line"/>
+      <point x="142" y="287" type="line" smooth="yes"/>
+      <point x="142" y="362"/>
+      <point x="159" y="389"/>
+      <point x="174" y="412" type="curve" smooth="yes"/>
+      <point x="193" y="441"/>
+      <point x="224" y="473"/>
+      <point x="257" y="474" type="curve" smooth="yes"/>
+      <point x="327" y="476"/>
+      <point x="383" y="386"/>
+      <point x="383" y="301" type="curve" smooth="yes"/>
+      <point x="383" y="211"/>
+      <point x="316" y="114"/>
+      <point x="236" y="114" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hu</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>p</string>
+    </dict>
+  </lib>
+</glyph>

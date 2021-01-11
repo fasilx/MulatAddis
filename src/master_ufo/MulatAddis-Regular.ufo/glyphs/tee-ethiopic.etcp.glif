@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tee-ethiopic.etcp" format="2">
+  <advance width="737"/>
+  <outline>
+    <component base="ta.base.cap"/>
+    <component base="_smart.hee" xOffset="372" yOffset="-44"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>
