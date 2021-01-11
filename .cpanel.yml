@@ -7,4 +7,4 @@ deployment:
     - /bin/cp README.md $DEPLOYPATH/addis
     - zip addis.zip $DEPLOYPATH/addis/*
     - mv addis.zip $DEPLOYPATH/addis
-    - echo "....finished....."
+    - echo "....finished........"
