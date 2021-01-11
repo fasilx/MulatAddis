@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twa-ethiopic.etcp" format="2">
+  <advance width="737"/>
+  <outline>
+    <component base="ta.base.cap"/>
+    <component base="_smart.hwa" xOffset="343" yOffset="-36"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hwa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

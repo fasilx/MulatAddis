@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="na.base.cap" format="2">
+  <advance width="716"/>
+  <anchor x="495" y="-40" name="gwa"/>
+  <anchor x="477" y="133" name="haa.acute.cap"/>
+  <anchor x="99" y="886" name="hat"/>
+  <anchor x="-71" y="727" name="he"/>
+  <anchor x="554" y="-55" name="hee"/>
+  <anchor x="505" y="-15" name="hi.cap"/>
+  <anchor x="780" y="521" name="ho.ring"/>
+  <anchor x="681" y="476" name="hu"/>
+  <anchor x="885" y="700" name="neck"/>
+  <anchor x="-93" y="694" name="nose.ext"/>
+  <outline>
+    <contour>
+      <point x="347" y="5" type="line"/>
+      <point x="666" y="5" type="line"/>
+      <point x="666" y="15" type="line"/>
+      <point x="637" y="18"/>
+      <point x="617" y="23"/>
+      <point x="602" y="33" type="curve" smooth="yes"/>
+      <point x="575" y="52"/>
+      <point x="565" y="76"/>
+      <point x="565" y="98" type="curve" smooth="yes"/>
+      <point x="565" y="725" type="line"/>
+      <point x="156" y="725" type="line"/>
+      <point x="156" y="727" type="line"/>
+      <point x="157" y="727" type="line"/>
+      <point x="157" y="884" type="line"/>
+      <point x="46" y="884" type="line"/>
+      <point x="46" y="570" type="line"/>
+      <point x="66" y="570" type="line"/>
+      <point x="105" y="668"/>
+      <point x="204" y="705"/>
+      <point x="308" y="705" type="curve" smooth="yes"/>
+      <point x="382" y="705"/>
+      <point x="420" y="693"/>
+      <point x="441" y="663" type="curve" smooth="yes"/>
+      <point x="448" y="653"/>
+      <point x="454" y="622"/>
+      <point x="454" y="579" type="curve" smooth="yes"/>
+      <point x="454" y="103" type="line" smooth="yes"/>
+      <point x="454" y="76"/>
+      <point x="444" y="57"/>
+      <point x="428" y="44" type="curve" smooth="yes"/>
+      <point x="407" y="26"/>
+      <point x="375" y="19"/>
+      <point x="347" y="15" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>I</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phi-ethiopic.etcp" format="2">
+  <advance width="605"/>
+  <anchor x="527" y="2" name="haa"/>
+  <anchor x="558" y="623" name="he"/>
+  <anchor x="464" y="-60" name="hee"/>
+  <anchor x="477" y="-19" name="hi.cap"/>
+  <anchor x="107" y="7" name="ho"/>
+  <anchor x="644" y="308" name="hu"/>
+  <anchor x="470" y="-29" name="hwa"/>
+  <anchor x="326" y="715" name="neck"/>
+  <outline>
+    <component base="tsa.base.cap"/>
+    <component base="_smart.neck" xOffset="327" yOffset="245"/>
+    <component base="_smart.hi.cap" xOffset="497" yOffset="-19"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hi</key>
+      <integer>1</integer>
+      <key>_smart.hi.cap</key>
+      <integer>1</integer>
+      <key>_smart.neck</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

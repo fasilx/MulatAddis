@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.ra" format="2">
+  <anchor x="0" y="0" name="_ra"/>
+  <outline>
+    <contour>
+      <point x="140" y="151" type="curve" smooth="yes"/>
+      <point x="-31" y="151" type="line"/>
+      <point x="-31" y="30" type="line"/>
+      <point x="19" y="29" type="line"/>
+      <point x="19" y="103" type="line"/>
+      <point x="138" y="103" type="line" smooth="yes"/>
+      <point x="173" y="103"/>
+      <point x="170" y="151"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ru-ethiopic" format="2">
+  <advance width="482"/>
+  <unicode hex="1229"/>
+  <anchor x="300" y="14" name="fa"/>
+  <anchor x="262" y="2" name="haa"/>
+  <anchor x="312" y="42" name="haa.acute"/>
+  <anchor x="149" y="520" name="hat.left"/>
+  <anchor x="172" y="-183" name="he"/>
+  <anchor x="348" y="-19" name="he.acute"/>
+  <anchor x="356" y="-42" name="hee"/>
+  <anchor x="334" y="70" name="ra"/>
+  <anchor x="447" y="66" name="ri"/>
+  <outline>
+    <component base="ra.base"/>
+    <component base="_smart.haa" xOffset="262" yOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.haa</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

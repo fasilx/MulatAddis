@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterequal" format="2">
+  <advance width="667"/>
+  <unicode hex="2265"/>
+  <note>
+greaterequal
+</note>
+  <outline>
+    <contour>
+      <point x="61" y="106" type="line"/>
+      <point x="606" y="379" type="line"/>
+      <point x="61" y="651" type="line"/>
+      <point x="61" y="590" type="line"/>
+      <point x="492" y="379" type="line"/>
+      <point x="61" y="162" type="line"/>
+    </contour>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="606" y="0" type="line"/>
+      <point x="606" y="53" type="line"/>
+      <point x="61" y="53" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+2 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+8 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+8 8 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 3 values pushed */
+0 8 2 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+1 8 2 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+4 8 2 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 2 values pushed */
+6 3 
+MIRP[11100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

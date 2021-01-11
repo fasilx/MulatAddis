@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.hi.cap" format="2">
+  <anchor x="-20" y="0" name="_hi.cap"/>
+  <anchor x="48.95" y="-288.1" name="top"/>
+  <outline>
+    <contour>
+      <point x="37" y="126" type="line"/>
+      <point x="37" y="19" type="line"/>
+      <point x="179" y="19" type="line"/>
+      <point x="179" y="126" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pee-ethiopic.etcp" format="2">
+  <advance width="737"/>
+  <anchor x="467" y="-9" name="haa"/>
+  <anchor x="335" y="129" name="haa.acute.cap"/>
+  <anchor x="131" y="31" name="he"/>
+  <anchor x="428" y="-65" name="hee"/>
+  <anchor x="351" y="-19" name="hi.cap"/>
+  <anchor x="551" y="471" name="hu"/>
+  <anchor x="330" y="-27" name="hwa"/>
+  <anchor x="97" y="-204" name="top"/>
+  <outline>
+    <component base="pa.base.cap"/>
+    <component base="_smart.hee" xOffset="428" yOffset="-65"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>_smart.hee</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

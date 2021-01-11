@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_smart.neck.cap" format="2">
+  <anchor x="-1" y="470" name="_neck.cap"/>
+  <outline>
+    <contour>
+      <point x="-20" y="520" type="line"/>
+      <point x="94" y="521" type="line"/>
+      <point x="94" y="679" type="line" smooth="yes"/>
+      <point x="94" y="693"/>
+      <point x="-20" y="696"/>
+      <point x="-20" y="674" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
