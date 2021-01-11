@@ -7,7 +7,7 @@ Versioning format: MAJOR.SIGNIFICANTMINORPATCH
 [1.003] 01-11-2021 
 
 Change:
-- cpanel yml to zip to location folder
+- cpanel yml to zip to location folder and mv zip file
 
 [1.002] 01-11-2021 
 
