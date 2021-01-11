@@ -6,4 +6,5 @@ deployment:
     - /bin/cp MulatAddis-*.* $DEPLOYPATH/addis
     - /bin/cp README.md $DEPLOYPATH/addis
     - zip addis.zip $DEPLOYPATH/addis/*
-    - ehco "....finished....."
+    - /bin/mv addis.zip $DEPLOYPATH/addis
+    - echo "....finished....."
