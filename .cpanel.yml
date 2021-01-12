@@ -2,9 +2,11 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/mulazjre/cdn.mulat.org
-    - mkdir -p $DEPLOYPATH/addis
-    - /bin/cp MulatAddis-*.* $DEPLOYPATH/addis
-    - /bin/cp README.md $DEPLOYPATH/addis
-    - zip addis.zip $DEPLOYPATH/addis/*
-    - mv addis.zip $DEPLOYPATH/addis
-    - echo "....finished........"
+    - export NAME=addis
+    - export FILE_NAMES=MulatAddis-*.*
+    - mkdir -p $DEPLOYPATH/$NAME
+    - /bin/cp $FILENAMES $DEPLOYPATH/$NAME
+    - /bin/cp README.md $DEPLOYPATH/$NAME
+    - zip $NAME.zip $DEPLOYPATH/$NAME/*
+    - mv -mj $NAME.zip $DEPLOYPATH/$NAME
+    - echo "....finished, addis........"
