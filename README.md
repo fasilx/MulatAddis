@@ -7,6 +7,12 @@ Versioning format: MAJOR.SIGNIFICANTMINORPATCH
 [1.003] 01-11-2021 
 
 Change:
+- READ.me file to update version
+- cpanel file to zip correctly
+
+[1.003] 01-11-2021 
+
+Change:
 - cpanel yml to zip to location folder and mv zip file
 
 [1.002] 01-11-2021 
