@@ -6,6 +6,6 @@ deployment:
     - mkdir -p $DEPLOYPATH/$NAME
     - /bin/cp MulatAddis-*.* $DEPLOYPATH/$NAME
     - /bin/cp README.md $DEPLOYPATH/$NAME
-    - zip addis.zip $DEPLOYPATH/$NAME/*
-    - mv -mj addis.zip $DEPLOYPATH/$NAME
+    - zip -mj addis.zip $DEPLOYPATH/$NAME/*
+    - mv addis.zip $DEPLOYPATH/$NAME
     - echo "....finished, addis........"
