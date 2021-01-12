@@ -7,7 +7,10 @@ DisplayStrings = (
 "/_smart.haa.acute",
 "/_smart.haa.acute",
 "/_smart.nose.ext",
-"/_smart.haa.acute.cap"
+"/_smart.haa.acute.cap",
+"/paa-ethiopic/_smart.haa.acute/me-ethiopic/sze-ethiopic/qaa-ethiopic/qhaa-ethiopic/taa-ethiopic/caa-ethiopic/xaa-ethiopic/wo-ethiopic/oPharyngeal-ethiopic/yaa-ethiopic/gaa-ethiopic/ggaa-ethiopic/tzo-ethiopic/fu-ethiopic/rya-ethiopic/me-ethiopic.etcp/sze-ethiopic.etcp/qaa-ethiopic.etcp/qhaa-ethiopic.etcp/oPharyngeal-ethiopic.etcp/yaa-ethiopic.etcp/ggaa-ethiopic.etcp/tzo-ethiopic.etcp/fu-ethiopic.etcp",
+"/_smart.haa.acute/paa-ethiopic",
+"/paa-ethiopic/me-ethiopic/sze-ethiopic/qaa-ethiopic/qhaa-ethiopic/taa-ethiopic/caa-ethiopic/xaa-ethiopic/wo-ethiopic/oPharyngeal-ethiopic/yaa-ethiopic/gaa-ethiopic/ggaa-ethiopic/tzo-ethiopic/fu-ethiopic/rya-ethiopic/me-ethiopic.etcp/sze-ethiopic.etcp/qaa-ethiopic.etcp/qhaa-ethiopic.etcp/oPharyngeal-ethiopic.etcp/yaa-ethiopic.etcp/ggaa-ethiopic.etcp/tzo-ethiopic.etcp/fu-ethiopic.etcp"
 );
 classes = (
 {
@@ -63623,7 +63626,7 @@ width = 0;
 {
 export = 0;
 glyphname = _smart.haa.acute;
-lastChange = "2021-01-06 23:11:57 +0000";
+lastChange = "2021-01-12 06:06:01 +0000";
 layers = (
 {
 anchors = (
@@ -63638,16 +63641,16 @@ paths = (
 closed = 1;
 nodes = (
 "13 -161 LINE",
-"13 -40 LINE",
-"-37 -39 LINE",
-"-37 -113 LINE",
-"-147 -113 LINE SMOOTH",
-"-155 -113 OFFCURVE",
-"-162 -108 OFFCURVE",
-"-165 -100 CURVE SMOOTH",
-"-175 -73 LINE",
-"-182 -73 LINE",
-"-182 -161 LINE"
+"13 -63 LINE",
+"-42 -62 LINE",
+"-42 -136 LINE",
+"-147 -186 LINE SMOOTH",
+"-156 -190 OFFCURVE",
+"-162 -188 OFFCURVE",
+"-165 -180 CURVE SMOOTH",
+"-175 -153 LINE",
+"-182 -153 LINE",
+"-182 -241 LINE"
 );
 }
 );
