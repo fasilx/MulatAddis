@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yaa-ethiopic.etcp" format="2">
   <advance width="636"/>
-  <anchor x="168" y="129" name="haa.acute.cap"/>
+  <anchor x="218" y="-4" name="haa.acute"/>
   <anchor x="268" y="497" name="he"/>
   <anchor x="344" y="250" name="hee"/>
   <anchor x="160" y="167" name="hi"/>
@@ -10,13 +10,11 @@
   <anchor x="392" y="165" name="yu"/>
   <outline>
     <component base="ya.base.cap"/>
-    <component base="_smart.haa.acute.cap" xOffset="182" yOffset="161"/>
+    <component base="_smart.haa.acute" xOffset="218" yOffset="-4"/>
   </outline>
   <lib>
     <dict>
       <key>_smart.haa.acute</key>
-      <integer>1</integer>
-      <key>_smart.haa.acute.cap</key>
       <integer>1</integer>
     </dict>
   </lib>

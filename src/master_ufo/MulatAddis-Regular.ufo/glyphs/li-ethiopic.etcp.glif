@@ -12,7 +12,7 @@
   <anchor x="348" y="726" name="top"/>
   <outline>
     <component base="la.base.cap"/>
-    <component base="_smart.hi.cap" xOffset="587" yOffset="-22"/>
+    <component base="_smart.hi.cap" xOffset="601" yOffset="-10"/>
   </outline>
   <lib>
     <dict>

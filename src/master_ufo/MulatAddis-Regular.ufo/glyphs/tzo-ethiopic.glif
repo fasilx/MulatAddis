@@ -4,7 +4,7 @@
   <unicode hex="1346"/>
   <anchor x="284" y="214" name="belt"/>
   <anchor x="375" y="-2" name="haa"/>
-  <anchor x="288" y="-21" name="haa.acute"/>
+  <anchor x="288" y="-1" name="haa.acute"/>
   <anchor x="287" y="-60" name="hee"/>
   <anchor x="357" y="-236" name="hi"/>
   <anchor x="280" y="-3" name="ho"/>
@@ -14,7 +14,7 @@
   <outline>
     <component base="aPh.base"/>
     <component base="_smart.belt" xOffset="277" yOffset="214"/>
-    <component base="_smart.haa.acute" xOffset="288" yOffset="-21"/>
+    <component base="_smart.haa.acute" xOffset="288" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

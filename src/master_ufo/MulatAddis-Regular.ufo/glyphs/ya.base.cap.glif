@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ya.base.cap" format="2">
   <advance width="636"/>
-  <anchor x="168" y="129" name="haa.acute.cap"/>
+  <anchor x="218" y="-4" name="haa.acute"/>
   <anchor x="268" y="497" name="he"/>
   <anchor x="344" y="250" name="hee"/>
   <anchor x="160" y="167" name="hi"/>

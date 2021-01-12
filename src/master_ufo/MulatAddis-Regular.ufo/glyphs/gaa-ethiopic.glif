@@ -3,7 +3,7 @@
   <advance width="364"/>
   <unicode hex="130B"/>
   <anchor x="249" y="31" name="gwa"/>
-  <anchor x="242" y="161" name="haa.acute"/>
+  <anchor x="242" y="11" name="haa.acute"/>
   <anchor x="211" y="659" name="hat"/>
   <anchor x="125" y="251" name="he"/>
   <anchor x="247" y="-51" name="hee"/>
@@ -13,7 +13,7 @@
   <anchor x="218" y="490" name="neck"/>
   <outline>
     <component base="ga.base"/>
-    <component base="_smart.haa.acute" xOffset="242" yOffset="161"/>
+    <component base="_smart.haa.acute" xOffset="242" yOffset="11"/>
   </outline>
   <lib>
     <dict>

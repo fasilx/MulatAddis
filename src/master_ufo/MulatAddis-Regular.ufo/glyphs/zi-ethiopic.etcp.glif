@@ -11,7 +11,7 @@
   <anchor x="451" y="776" name="zha"/>
   <outline>
     <component base="za.base.cap"/>
-    <component base="_smart.hi.cap" xOffset="717" yOffset="-19"/>
+    <component base="_smart.hi.cap" xOffset="731" yOffset="-7"/>
   </outline>
   <lib>
     <dict>

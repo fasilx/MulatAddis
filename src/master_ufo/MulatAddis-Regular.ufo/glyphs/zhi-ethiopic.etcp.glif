@@ -12,7 +12,7 @@
   <outline>
     <component base="za.base.cap"/>
     <component base="_smart.zha" xOffset="452" yOffset="652"/>
-    <component base="_smart.hi.cap" xOffset="717" yOffset="-19"/>
+    <component base="_smart.hi.cap" xOffset="731" yOffset="-7"/>
   </outline>
   <lib>
     <dict>

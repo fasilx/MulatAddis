@@ -2,7 +2,7 @@
 <glyph name="ge-ethiopic.etcp" format="2">
   <advance width="720"/>
   <anchor x="519" y="-48" name="gwa"/>
-  <anchor x="489" y="132" name="haa.acute.cap"/>
+  <anchor x="479" y="-8" name="haa.acute"/>
   <anchor x="381" y="872" name="hat"/>
   <anchor x="388" y="491" name="he"/>
   <anchor x="507" y="-61" name="hee"/>

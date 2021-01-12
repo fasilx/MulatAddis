@@ -16,7 +16,7 @@
   <anchor x="306" y="195" name="yu"/>
   <outline>
     <component base="da.base.cap"/>
-    <component base="_smart.hi.cap" xOffset="555" yOffset="-19"/>
+    <component base="_smart.hi.cap" xOffset="569" yOffset="-7"/>
   </outline>
   <lib>
     <dict>

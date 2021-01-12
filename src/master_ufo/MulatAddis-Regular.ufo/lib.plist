@@ -21,55 +21,6 @@
         <string>wdth</string>
       </dict>
     </array>
-    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <array>
-      <string>/ha.base/hi-ethiopic</string>
-      <string>/_smart.ka/kxi-ethiopic</string>
-      <string>/ya.base</string>
-      <string>/ga.base/ge-ethiopic</string>
-      <string>/raa-ethiopic</string>
-      <string>/ra.base.cap/raa-ethiopic.etcp</string>
-      <string>/raa-ethiopic.etcp</string>
-      <string>/ge-ethiopic</string>
-      <string>/hha.base/the-ethiopic</string>
-      <string>/the-ethiopic</string>
-      <string>/hha.base/che-ethiopic</string>
-      <string>/da.base/di-ethiopic</string>
-      <string>/da.base/di-ethiopic/ddi-ethiopic/ji-ethiopic</string>
-      <string>/taa-ethiopic/me-ethiopic/sze-ethiopic/qaa-ethiopic/qhaa-ethiopic/caa-ethiopic/ke-ethiopic/xaa-ethiopic/ki-ethiopic/ki-ethiopic/ki-ethiopic/taa-ethiopic/wo-ethiopic/oPharyngeal-ethiopic/ki-ethiopic/yaa-ethiopic/gaa-ethiopic/ggaa-ethiopic/tzo-ethiopic/fu-ethiopic/paa-ethiopic/rya-ethiopic/me-ethiopic.etcp/sze-ethiopic.etcp/qaa-ethiopic.etcp/qhaa-ethiopic.etcp/oPharyngeal-ethiopic.etcp/ggaa-ethiopic.etcp/tzo-ethiopic.etcp/fu-ethiopic.etcp</string>
-      <string>/_smart.haa.acute/taa-ethiopic</string>
-      <string>/ta.base/taa-ethiopic</string>
-      <string>/ma.base.cap/ma-ethiopic.etcp</string>
-      <string>/ma.base.cap/mi-ethiopic.etcp</string>
-      <string>/ma.base.cap/mo-ethiopic.etcp</string>
-      <string>/ma.base.cap/mu-ethiopic.etcp</string>
-      <string>/na.base.cap/ma-ethiopic.etcp</string>
-      <string>/ma.base.cap/ma-ethiopic.etcp</string>
-      <string>/ma.base.cap/mi-ethiopic.etcp</string>
-      <string>/ma.base.cap/me-ethiopic.etcp</string>
-      <string>/ma.base.cap/mu-ethiopic.etcp</string>
-      <string>/ma.base.cap/ma-ethiopic.etcp</string>
-      <string>/ma.base.cap/ma-ethiopic.etcp</string>
-      <string>/_smart.eGl/eGlottal-ethiopic.etcp</string>
-      <string>/aGl.base.cap/eGlottal-ethiopic.etcp</string>
-      <string>/aglka.base/eGlottal-ethiopic</string>
-      <string>/_smart.eGl/eGlottal-ethiopic</string>
-      <string>/_smart.aGl/eGlottal-ethiopic</string>
-      <string>/_smart.aGl/eGlottal-ethiopic</string>
-      <string>/_smart.eGl/_smart.eGl/eGlottal-ethiopic</string>
-      <string>/she-ethiopic</string>
-      <string>/aPh.base/tzi-ethiopic</string>
-      <string>/ma.base.cap/ma-ethiopic.etcp</string>
-      <string>/ba.base.cap/sha-ethiopic.etcp</string>
-      <string>/ye-ethiopic.etcp/_smart.ye/ye-ethiopic</string>
-      <string>/ye-ethiopic.etcp/_smart.ye/ye-ethiopic</string>
-      <string>/wa.base.cap/qo-ethiopic.etcp</string>
-      <string>/ga.base</string>
-      <string>/ga.base.cap</string>
-      <string>/ra.base.cap</string>
-      <string>/re.base.cap</string>
-      <string>/aglka.base/eGlottal-ethiopic</string>
-    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>

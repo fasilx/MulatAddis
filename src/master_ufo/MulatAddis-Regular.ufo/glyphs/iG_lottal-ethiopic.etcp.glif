@@ -15,7 +15,7 @@
   <anchor x="348" y="726" name="top"/>
   <outline>
     <component base="aGl.base.cap"/>
-    <component base="_smart.hi.cap" xOffset="587" yOffset="-23"/>
+    <component base="_smart.hi.cap" xOffset="601" yOffset="-11"/>
   </outline>
   <lib>
     <dict>

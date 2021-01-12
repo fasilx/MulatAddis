@@ -13,7 +13,7 @@
   <anchor x="-93" y="694" name="nose.ext"/>
   <outline>
     <component base="na.base.cap"/>
-    <component base="_smart.hi.cap" xOffset="525" yOffset="-15"/>
+    <component base="_smart.hi.cap" xOffset="539" yOffset="-3"/>
   </outline>
   <lib>
     <dict>

@@ -15,7 +15,7 @@
   <outline>
     <component base="hha.base.cap"/>
     <component base="_smart.hha.neck.cap" xOffset="500" yOffset="148"/>
-    <component base="_smart.hi.cap" xOffset="808" yOffset="-20"/>
+    <component base="_smart.hi.cap" xOffset="822" yOffset="-8"/>
   </outline>
   <lib>
     <dict>
