@@ -4,31 +4,10 @@ Mulat is a Unicode typeface family that supports all languages that use the Lati
 ## Change Log
 Versioning format: MAJOR.SIGNIFICANTMINORPATCH
 
-[1.003] 01-11-2021 
-
-Change:
-- READ.me file to update version
-- cpanel file to zip correctly
-
-[1.003] 01-11-2021 
-
-Change:
-- cpanel yml to zip to location folder and mv zip file
-
-[1.002] 01-11-2021 
-
-Change:
-- fix openType feature class Ethcap, EThsmall
-
 [1.001] 01-11-2021 
 
-Added:
-- .cpanel.yml to for deployment on cPanel
-- README.md
-
 Change:
-- change እ in small letter style
-- bump version
+- Export woff files
 
 ## Contribute
 To contribute to the project see https://github.com/fasilx/ and open a pull request.
