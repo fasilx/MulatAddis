@@ -21,6 +21,19 @@
         <string>wdth</string>
       </dict>
     </array>
+    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
+    <array>
+      <string>/taa-ethiopic</string>
+      <string>/da.base/ddee-ethiopic</string>
+      <string>/ta.base/ta-ethiopic</string>
+      <string>/_smart.haa.acute</string>
+      <string>/_smart.haa.acute</string>
+      <string>/_smart.nose.ext</string>
+      <string>/_smart.haa.acute.cap</string>
+      <string>/paa-ethiopic/_smart.haa.acute/me-ethiopic/sze-ethiopic/qaa-ethiopic/qhaa-ethiopic/taa-ethiopic/caa-ethiopic/xaa-ethiopic/wo-ethiopic/oPharyngeal-ethiopic/yaa-ethiopic/gaa-ethiopic/ggaa-ethiopic/tzo-ethiopic/fu-ethiopic/rya-ethiopic/me-ethiopic.etcp/sze-ethiopic.etcp/qaa-ethiopic.etcp/qhaa-ethiopic.etcp/oPharyngeal-ethiopic.etcp/yaa-ethiopic.etcp/ggaa-ethiopic.etcp/tzo-ethiopic.etcp/fu-ethiopic.etcp</string>
+      <string>/_smart.haa.acute/paa-ethiopic</string>
+      <string>/paa-ethiopic/me-ethiopic/sze-ethiopic/qaa-ethiopic/qhaa-ethiopic/taa-ethiopic/caa-ethiopic/xaa-ethiopic/wo-ethiopic/oPharyngeal-ethiopic/yaa-ethiopic/gaa-ethiopic/ggaa-ethiopic/tzo-ethiopic/fu-ethiopic/rya-ethiopic/me-ethiopic.etcp/sze-ethiopic.etcp/qaa-ethiopic.etcp/qhaa-ethiopic.etcp/oPharyngeal-ethiopic.etcp/yaa-ethiopic.etcp/ggaa-ethiopic.etcp/tzo-ethiopic.etcp/fu-ethiopic.etcp</string>
+    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
