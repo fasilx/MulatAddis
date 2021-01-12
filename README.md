@@ -13,6 +13,7 @@ Change:
 
 Change:
 - Change haa.acute(example for taa-ethiopics )
+- Changes hi as well, made it circuar like a dotaccent
 
 ## Contribute
 To contribute to the project see https://github.com/fasilx/ and open a pull request.
