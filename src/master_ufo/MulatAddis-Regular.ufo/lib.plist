@@ -24,15 +24,31 @@
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
     <array>
       <string>/taa-ethiopic</string>
-      <string>/da.base/ddee-ethiopic</string>
-      <string>/ta.base/ta-ethiopic</string>
-      <string>/_smart.haa.acute</string>
-      <string>/_smart.haa.acute</string>
-      <string>/_smart.nose.ext</string>
-      <string>/_smart.haa.acute.cap</string>
-      <string>/paa-ethiopic/_smart.haa.acute/me-ethiopic/sze-ethiopic/qaa-ethiopic/qhaa-ethiopic/taa-ethiopic/caa-ethiopic/xaa-ethiopic/wo-ethiopic/oPharyngeal-ethiopic/yaa-ethiopic/gaa-ethiopic/ggaa-ethiopic/tzo-ethiopic/fu-ethiopic/rya-ethiopic/me-ethiopic.etcp/sze-ethiopic.etcp/qaa-ethiopic.etcp/qhaa-ethiopic.etcp/oPharyngeal-ethiopic.etcp/yaa-ethiopic.etcp/ggaa-ethiopic.etcp/tzo-ethiopic.etcp/fu-ethiopic.etcp</string>
-      <string>/_smart.haa.acute/paa-ethiopic</string>
-      <string>/paa-ethiopic/me-ethiopic/sze-ethiopic/qaa-ethiopic/qhaa-ethiopic/taa-ethiopic/caa-ethiopic/xaa-ethiopic/wo-ethiopic/oPharyngeal-ethiopic/yaa-ethiopic/gaa-ethiopic/ggaa-ethiopic/tzo-ethiopic/fu-ethiopic/rya-ethiopic/me-ethiopic.etcp/sze-ethiopic.etcp/qaa-ethiopic.etcp/qhaa-ethiopic.etcp/oPharyngeal-ethiopic.etcp/yaa-ethiopic.etcp/ggaa-ethiopic.etcp/tzo-ethiopic.etcp/fu-ethiopic.etcp</string>
+      <string>/aglka.base/ko-ethiopic</string>
+      <string>/_smart.aGl/eGlottal-ethiopic</string>
+      <string>/aglka.base/ko-ethiopic</string>
+      <string>/zhe-ethiopic/hha.base/hhe-ethiopic/se-ethiopic/ba.base/she-ethiopic/qe-ethiopic/qhe-ethiopic/te-ethiopic/ce-ethiopic/_smart.he.acute/ze-ethiopic/hhe-ethiopic.etcp/ba.base.cap/se-ethiopic.etcp/she-ethiopic.etcp/qe-ethiopic.etcp/wa.base.cap/qhe-ethiopic.etcp/te-ethiopic.etcp/ce-ethiopic.etcp/ze-ethiopic.etcp/zhe-ethiopic.etcp</string>
+      <string>/ma.base.cap/ma-ethiopic.etcp</string>
+      <string>/ma.base.cap/ma-ethiopic.etcp</string>
+      <string>/ma.base.cap/ma-ethiopic.etcp</string>
+      <string>/ma.base.cap/ma-ethiopic.etcp</string>
+      <string>/me-ethiopic.etcp</string>
+      <string>/ma.base.cap/mu-ethiopic.etcp</string>
+      <string>/ma.base.cap/mu-ethiopic.etcp</string>
+      <string>/ma.base.cap/mu-ethiopic.etcp</string>
+      <string>/ma.base.cap/mu-ethiopic.etcp</string>
+      <string>/re.base/fo-ethiopic/fa-ethiopic/fu-ethiopic/fi-ethiopic/faa-ethiopic/fee-ethiopic/fe-ethiopic/fwa-ethiopic/fa-ethiopic.etcp/fu-ethiopic.etcp/fi-ethiopic.etcp/faa-ethiopic.etcp/fee-ethiopic.etcp/fe-ethiopic.etcp/fo-ethiopic.etcp/fwa-ethiopic.etcp</string>
+      <string>/ma.base/mi-ethiopic</string>
+      <string>/ma.base/mi-ethiopic</string>
+      <string>r/xwi-ethiopic</string>
+      <string>r/ni-ethiopic</string>
+      <string>/na.base/ni-ethiopic</string>
+      <string>/ga.base.cap/ggi-ethiopic.etcp</string>
+      <string>/ga.base.cap/ggi-ethiopic.etcp</string>
+      <string>/ga.base.cap/ggi-ethiopic.etcp</string>
+      <string>/ga.base.cap/gi-ethiopic.etcp</string>
+      <string>/ga.base.cap/ggi-ethiopic.etcp</string>
+      <string>/iGlottal-ethiopic.etcp</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>

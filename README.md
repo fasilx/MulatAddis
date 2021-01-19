@@ -15,6 +15,12 @@ Change:
 - Change haa.acute(example for taa-ethiopics )
 - Changes hi as well, made it circuar like a dotaccent
 
+[1.003] 01-17-2021
+Changes:
+- Change ka-ethc and itsbase
+- added *i-ethiopcs kerning, and put them in hu class in features
+- cpanel.yml remote -m switch for zip command
+
 ## Contribute
 To contribute to the project see https://github.com/fasilx/ and open a pull request.
 

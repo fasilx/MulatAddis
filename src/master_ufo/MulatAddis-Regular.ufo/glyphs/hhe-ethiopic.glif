@@ -5,7 +5,7 @@
   <anchor x="395" y="52" name="cha"/>
   <anchor x="644" y="2" name="haa"/>
   <anchor x="470" y="4" name="haa.acute"/>
-  <anchor x="404" y="595" name="he.acute"/>
+  <anchor x="384" y="495" name="he.acute"/>
   <anchor x="655" y="-65" name="hee"/>
   <anchor x="637" y="-7" name="hi"/>
   <anchor x="91" y="2" name="ho"/>
@@ -15,7 +15,7 @@
   <anchor x="372" y="-220" name="top"/>
   <outline>
     <component base="hha.base"/>
-    <component base="_smart.he.acute" xOffset="405" yOffset="125"/>
+    <component base="_smart.he.acute" xOffset="385" yOffset="25"/>
     <component base="_smart.neck" xOffset="426" yOffset="17"/>
   </outline>
   <lib>

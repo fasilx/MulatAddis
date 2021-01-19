@@ -8,7 +8,7 @@
   <anchor x="294" y="661" name="hat"/>
   <anchor x="65" y="655" name="hat.left"/>
   <anchor x="166" y="252" name="he"/>
-  <anchor x="244" y="555" name="he.acute"/>
+  <anchor x="234" y="505" name="he.acute"/>
   <anchor x="385" y="-59" name="hee"/>
   <anchor x="367" y="3" name="hi"/>
   <anchor x="116" y="4" name="ho"/>
@@ -19,7 +19,7 @@
   <outline>
     <component base="ba.base"/>
     <component base="_smart.neck" xOffset="268" yOffset="13"/>
-    <component base="_smart.he.acute" xOffset="245" yOffset="85"/>
+    <component base="_smart.he.acute" xOffset="235" yOffset="35"/>
     <component base="_smart.hat" xOffset="295" yOffset="7"/>
   </outline>
   <lib>

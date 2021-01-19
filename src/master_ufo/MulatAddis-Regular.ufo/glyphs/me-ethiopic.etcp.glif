@@ -12,7 +12,6 @@
   <outline>
     <component base="ma.base.cap"/>
     <component base="_smart.haa.acute" xOffset="430" yOffset="-25"/>
-    <component base="_smart.ho" xOffset="416" yOffset="32"/>
   </outline>
   <lib>
     <dict>

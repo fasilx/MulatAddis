@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="re.base" format="2">
   <advance width="450"/>
-  <anchor x="287" y="-27" name="fa"/>
+  <anchor x="227" y="43" name="fa"/>
   <anchor x="248" y="2" name="haa"/>
   <anchor x="212" y="585" name="hat"/>
   <anchor x="89" y="250" name="he"/>

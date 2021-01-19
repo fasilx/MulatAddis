@@ -2,7 +2,7 @@
 <glyph name="fe-ethiopic" format="2">
   <advance width="450"/>
   <unicode hex="134D"/>
-  <anchor x="287" y="-27" name="fa"/>
+  <anchor x="227" y="43" name="fa"/>
   <anchor x="248" y="2" name="haa"/>
   <anchor x="212" y="585" name="hat"/>
   <anchor x="89" y="250" name="he"/>
@@ -11,7 +11,7 @@
   <outline>
     <component base="re.base"/>
     <component base="_smart.haa" xOffset="248" yOffset="2"/>
-    <component base="_smart.fa" xOffset="292" yOffset="-25"/>
+    <component base="_smart.fa" xOffset="232" yOffset="45"/>
   </outline>
   <lib>
     <dict>

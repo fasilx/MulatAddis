@@ -6,13 +6,14 @@
   <anchor x="381" y="872" name="hat"/>
   <anchor x="388" y="491" name="he"/>
   <anchor x="507" y="-61" name="hee"/>
-  <anchor x="518" y="-14" name="hi.cap"/>
+  <anchor x="498" y="29" name="hi"/>
+  <anchor x="501" y="-19" name="hi.cap"/>
   <anchor x="263" y="521" name="ho.ring"/>
   <anchor x="697" y="473" name="hu"/>
   <anchor x="368" y="700" name="neck"/>
   <outline>
     <component base="ga.base.cap"/>
-    <component base="_smart.hi.cap" xOffset="552" yOffset="-2"/>
+    <component base="_smart.hi.cap" xOffset="535" yOffset="-7"/>
   </outline>
   <lib>
     <dict>
