@@ -4,13 +4,13 @@
   <unicode hex="130F"/>
   <anchor x="249" y="31" name="gwa"/>
   <anchor x="242" y="11" name="haa.acute"/>
-  <anchor x="211" y="659" name="hat"/>
+  <anchor x="171" y="622" name="hat"/>
   <anchor x="125" y="251" name="he"/>
   <anchor x="247" y="-51" name="hee"/>
   <anchor x="227" y="0" name="hi"/>
   <anchor x="67" y="336" name="ho.ring"/>
   <anchor x="406" y="253" name="hu"/>
-  <anchor x="218" y="490" name="neck"/>
+  <anchor x="158" y="450" name="neck"/>
   <outline>
     <component base="ga.base"/>
     <component base="_smart.gwa" xOffset="257" yOffset="6"/>
